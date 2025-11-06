@@ -1,6 +1,8 @@
 // データの読み込みと処理
 let data = {};
 let visibleWards = new Set();
+let yearExtent = { min: Infinity, max: -Infinity };
+let selectedYearRange = null;
 
 // 自治体のカテゴリー分類
 const wards23 = ['千代田区', '中央区', '港区', '新宿区', '渋谷区', '目黒区', '大田区', '品川区', '世田谷区', '中野区', '杉並区', '豊島区', '北区', '荒川区', '台東区', '墨田区', '江東区', '江戸川区', '葛飾区', '板橋区', '練馬区', '足立区', '文京区'];
@@ -36,6 +38,22 @@ d3.json('china_population_by_ward.json').then(rawData => {
     data = Object.fromEntries(
         Object.entries(rawData).filter(([ward]) => !excludedWards.has(ward))
     );
+
+    yearExtent = { min: Infinity, max: -Infinity };
+    Object.values(data).forEach(records => {
+        records.forEach(({ year }) => {
+            if (year < yearExtent.min) yearExtent.min = year;
+            if (year > yearExtent.max) yearExtent.max = year;
+        });
+    });
+
+    if (!Number.isFinite(yearExtent.min) || !Number.isFinite(yearExtent.max)) {
+        console.error('年データの取得に失敗しました。');
+        return;
+    }
+
+    selectedYearRange = [yearExtent.min, yearExtent.max];
+    initSlider();
 
     // 色の割り当て
     let colorIndex = 0;
@@ -122,16 +140,6 @@ function initChart() {
     d3.select('#downloadSVG').on('click', downloadSVG);
     d3.select('#downloadPNG').on('click', downloadPNG);
 
-    // 統計情報の更新
-    const maxYear = Math.max(...Object.values(data).flat().map(d => d.year));
-    const totalPop = Object.values(data)
-        .map(ward => ward.find(d => d.year === maxYear))
-        .filter(d => d)
-        .reduce((sum, d) => sum + d.population, 0);
-
-    d3.select('#totalPopulation').text(totalPop.toLocaleString() + '人');
-    d3.select('#wardCount').text(visibleWards.size.toString());
-
     updateChart();
 }
 
@@ -156,30 +164,39 @@ function updateLegendAndChart() {
 }
 
 function updateChart() {
-    // 統計情報の更新
-    d3.select('#wardCount').text(visibleWards.size.toString());
+    const chartSelection = d3.select('#chart');
+    chartSelection.html('');
 
-    // チャートの削除と再作成
-    d3.select('#chart').html('');
-
-    if (visibleWards.size === 0) {
-        d3.select('#chart').html('<p style="text-align: center; color: #999; padding: 40px;">表示する自治体を選択してください</p>');
+    if (!selectedYearRange) {
+        chartSelection.html('<p style="text-align: center; color: #999; padding: 40px;">年範囲を初期化しています...</p>');
         return;
     }
 
-    drawChart();
+    if (visibleWards.size === 0) {
+        updateStats([]);
+        chartSelection.html('<p style="text-align: center; color: #999; padding: 40px;">表示する自治体を選択してください</p>');
+        return;
+    }
+
+    const filteredData = getVisibleDataWithinRange();
+    updateStats(filteredData);
+
+    if (filteredData.length === 0) {
+        chartSelection.html('<p style="text-align: center; color: #999; padding: 40px;">選択した期間にはデータがありません</p>');
+        return;
+    }
+
+    drawChart(filteredData);
 }
 
 
-function drawChart() {
+function drawChart(filteredData) {
     // マージンの設定
     const margin = { top: 20, right: 180, bottom: 40, left: 60 };
     const chartContainer = document.querySelector('.chart-container');
     const containerWidth = chartContainer ? chartContainer.clientWidth : 600;
     const width = containerWidth - margin.left - margin.right;
-    const height = Math.max(800, visibleWards.size * 16) * (2 / 3);
-
-    console.log('containerWidth:', containerWidth, 'width:', width, 'height:', height);
+    const height = Math.max(800, filteredData.length * 16) * (2 / 3);
 
     // SVGの作成
     const svg = d3.select('#chart')
@@ -194,22 +211,18 @@ function drawChart() {
         .attr('transform', `translate(${margin.left},${margin.top})`);
 
     // データの準備
-    const visibleData = Array.from(visibleWards).map(ward => ({
-        ward: ward,
-        values: data[ward]
-    }));
+    const [startYear, endYear] = selectedYearRange;
 
     // スケールの設定
-    const xMin = d3.min(visibleData, d => d3.min(d.values, v => v.year));
-    const xMax = d3.max(visibleData, d => d3.max(d.values, v => v.year));
-    const yMax = d3.max(visibleData, d => d3.max(d.values, v => v.population));
+    const yMax = d3.max(filteredData, d => d3.max(d.values, v => v.population));
+    const effectiveYMax = yMax ? yMax * 1.1 : 1;
 
     const xScale = d3.scaleLinear()
-        .domain([xMin, xMax])
+        .domain([startYear, endYear])
         .range([0, width]);
 
     const yScale = d3.scaleLinear()
-        .domain([0, yMax * 1.1])
+        .domain([0, effectiveYMax])
         .range([height, 0]);
 
     // グリッドラインの追加
@@ -255,7 +268,7 @@ function drawChart() {
 
     // 折れ線の描画
     const lines = g.selectAll('.line-group')
-        .data(visibleData)
+        .data(filteredData)
         .enter()
         .append('g')
         .attr('class', 'line-group');
@@ -295,6 +308,80 @@ function drawChart() {
         .style('font-weight', 'bold')
         .style('font-size', '11px')
         .text(d => d.ward);
+}
+
+function getVisibleDataWithinRange() {
+    const [startYear, endYear] = selectedYearRange;
+    return Array.from(visibleWards)
+        .map(ward => {
+            const records = data[ward] || [];
+            const filteredValues = records
+                .filter(d => d.year >= startYear && d.year <= endYear)
+                .sort((a, b) => a.year - b.year);
+            return { ward, values: filteredValues };
+        })
+        .filter(entry => entry.values.length > 0);
+}
+
+function updateStats(filteredData) {
+    const [startYear, endYear] = selectedYearRange;
+
+    const totals = Object.values(data)
+        .map(records => records.find(d => d.year === endYear))
+        .filter(Boolean);
+    const totalPop = totals.reduce((sum, d) => sum + d.population, 0);
+
+    d3.select('#totalPopulation').text(
+        totals.length ? `${totalPop.toLocaleString()}人` : '-'
+    );
+    d3.select('#wardCount').text(filteredData.length.toString());
+    d3.select('#period').text(`${startYear}年-${endYear}年`);
+}
+
+function updateYearRangeLabel(range) {
+    const label = document.getElementById('yearRangeLabel');
+    if (label) {
+        label.textContent = `${range[0]}年 - ${range[1]}年`;
+    }
+}
+
+function initSlider() {
+    const sliderElement = document.getElementById('yearSlider');
+    if (!sliderElement || typeof noUiSlider === 'undefined' || typeof wNumb === 'undefined') {
+        return;
+    }
+
+    if (sliderElement.noUiSlider) {
+        sliderElement.noUiSlider.destroy();
+    }
+
+    const format = wNumb({ decimals: 0 });
+    noUiSlider.create(sliderElement, {
+        start: selectedYearRange,
+        connect: true,
+        step: 1,
+        range: {
+            min: yearExtent.min,
+            max: yearExtent.max
+        },
+        format,
+        tooltips: [format, format]
+    });
+
+    updateYearRangeLabel(selectedYearRange);
+
+    sliderElement.noUiSlider.on('update', (values) => {
+        const start = Number(values[0]);
+        const end = Number(values[1]);
+        updateYearRangeLabel([start, end]);
+    });
+
+    sliderElement.noUiSlider.on('change', (values) => {
+        const start = Math.round(Number(values[0]));
+        const end = Math.round(Number(values[1]));
+        selectedYearRange = [start, end];
+        updateChart();
+    });
 }
 
 function collectCssText() {

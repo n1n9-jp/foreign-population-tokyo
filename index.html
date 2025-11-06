@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>東京都における中国人人口の推移</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.css">
     <link rel="stylesheet" href="styles.css">
     <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
@@ -16,6 +17,12 @@
             <div class="control-group">
                 <button id="downloadSVG">SVGダウンロード</button>
                 <button id="downloadPNG">PNGダウンロード</button>
+            </div>
+            <div class="control-group range-control">
+                <div class="range-label">
+                    表示年範囲: <span id="yearRangeLabel">-</span>
+                </div>
+                <div id="yearSlider"></div>
             </div>
         </div>
 
@@ -60,6 +67,8 @@
         </div>
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/nouislider@15.7.1/dist/nouislider.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/wnumb@1.2.0/wNumb.min.js"></script>
     <script src="script.js"></script>
 </body>
 </html>
