@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>東京都における中国人人口の推移</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 東京都における中国人人口の推移</h1>
+        <p class="subtitle">自治体別折れ線グラフ (1979-2025年)</p>
+
+        <div class="controls">
+            <div class="control-group">
+                <button id="downloadSVG">SVGダウンロード</button>
+                <button id="downloadPNG">PNGダウンロード</button>
+            </div>
+        </div>
+
+        <div class="chart-wrapper">
+            <div class="chart-container">
+                <div id="chart"></div>
+            </div>
+            <div class="sidebar">
+                <div class="legend-note">※ 凡例をクリックして表示/非表示を切り替え</div>
+                <div class="sidebar-content">
+                    <div class="legend-container">
+                        <div class="legend" id="legend"></div>
+                    </div>
+                    <div class="buttons-container">
+                        <button id="selectAll">すべて表示</button>
+                        <button id="clearAll">すべて非表示</button>
+                        <button id="select23">23区</button>
+                        <button id="selectTama">多摩地域</button>
+                        <button id="selectIslands">島嶼部</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-label">最新の全体人口</div>
+                <div class="stat-value" id="totalPopulation">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">表示中の自治体数</div>
+                <div class="stat-value" id="wardCount">-</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-label">データ期間</div>
+                <div class="stat-value" id="period">1979-2025</div>
+            </div>
+        </div>
+
+        <div class="info-box">
+            <strong>⚠️ 注記:</strong> 平成28年（2016年）までは「中国」統計に台湾を含みます。平成29年（2017年）以降は台湾は別扱いとなっています。
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,1153 @@
+{
+  "metadata": {
+    "title": "東京都における中国人人口の推移",
+    "period": "1979-2025年",
+    "source": "東京都総務局統計部 外国人統計",
+    "note": "平成28年までは「中国」に台湾を含む。平成29年以降は台湾は別扱い",
+    "last_updated": "2025年"
+  },
+  "timeseries": {
+    "total": [
+      {
+        "year": 1979,
+        "population": 13611
+      },
+      {
+        "year": 1980,
+        "population": 14212
+      },
+      {
+        "year": 1981,
+        "population": 14979
+      },
+      {
+        "year": 1982,
+        "population": 16024
+      },
+      {
+        "year": 1983,
+        "population": 17446
+      },
+      {
+        "year": 1984,
+        "population": 19464
+      },
+      {
+        "year": 1985,
+        "population": 22287
+      },
+      {
+        "year": 1986,
+        "population": 25889
+      },
+      {
+        "year": 1987,
+        "population": 30894
+      },
+      {
+        "year": 1988,
+        "population": 38693
+      },
+      {
+        "year": 1989,
+        "population": 61928
+      },
+      {
+        "year": 1990,
+        "population": 61860
+      },
+      {
+        "year": 1991,
+        "population": 61813
+      },
+      {
+        "year": 1992,
+        "population": 68327
+      },
+      {
+        "year": 1993,
+        "population": 77079
+      },
+      {
+        "year": 1994,
+        "population": 79386
+      },
+      {
+        "year": 1995,
+        "population": 77693
+      },
+      {
+        "year": 1996,
+        "population": 75042
+      },
+      {
+        "year": 1997,
+        "population": 74572
+      },
+      {
+        "year": 1998,
+        "population": 75736
+      },
+      {
+        "year": 1999,
+        "population": 79309
+      },
+      {
+        "year": 2000,
+        "population": 84921
+      },
+      {
+        "year": 2001,
+        "population": 94045
+      },
+      {
+        "year": 2002,
+        "population": 104940
+      },
+      {
+        "year": 2003,
+        "population": 114233
+      },
+      {
+        "year": 2004,
+        "population": 122381
+      },
+      {
+        "year": 2005,
+        "population": 120331
+      },
+      {
+        "year": 2006,
+        "population": 123611
+      },
+      {
+        "year": 2007,
+        "population": 126498
+      },
+      {
+        "year": 2008,
+        "population": 134493
+      },
+      {
+        "year": 2009,
+        "population": 145320
+      },
+      {
+        "year": 2010,
+        "population": 157070
+      },
+      {
+        "year": 2011,
+        "population": 164672
+      },
+      {
+        "year": 2012,
+        "population": 164199
+      },
+      {
+        "year": 2013,
+        "population": 161169
+      },
+      {
+        "year": 2014,
+        "population": 162809
+      },
+      {
+        "year": 2015,
+        "population": 172769
+      },
+      {
+        "year": 2016,
+        "population": 185982
+      },
+      {
+        "year": 2017,
+        "population": 185883
+      },
+      {
+        "year": 2018,
+        "population": 199949
+      },
+      {
+        "year": 2019,
+        "population": 213767
+      },
+      {
+        "year": 2020,
+        "population": 231196
+      },
+      {
+        "year": 2021,
+        "population": 219636
+      },
+      {
+        "year": 2022,
+        "population": 203348
+      },
+      {
+        "year": 2023,
+        "population": 230294
+      },
+      {
+        "year": 2024,
+        "population": 257198
+      },
+      {
+        "year": 2025,
+        "population": 280819
+      }
+    ],
+    "ku": [
+      {
+        "year": 1979,
+        "population": 12104
+      },
+      {
+        "year": 1980,
+        "population": 12633
+      },
+      {
+        "year": 1981,
+        "population": 13404
+      },
+      {
+        "year": 1982,
+        "population": 14351
+      },
+      {
+        "year": 1983,
+        "population": 15655
+      },
+      {
+        "year": 1984,
+        "population": 17567
+      },
+      {
+        "year": 1985,
+        "population": 20190
+      },
+      {
+        "year": 1986,
+        "population": 23574
+      },
+      {
+        "year": 1987,
+        "population": 28205
+      },
+      {
+        "year": 1988,
+        "population": 35427
+      },
+      {
+        "year": 1989,
+        "population": 57225
+      },
+      {
+        "year": 1990,
+        "population": 56637
+      },
+      {
+        "year": 1991,
+        "population": 55992
+      },
+      {
+        "year": 1992,
+        "population": 61363
+      },
+      {
+        "year": 1993,
+        "population": 68883
+      },
+      {
+        "year": 1994,
+        "population": 70413
+      },
+      {
+        "year": 1995,
+        "population": 68348
+      },
+      {
+        "year": 1996,
+        "population": 65432
+      },
+      {
+        "year": 1997,
+        "population": 64461
+      },
+      {
+        "year": 1998,
+        "population": 65057
+      },
+      {
+        "year": 1999,
+        "population": 68016
+      },
+      {
+        "year": 2000,
+        "population": 72517
+      },
+      {
+        "year": 2001,
+        "population": 80394
+      },
+      {
+        "year": 2002,
+        "population": 89109
+      },
+      {
+        "year": 2003,
+        "population": 96939
+      },
+      {
+        "year": 2004,
+        "population": 103651
+      },
+      {
+        "year": 2005,
+        "population": 100960
+      },
+      {
+        "year": 2006,
+        "population": 103455
+      },
+      {
+        "year": 2007,
+        "population": 105506
+      },
+      {
+        "year": 2008,
+        "population": 112087
+      },
+      {
+        "year": 2009,
+        "population": 121516
+      },
+      {
+        "year": 2010,
+        "population": 132353
+      },
+      {
+        "year": 2011,
+        "population": 139332
+      },
+      {
+        "year": 2012,
+        "population": 139328
+      },
+      {
+        "year": 2013,
+        "population": 137297
+      },
+      {
+        "year": 2014,
+        "population": 138642
+      },
+      {
+        "year": 2015,
+        "population": 147518
+      },
+      {
+        "year": 2016,
+        "population": 159561
+      },
+      {
+        "year": 2017,
+        "population": 159806
+      },
+      {
+        "year": 2018,
+        "population": 171698
+      },
+      {
+        "year": 2019,
+        "population": 183613
+      },
+      {
+        "year": 2020,
+        "population": 198579
+      },
+      {
+        "year": 2021,
+        "population": 188005
+      },
+      {
+        "year": 2022,
+        "population": 173187
+      },
+      {
+        "year": 2023,
+        "population": 198689
+      },
+      {
+        "year": 2024,
+        "population": 223675
+      },
+      {
+        "year": 2025,
+        "population": 245215
+      }
+    ],
+    "shi": [
+      {
+        "year": 1979,
+        "population": 1492
+      },
+      {
+        "year": 1980,
+        "population": 1562
+      },
+      {
+        "year": 1981,
+        "population": 1560
+      },
+      {
+        "year": 1982,
+        "population": 1657
+      },
+      {
+        "year": 1983,
+        "population": 1774
+      },
+      {
+        "year": 1984,
+        "population": 1879
+      },
+      {
+        "year": 1985,
+        "population": 2067
+      },
+      {
+        "year": 1986,
+        "population": 2289
+      },
+      {
+        "year": 1987,
+        "population": 2653
+      },
+      {
+        "year": 1988,
+        "population": 3229
+      },
+      {
+        "year": 1989,
+        "population": 4647
+      },
+      {
+        "year": 1990,
+        "population": 5156
+      },
+      {
+        "year": 1991,
+        "population": 5748
+      },
+      {
+        "year": 1992,
+        "population": 6881
+      },
+      {
+        "year": 1993,
+        "population": 8145
+      },
+      {
+        "year": 1994,
+        "population": 8926
+      },
+      {
+        "year": 1995,
+        "population": 9293
+      },
+      {
+        "year": 1996,
+        "population": 9552
+      },
+      {
+        "year": 1997,
+        "population": 10052
+      },
+      {
+        "year": 1998,
+        "population": 10627
+      },
+      {
+        "year": 1999,
+        "population": 11230
+      },
+      {
+        "year": 2000,
+        "population": 12343
+      },
+      {
+        "year": 2001,
+        "population": 13576
+      },
+      {
+        "year": 2002,
+        "population": 15759
+      },
+      {
+        "year": 2003,
+        "population": 17211
+      },
+      {
+        "year": 2004,
+        "population": 18644
+      },
+      {
+        "year": 2005,
+        "population": 19276
+      },
+      {
+        "year": 2006,
+        "population": 20046
+      },
+      {
+        "year": 2007,
+        "population": 20861
+      },
+      {
+        "year": 2008,
+        "population": 22272
+      },
+      {
+        "year": 2009,
+        "population": 23662
+      },
+      {
+        "year": 2010,
+        "population": 24577
+      },
+      {
+        "year": 2011,
+        "population": 25200
+      },
+      {
+        "year": 2012,
+        "population": 24740
+      },
+      {
+        "year": 2013,
+        "population": 23751
+      },
+      {
+        "year": 2014,
+        "population": 24045
+      },
+      {
+        "year": 2015,
+        "population": 25108
+      },
+      {
+        "year": 2016,
+        "population": 26280
+      },
+      {
+        "year": 2017,
+        "population": 25936
+      },
+      {
+        "year": 2018,
+        "population": 28085
+      },
+      {
+        "year": 2019,
+        "population": 30012
+      },
+      {
+        "year": 2020,
+        "population": 32471
+      },
+      {
+        "year": 2021,
+        "population": 31485
+      },
+      {
+        "year": 2022,
+        "population": 30022
+      },
+      {
+        "year": 2023,
+        "population": 31477
+      },
+      {
+        "year": 2024,
+        "population": 33389
+      },
+      {
+        "year": 2025,
+        "population": 35451
+      }
+    ]
+  },
+  "by_ward": {
+    "新宿区": [
+      {
+        "year": 2017,
+        "population": 13236
+      },
+      {
+        "year": 2018,
+        "population": 13727
+      },
+      {
+        "year": 2019,
+        "population": 14153
+      },
+      {
+        "year": 2020,
+        "population": 15120
+      },
+      {
+        "year": 2021,
+        "population": 13615
+      },
+      {
+        "year": 2022,
+        "population": 11468
+      },
+      {
+        "year": 2023,
+        "population": 15414
+      },
+      {
+        "year": 2024,
+        "population": 17240
+      },
+      {
+        "year": 2025,
+        "population": 18623
+      }
+    ],
+    "文京区": [
+      {
+        "year": 2017,
+        "population": 3645
+      },
+      {
+        "year": 2018,
+        "population": 4123
+      },
+      {
+        "year": 2019,
+        "population": 4646
+      },
+      {
+        "year": 2020,
+        "population": 5211
+      },
+      {
+        "year": 2021,
+        "population": 4851
+      },
+      {
+        "year": 2022,
+        "population": 4792
+      },
+      {
+        "year": 2023,
+        "population": 6498
+      },
+      {
+        "year": 2024,
+        "population": 7639
+      },
+      {
+        "year": 2025,
+        "population": 8666
+      }
+    ],
+    "台東区": [
+      {
+        "year": 2017,
+        "population": 6198
+      },
+      {
+        "year": 2018,
+        "population": 6174
+      },
+      {
+        "year": 2019,
+        "population": 6489
+      },
+      {
+        "year": 2020,
+        "population": 7029
+      },
+      {
+        "year": 2021,
+        "population": 6741
+      },
+      {
+        "year": 2022,
+        "population": 6128
+      },
+      {
+        "year": 2023,
+        "population": 7443
+      },
+      {
+        "year": 2024,
+        "population": 9031
+      },
+      {
+        "year": 2025,
+        "population": 9882
+      }
+    ],
+    "墨田区": [
+      {
+        "year": 2017,
+        "population": 5271
+      },
+      {
+        "year": 2018,
+        "population": 5508
+      },
+      {
+        "year": 2019,
+        "population": 5874
+      },
+      {
+        "year": 2020,
+        "population": 6115
+      },
+      {
+        "year": 2021,
+        "population": 5901
+      },
+      {
+        "year": 2022,
+        "population": 5538
+      },
+      {
+        "year": 2023,
+        "population": 6699
+      },
+      {
+        "year": 2024,
+        "population": 7848
+      },
+      {
+        "year": 2025,
+        "population": 8543
+      }
+    ],
+    "江東区": [
+      {
+        "year": 2017,
+        "population": 12796
+      },
+      {
+        "year": 2018,
+        "population": 13823
+      },
+      {
+        "year": 2019,
+        "population": 14783
+      },
+      {
+        "year": 2020,
+        "population": 15657
+      },
+      {
+        "year": 2021,
+        "population": 15258
+      },
+      {
+        "year": 2022,
+        "population": 14584
+      },
+      {
+        "year": 2023,
+        "population": 16297
+      },
+      {
+        "year": 2024,
+        "population": 18639
+      },
+      {
+        "year": 2025,
+        "population": 19953
+      }
+    ],
+    "大田区": [
+      {
+        "year": 2017,
+        "population": 7485
+      },
+      {
+        "year": 2018,
+        "population": 7896
+      },
+      {
+        "year": 2019,
+        "population": 8467
+      },
+      {
+        "year": 2020,
+        "population": 8895
+      },
+      {
+        "year": 2021,
+        "population": 8376
+      },
+      {
+        "year": 2022,
+        "population": 7889
+      },
+      {
+        "year": 2023,
+        "population": 8233
+      },
+      {
+        "year": 2024,
+        "population": 9122
+      },
+      {
+        "year": 2025,
+        "population": 9986
+      }
+    ],
+    "中野区": [
+      {
+        "year": 2017,
+        "population": 5528
+      },
+      {
+        "year": 2018,
+        "population": 6308
+      },
+      {
+        "year": 2019,
+        "population": 6786
+      },
+      {
+        "year": 2020,
+        "population": 7445
+      },
+      {
+        "year": 2021,
+        "population": 6815
+      },
+      {
+        "year": 2022,
+        "population": 5539
+      },
+      {
+        "year": 2023,
+        "population": 6819
+      },
+      {
+        "year": 2024,
+        "population": 7927
+      },
+      {
+        "year": 2025,
+        "population": 8832
+      }
+    ],
+    "豊島区": [
+      {
+        "year": 2017,
+        "population": 11948
+      },
+      {
+        "year": 2018,
+        "population": 12469
+      },
+      {
+        "year": 2019,
+        "population": 12955
+      },
+      {
+        "year": 2020,
+        "population": 13525
+      },
+      {
+        "year": 2021,
+        "population": 12414
+      },
+      {
+        "year": 2022,
+        "population": 10972
+      },
+      {
+        "year": 2023,
+        "population": 13811
+      },
+      {
+        "year": 2024,
+        "population": 15296
+      },
+      {
+        "year": 2025,
+        "population": 16360
+      }
+    ],
+    "北区": [
+      {
+        "year": 2017,
+        "population": 9520
+      },
+      {
+        "year": 2018,
+        "population": 9888
+      },
+      {
+        "year": 2019,
+        "population": 10759
+      },
+      {
+        "year": 2020,
+        "population": 11706
+      },
+      {
+        "year": 2021,
+        "population": 11087
+      },
+      {
+        "year": 2022,
+        "population": 10510
+      },
+      {
+        "year": 2023,
+        "population": 11997
+      },
+      {
+        "year": 2024,
+        "population": 13053
+      },
+      {
+        "year": 2025,
+        "population": 14205
+      }
+    ],
+    "荒川区": [
+      {
+        "year": 2017,
+        "population": 7147
+      },
+      {
+        "year": 2018,
+        "population": 7066
+      },
+      {
+        "year": 2019,
+        "population": 7284
+      },
+      {
+        "year": 2020,
+        "population": 7848
+      },
+      {
+        "year": 2021,
+        "population": 7466
+      },
+      {
+        "year": 2022,
+        "population": 7083
+      },
+      {
+        "year": 2023,
+        "population": 7866
+      },
+      {
+        "year": 2024,
+        "population": 8475
+      },
+      {
+        "year": 2025,
+        "population": 9064
+      }
+    ],
+    "板橋区": [
+      {
+        "year": 2017,
+        "population": 12157
+      },
+      {
+        "year": 2018,
+        "population": 13253
+      },
+      {
+        "year": 2019,
+        "population": 14177
+      },
+      {
+        "year": 2020,
+        "population": 15367
+      },
+      {
+        "year": 2021,
+        "population": 14436
+      },
+      {
+        "year": 2022,
+        "population": 13188
+      },
+      {
+        "year": 2023,
+        "population": 14382
+      },
+      {
+        "year": 2024,
+        "population": 15780
+      },
+      {
+        "year": 2025,
+        "population": 17224
+      }
+    ],
+    "練馬区": [
+      {
+        "year": 2017,
+        "population": 6564
+      },
+      {
+        "year": 2018,
+        "population": 7427
+      },
+      {
+        "year": 2019,
+        "population": 8177
+      },
+      {
+        "year": 2020,
+        "population": 9448
+      },
+      {
+        "year": 2021,
+        "population": 8822
+      },
+      {
+        "year": 2022,
+        "population": 7849
+      },
+      {
+        "year": 2023,
+        "population": 8594
+      },
+      {
+        "year": 2024,
+        "population": 9407
+      },
+      {
+        "year": 2025,
+        "population": 10386
+      }
+    ],
+    "足立区": [
+      {
+        "year": 2017,
+        "population": 11364
+      },
+      {
+        "year": 2018,
+        "population": 12766
+      },
+      {
+        "year": 2019,
+        "population": 14001
+      },
+      {
+        "year": 2020,
+        "population": 15310
+      },
+      {
+        "year": 2021,
+        "population": 15060
+      },
+      {
+        "year": 2022,
+        "population": 14561
+      },
+      {
+        "year": 2023,
+        "population": 15404
+      },
+      {
+        "year": 2024,
+        "population": 16790
+      },
+      {
+        "year": 2025,
+        "population": 18421
+      }
+    ],
+    "葛飾区": [
+      {
+        "year": 2017,
+        "population": 9649
+      },
+      {
+        "year": 2018,
+        "population": 10621
+      },
+      {
+        "year": 2019,
+        "population": 11322
+      },
+      {
+        "year": 2020,
+        "population": 12058
+      },
+      {
+        "year": 2021,
+        "population": 11671
+      },
+      {
+        "year": 2022,
+        "population": 10970
+      },
+      {
+        "year": 2023,
+        "population": 11643
+      },
+      {
+        "year": 2024,
+        "population": 12658
+      },
+      {
+        "year": 2025,
+        "population": 13581
+      }
+    ],
+    "江戸川区": [
+      {
+        "year": 2017,
+        "population": 13735
+      },
+      {
+        "year": 2018,
+        "population": 14607
+      },
+      {
+        "year": 2019,
+        "population": 15424
+      },
+      {
+        "year": 2020,
+        "population": 16533
+      },
+      {
+        "year": 2021,
+        "population": 15596
+      },
+      {
+        "year": 2022,
+        "population": 14325
+      },
+      {
+        "year": 2023,
+        "population": 15046
+      },
+      {
+        "year": 2024,
+        "population": 16348
+      },
+      {
+        "year": 2025,
+        "population": 17340
+      }
+    ]
+  }
+}

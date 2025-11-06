@@ -1,0 +1,11212 @@
+{
+  "江東区": [
+    {
+      "year": 1979,
+      "population": 268
+    },
+    {
+      "year": 1980,
+      "population": 326
+    },
+    {
+      "year": 1981,
+      "population": 406
+    },
+    {
+      "year": 1982,
+      "population": 498
+    },
+    {
+      "year": 1983,
+      "population": 589
+    },
+    {
+      "year": 1984,
+      "population": 722
+    },
+    {
+      "year": 1985,
+      "population": 809
+    },
+    {
+      "year": 1986,
+      "population": 918
+    },
+    {
+      "year": 1987,
+      "population": 1095
+    },
+    {
+      "year": 1988,
+      "population": 1229
+    },
+    {
+      "year": 1989,
+      "population": 1536
+    },
+    {
+      "year": 1990,
+      "population": 1748
+    },
+    {
+      "year": 1991,
+      "population": 1903
+    },
+    {
+      "year": 1992,
+      "population": 2074
+    },
+    {
+      "year": 1993,
+      "population": 2285
+    },
+    {
+      "year": 1994,
+      "population": 2380
+    },
+    {
+      "year": 1995,
+      "population": 2327
+    },
+    {
+      "year": 1996,
+      "population": 2272
+    },
+    {
+      "year": 1997,
+      "population": 2428
+    },
+    {
+      "year": 1998,
+      "population": 2660
+    },
+    {
+      "year": 1999,
+      "population": 2999
+    },
+    {
+      "year": 2000,
+      "population": 3387
+    },
+    {
+      "year": 2001,
+      "population": 3936
+    },
+    {
+      "year": 2002,
+      "population": 4845
+    },
+    {
+      "year": 2003,
+      "population": 5433
+    },
+    {
+      "year": 2004,
+      "population": 5940
+    },
+    {
+      "year": 2005,
+      "population": 6213
+    },
+    {
+      "year": 2006,
+      "population": 6636
+    },
+    {
+      "year": 2007,
+      "population": 7270
+    },
+    {
+      "year": 2008,
+      "population": 7958
+    },
+    {
+      "year": 2009,
+      "population": 8587
+    },
+    {
+      "year": 2010,
+      "population": 9666
+    },
+    {
+      "year": 2011,
+      "population": 10428
+    },
+    {
+      "year": 2012,
+      "population": 10525
+    },
+    {
+      "year": 2013,
+      "population": 10602
+    },
+    {
+      "year": 2014,
+      "population": 10840
+    },
+    {
+      "year": 2015,
+      "population": 11680
+    },
+    {
+      "year": 2016,
+      "population": 12548
+    },
+    {
+      "year": 2017,
+      "population": 12796
+    },
+    {
+      "year": 2018,
+      "population": 13823
+    },
+    {
+      "year": 2019,
+      "population": 14783
+    },
+    {
+      "year": 2020,
+      "population": 15657
+    },
+    {
+      "year": 2021,
+      "population": 15258
+    },
+    {
+      "year": 2022,
+      "population": 14584
+    },
+    {
+      "year": 2023,
+      "population": 16297
+    },
+    {
+      "year": 2024,
+      "population": 18639
+    },
+    {
+      "year": 2025,
+      "population": 19953
+    }
+  ],
+  "新宿区": [
+    {
+      "year": 1979,
+      "population": 1099
+    },
+    {
+      "year": 1980,
+      "population": 1272
+    },
+    {
+      "year": 1981,
+      "population": 1468
+    },
+    {
+      "year": 1982,
+      "population": 1652
+    },
+    {
+      "year": 1983,
+      "population": 1848
+    },
+    {
+      "year": 1984,
+      "population": 2220
+    },
+    {
+      "year": 1985,
+      "population": 2730
+    },
+    {
+      "year": 1986,
+      "population": 3479
+    },
+    {
+      "year": 1987,
+      "population": 4466
+    },
+    {
+      "year": 1988,
+      "population": 5520
+    },
+    {
+      "year": 1989,
+      "population": 7104
+    },
+    {
+      "year": 1990,
+      "population": 6312
+    },
+    {
+      "year": 1991,
+      "population": 5932
+    },
+    {
+      "year": 1992,
+      "population": 6239
+    },
+    {
+      "year": 1993,
+      "population": 6829
+    },
+    {
+      "year": 1994,
+      "population": 6916
+    },
+    {
+      "year": 1995,
+      "population": 6583
+    },
+    {
+      "year": 1996,
+      "population": 6137
+    },
+    {
+      "year": 1997,
+      "population": 6022
+    },
+    {
+      "year": 1998,
+      "population": 6000
+    },
+    {
+      "year": 1999,
+      "population": 6301
+    },
+    {
+      "year": 2000,
+      "population": 6764
+    },
+    {
+      "year": 2001,
+      "population": 7607
+    },
+    {
+      "year": 2002,
+      "population": 8311
+    },
+    {
+      "year": 2003,
+      "population": 9157
+    },
+    {
+      "year": 2004,
+      "population": 9762
+    },
+    {
+      "year": 2005,
+      "population": 9289
+    },
+    {
+      "year": 2006,
+      "population": 9410
+    },
+    {
+      "year": 2007,
+      "population": 9268
+    },
+    {
+      "year": 2008,
+      "population": 9285
+    },
+    {
+      "year": 2009,
+      "population": 10037
+    },
+    {
+      "year": 2010,
+      "population": 11314
+    },
+    {
+      "year": 2011,
+      "population": 12206
+    },
+    {
+      "year": 2012,
+      "population": 12473
+    },
+    {
+      "year": 2013,
+      "population": 12775
+    },
+    {
+      "year": 2014,
+      "population": 12713
+    },
+    {
+      "year": 2015,
+      "population": 13236
+    },
+    {
+      "year": 2016,
+      "population": 14069
+    },
+    {
+      "year": 2017,
+      "population": 13236
+    },
+    {
+      "year": 2018,
+      "population": 13727
+    },
+    {
+      "year": 2019,
+      "population": 14153
+    },
+    {
+      "year": 2020,
+      "population": 15120
+    },
+    {
+      "year": 2021,
+      "population": 13615
+    },
+    {
+      "year": 2022,
+      "population": 11468
+    },
+    {
+      "year": 2023,
+      "population": 15414
+    },
+    {
+      "year": 2024,
+      "population": 17240
+    },
+    {
+      "year": 2025,
+      "population": 18623
+    }
+  ],
+  "足立区": [
+    {
+      "year": 1979,
+      "population": 177
+    },
+    {
+      "year": 1980,
+      "population": 207
+    },
+    {
+      "year": 1981,
+      "population": 228
+    },
+    {
+      "year": 1982,
+      "population": 279
+    },
+    {
+      "year": 1983,
+      "population": 371
+    },
+    {
+      "year": 1984,
+      "population": 398
+    },
+    {
+      "year": 1985,
+      "population": 552
+    },
+    {
+      "year": 1986,
+      "population": 628
+    },
+    {
+      "year": 1987,
+      "population": 845
+    },
+    {
+      "year": 1988,
+      "population": 1127
+    },
+    {
+      "year": 1989,
+      "population": 1756
+    },
+    {
+      "year": 1990,
+      "population": 1880
+    },
+    {
+      "year": 1991,
+      "population": 2050
+    },
+    {
+      "year": 1992,
+      "population": 2366
+    },
+    {
+      "year": 1993,
+      "population": 2893
+    },
+    {
+      "year": 1994,
+      "population": 3235
+    },
+    {
+      "year": 1995,
+      "population": 3118
+    },
+    {
+      "year": 1996,
+      "population": 3116
+    },
+    {
+      "year": 1997,
+      "population": 3303
+    },
+    {
+      "year": 1998,
+      "population": 3591
+    },
+    {
+      "year": 1999,
+      "population": 3951
+    },
+    {
+      "year": 2000,
+      "population": 4218
+    },
+    {
+      "year": 2001,
+      "population": 4716
+    },
+    {
+      "year": 2002,
+      "population": 5240
+    },
+    {
+      "year": 2003,
+      "population": 5579
+    },
+    {
+      "year": 2004,
+      "population": 5936
+    },
+    {
+      "year": 2005,
+      "population": 5900
+    },
+    {
+      "year": 2006,
+      "population": 6096
+    },
+    {
+      "year": 2007,
+      "population": 6308
+    },
+    {
+      "year": 2008,
+      "population": 7009
+    },
+    {
+      "year": 2009,
+      "population": 7806
+    },
+    {
+      "year": 2010,
+      "population": 8388
+    },
+    {
+      "year": 2011,
+      "population": 8552
+    },
+    {
+      "year": 2012,
+      "population": 8562
+    },
+    {
+      "year": 2013,
+      "population": 8486
+    },
+    {
+      "year": 2014,
+      "population": 8754
+    },
+    {
+      "year": 2015,
+      "population": 9513
+    },
+    {
+      "year": 2016,
+      "population": 10816
+    },
+    {
+      "year": 2017,
+      "population": 11364
+    },
+    {
+      "year": 2018,
+      "population": 12766
+    },
+    {
+      "year": 2019,
+      "population": 14001
+    },
+    {
+      "year": 2020,
+      "population": 15310
+    },
+    {
+      "year": 2021,
+      "population": 15060
+    },
+    {
+      "year": 2022,
+      "population": 14561
+    },
+    {
+      "year": 2023,
+      "population": 15404
+    },
+    {
+      "year": 2024,
+      "population": 16790
+    },
+    {
+      "year": 2025,
+      "population": 18421
+    }
+  ],
+  "江戸川区": [
+    {
+      "year": 1979,
+      "population": 263
+    },
+    {
+      "year": 1980,
+      "population": 289
+    },
+    {
+      "year": 1981,
+      "population": 325
+    },
+    {
+      "year": 1982,
+      "population": 383
+    },
+    {
+      "year": 1983,
+      "population": 438
+    },
+    {
+      "year": 1984,
+      "population": 551
+    },
+    {
+      "year": 1985,
+      "population": 628
+    },
+    {
+      "year": 1986,
+      "population": 832
+    },
+    {
+      "year": 1987,
+      "population": 1080
+    },
+    {
+      "year": 1988,
+      "population": 1556
+    },
+    {
+      "year": 1989,
+      "population": 2445
+    },
+    {
+      "year": 1990,
+      "population": 2642
+    },
+    {
+      "year": 1991,
+      "population": 2688
+    },
+    {
+      "year": 1992,
+      "population": 3025
+    },
+    {
+      "year": 1993,
+      "population": 3420
+    },
+    {
+      "year": 1994,
+      "population": 3658
+    },
+    {
+      "year": 1995,
+      "population": 3653
+    },
+    {
+      "year": 1996,
+      "population": 3673
+    },
+    {
+      "year": 1997,
+      "population": 3858
+    },
+    {
+      "year": 1998,
+      "population": 4126
+    },
+    {
+      "year": 1999,
+      "population": 4546
+    },
+    {
+      "year": 2000,
+      "population": 5188
+    },
+    {
+      "year": 2001,
+      "population": 6133
+    },
+    {
+      "year": 2002,
+      "population": 6997
+    },
+    {
+      "year": 2003,
+      "population": 7695
+    },
+    {
+      "year": 2004,
+      "population": 8443
+    },
+    {
+      "year": 2005,
+      "population": 8286
+    },
+    {
+      "year": 2006,
+      "population": 8481
+    },
+    {
+      "year": 2007,
+      "population": 8764
+    },
+    {
+      "year": 2008,
+      "population": 9562
+    },
+    {
+      "year": 2009,
+      "population": 10476
+    },
+    {
+      "year": 2010,
+      "population": 11407
+    },
+    {
+      "year": 2011,
+      "population": 12141
+    },
+    {
+      "year": 2012,
+      "population": 11783
+    },
+    {
+      "year": 2013,
+      "population": 11224
+    },
+    {
+      "year": 2014,
+      "population": 11379
+    },
+    {
+      "year": 2015,
+      "population": 11896
+    },
+    {
+      "year": 2016,
+      "population": 13227
+    },
+    {
+      "year": 2017,
+      "population": 13735
+    },
+    {
+      "year": 2018,
+      "population": 14607
+    },
+    {
+      "year": 2019,
+      "population": 15424
+    },
+    {
+      "year": 2020,
+      "population": 16533
+    },
+    {
+      "year": 2021,
+      "population": 15596
+    },
+    {
+      "year": 2022,
+      "population": 14325
+    },
+    {
+      "year": 2023,
+      "population": 15046
+    },
+    {
+      "year": 2024,
+      "population": 16348
+    },
+    {
+      "year": 2025,
+      "population": 17340
+    }
+  ],
+  "板橋区": [
+    {
+      "year": 1979,
+      "population": 339
+    },
+    {
+      "year": 1980,
+      "population": 353
+    },
+    {
+      "year": 1981,
+      "population": 375
+    },
+    {
+      "year": 1982,
+      "population": 434
+    },
+    {
+      "year": 1983,
+      "population": 438
+    },
+    {
+      "year": 1984,
+      "population": 507
+    },
+    {
+      "year": 1985,
+      "population": 618
+    },
+    {
+      "year": 1986,
+      "population": 859
+    },
+    {
+      "year": 1987,
+      "population": 1065
+    },
+    {
+      "year": 1988,
+      "population": 1562
+    },
+    {
+      "year": 1989,
+      "population": 3840
+    },
+    {
+      "year": 1990,
+      "population": 3820
+    },
+    {
+      "year": 1991,
+      "population": 3832
+    },
+    {
+      "year": 1992,
+      "population": 4350
+    },
+    {
+      "year": 1993,
+      "population": 4889
+    },
+    {
+      "year": 1994,
+      "population": 4981
+    },
+    {
+      "year": 1995,
+      "population": 4837
+    },
+    {
+      "year": 1996,
+      "population": 4790
+    },
+    {
+      "year": 1997,
+      "population": 4784
+    },
+    {
+      "year": 1998,
+      "population": 4938
+    },
+    {
+      "year": 1999,
+      "population": 5245
+    },
+    {
+      "year": 2000,
+      "population": 5535
+    },
+    {
+      "year": 2001,
+      "population": 6003
+    },
+    {
+      "year": 2002,
+      "population": 6707
+    },
+    {
+      "year": 2003,
+      "population": 7292
+    },
+    {
+      "year": 2004,
+      "population": 7830
+    },
+    {
+      "year": 2005,
+      "population": 7713
+    },
+    {
+      "year": 2006,
+      "population": 7716
+    },
+    {
+      "year": 2007,
+      "population": 7669
+    },
+    {
+      "year": 2008,
+      "population": 8340
+    },
+    {
+      "year": 2009,
+      "population": 9115
+    },
+    {
+      "year": 2010,
+      "population": 9874
+    },
+    {
+      "year": 2011,
+      "population": 9985
+    },
+    {
+      "year": 2012,
+      "population": 9690
+    },
+    {
+      "year": 2013,
+      "population": 9158
+    },
+    {
+      "year": 2014,
+      "population": 9355
+    },
+    {
+      "year": 2015,
+      "population": 10115
+    },
+    {
+      "year": 2016,
+      "population": 11385
+    },
+    {
+      "year": 2017,
+      "population": 12157
+    },
+    {
+      "year": 2018,
+      "population": 13253
+    },
+    {
+      "year": 2019,
+      "population": 14177
+    },
+    {
+      "year": 2020,
+      "population": 15367
+    },
+    {
+      "year": 2021,
+      "population": 14436
+    },
+    {
+      "year": 2022,
+      "population": 13188
+    },
+    {
+      "year": 2023,
+      "population": 14382
+    },
+    {
+      "year": 2024,
+      "population": 15780
+    },
+    {
+      "year": 2025,
+      "population": 17224
+    }
+  ],
+  "豊島区": [
+    {
+      "year": 1979,
+      "population": 1104
+    },
+    {
+      "year": 1980,
+      "population": 1203
+    },
+    {
+      "year": 1981,
+      "population": 1230
+    },
+    {
+      "year": 1982,
+      "population": 1432
+    },
+    {
+      "year": 1983,
+      "population": 1698
+    },
+    {
+      "year": 1984,
+      "population": 1874
+    },
+    {
+      "year": 1985,
+      "population": 2247
+    },
+    {
+      "year": 1986,
+      "population": 2758
+    },
+    {
+      "year": 1987,
+      "population": 3779
+    },
+    {
+      "year": 1988,
+      "population": 5394
+    },
+    {
+      "year": 1989,
+      "population": 9330
+    },
+    {
+      "year": 1990,
+      "population": 8399
+    },
+    {
+      "year": 1991,
+      "population": 7823
+    },
+    {
+      "year": 1992,
+      "population": 8321
+    },
+    {
+      "year": 1993,
+      "population": 9008
+    },
+    {
+      "year": 1994,
+      "population": 8552
+    },
+    {
+      "year": 1995,
+      "population": 8413
+    },
+    {
+      "year": 1996,
+      "population": 7771
+    },
+    {
+      "year": 1997,
+      "population": 7152
+    },
+    {
+      "year": 1998,
+      "population": 6592
+    },
+    {
+      "year": 1999,
+      "population": 6635
+    },
+    {
+      "year": 2000,
+      "population": 6889
+    },
+    {
+      "year": 2001,
+      "population": 7629
+    },
+    {
+      "year": 2002,
+      "population": 8325
+    },
+    {
+      "year": 2003,
+      "population": 8903
+    },
+    {
+      "year": 2004,
+      "population": 9405
+    },
+    {
+      "year": 2005,
+      "population": 8636
+    },
+    {
+      "year": 2006,
+      "population": 8455
+    },
+    {
+      "year": 2007,
+      "population": 8400
+    },
+    {
+      "year": 2008,
+      "population": 8657
+    },
+    {
+      "year": 2009,
+      "population": 9340
+    },
+    {
+      "year": 2010,
+      "population": 10601
+    },
+    {
+      "year": 2011,
+      "population": 11785
+    },
+    {
+      "year": 2012,
+      "population": 11737
+    },
+    {
+      "year": 2013,
+      "population": 11677
+    },
+    {
+      "year": 2014,
+      "population": 11584
+    },
+    {
+      "year": 2015,
+      "population": 12059
+    },
+    {
+      "year": 2016,
+      "population": 12506
+    },
+    {
+      "year": 2017,
+      "population": 11948
+    },
+    {
+      "year": 2018,
+      "population": 12469
+    },
+    {
+      "year": 2019,
+      "population": 12955
+    },
+    {
+      "year": 2020,
+      "population": 13525
+    },
+    {
+      "year": 2021,
+      "population": 12414
+    },
+    {
+      "year": 2022,
+      "population": 10972
+    },
+    {
+      "year": 2023,
+      "population": 13811
+    },
+    {
+      "year": 2024,
+      "population": 15296
+    },
+    {
+      "year": 2025,
+      "population": 16360
+    }
+  ],
+  "北区": [
+    {
+      "year": 1979,
+      "population": 281
+    },
+    {
+      "year": 1980,
+      "population": 309
+    },
+    {
+      "year": 1981,
+      "population": 307
+    },
+    {
+      "year": 1982,
+      "population": 336
+    },
+    {
+      "year": 1983,
+      "population": 384
+    },
+    {
+      "year": 1984,
+      "population": 474
+    },
+    {
+      "year": 1985,
+      "population": 544
+    },
+    {
+      "year": 1986,
+      "population": 703
+    },
+    {
+      "year": 1987,
+      "population": 944
+    },
+    {
+      "year": 1988,
+      "population": 1538
+    },
+    {
+      "year": 1989,
+      "population": 3972
+    },
+    {
+      "year": 1990,
+      "population": 3950
+    },
+    {
+      "year": 1991,
+      "population": 3750
+    },
+    {
+      "year": 1992,
+      "population": 4065
+    },
+    {
+      "year": 1993,
+      "population": 4623
+    },
+    {
+      "year": 1994,
+      "population": 4696
+    },
+    {
+      "year": 1995,
+      "population": 4534
+    },
+    {
+      "year": 1996,
+      "population": 4231
+    },
+    {
+      "year": 1997,
+      "population": 4280
+    },
+    {
+      "year": 1998,
+      "population": 4224
+    },
+    {
+      "year": 1999,
+      "population": 4480
+    },
+    {
+      "year": 2000,
+      "population": 4826
+    },
+    {
+      "year": 2001,
+      "population": 5453
+    },
+    {
+      "year": 2002,
+      "population": 6140
+    },
+    {
+      "year": 2003,
+      "population": 6716
+    },
+    {
+      "year": 2004,
+      "population": 7336
+    },
+    {
+      "year": 2005,
+      "population": 7083
+    },
+    {
+      "year": 2006,
+      "population": 7140
+    },
+    {
+      "year": 2007,
+      "population": 7257
+    },
+    {
+      "year": 2008,
+      "population": 7634
+    },
+    {
+      "year": 2009,
+      "population": 8098
+    },
+    {
+      "year": 2010,
+      "population": 8666
+    },
+    {
+      "year": 2011,
+      "population": 8696
+    },
+    {
+      "year": 2012,
+      "population": 8502
+    },
+    {
+      "year": 2013,
+      "population": 7930
+    },
+    {
+      "year": 2014,
+      "population": 7836
+    },
+    {
+      "year": 2015,
+      "population": 8517
+    },
+    {
+      "year": 2016,
+      "population": 9108
+    },
+    {
+      "year": 2017,
+      "population": 9520
+    },
+    {
+      "year": 2018,
+      "population": 9888
+    },
+    {
+      "year": 2019,
+      "population": 10759
+    },
+    {
+      "year": 2020,
+      "population": 11706
+    },
+    {
+      "year": 2021,
+      "population": 11087
+    },
+    {
+      "year": 2022,
+      "population": 10510
+    },
+    {
+      "year": 2023,
+      "population": 11997
+    },
+    {
+      "year": 2024,
+      "population": 13053
+    },
+    {
+      "year": 2025,
+      "population": 14205
+    }
+  ],
+  "葛飾区": [
+    {
+      "year": 1979,
+      "population": 194
+    },
+    {
+      "year": 1980,
+      "population": 229
+    },
+    {
+      "year": 1981,
+      "population": 234
+    },
+    {
+      "year": 1982,
+      "population": 260
+    },
+    {
+      "year": 1983,
+      "population": 325
+    },
+    {
+      "year": 1984,
+      "population": 361
+    },
+    {
+      "year": 1985,
+      "population": 415
+    },
+    {
+      "year": 1986,
+      "population": 467
+    },
+    {
+      "year": 1987,
+      "population": 524
+    },
+    {
+      "year": 1988,
+      "population": 706
+    },
+    {
+      "year": 1989,
+      "population": 1435
+    },
+    {
+      "year": 1990,
+      "population": 1498
+    },
+    {
+      "year": 1991,
+      "population": 1509
+    },
+    {
+      "year": 1992,
+      "population": 1713
+    },
+    {
+      "year": 1993,
+      "population": 1965
+    },
+    {
+      "year": 1994,
+      "population": 2162
+    },
+    {
+      "year": 1995,
+      "population": 2155
+    },
+    {
+      "year": 1996,
+      "population": 2153
+    },
+    {
+      "year": 1997,
+      "population": 2199
+    },
+    {
+      "year": 1998,
+      "population": 2310
+    },
+    {
+      "year": 1999,
+      "population": 2403
+    },
+    {
+      "year": 2000,
+      "population": 2539
+    },
+    {
+      "year": 2001,
+      "population": 2940
+    },
+    {
+      "year": 2002,
+      "population": 3415
+    },
+    {
+      "year": 2003,
+      "population": 3887
+    },
+    {
+      "year": 2004,
+      "population": 4192
+    },
+    {
+      "year": 2005,
+      "population": 4296
+    },
+    {
+      "year": 2006,
+      "population": 4678
+    },
+    {
+      "year": 2007,
+      "population": 4993
+    },
+    {
+      "year": 2008,
+      "population": 5631
+    },
+    {
+      "year": 2009,
+      "population": 6250
+    },
+    {
+      "year": 2010,
+      "population": 6702
+    },
+    {
+      "year": 2011,
+      "population": 7079
+    },
+    {
+      "year": 2012,
+      "population": 6982
+    },
+    {
+      "year": 2013,
+      "population": 6859
+    },
+    {
+      "year": 2014,
+      "population": 6978
+    },
+    {
+      "year": 2015,
+      "population": 7641
+    },
+    {
+      "year": 2016,
+      "population": 8552
+    },
+    {
+      "year": 2017,
+      "population": 9649
+    },
+    {
+      "year": 2018,
+      "population": 10621
+    },
+    {
+      "year": 2019,
+      "population": 11322
+    },
+    {
+      "year": 2020,
+      "population": 12058
+    },
+    {
+      "year": 2021,
+      "population": 11671
+    },
+    {
+      "year": 2022,
+      "population": 10970
+    },
+    {
+      "year": 2023,
+      "population": 11643
+    },
+    {
+      "year": 2024,
+      "population": 12658
+    },
+    {
+      "year": 2025,
+      "population": 13581
+    }
+  ],
+  "練馬区": [
+    {
+      "year": 1979,
+      "population": 339
+    },
+    {
+      "year": 1980,
+      "population": 343
+    },
+    {
+      "year": 1981,
+      "population": 368
+    },
+    {
+      "year": 1982,
+      "population": 436
+    },
+    {
+      "year": 1983,
+      "population": 492
+    },
+    {
+      "year": 1984,
+      "population": 580
+    },
+    {
+      "year": 1985,
+      "population": 648
+    },
+    {
+      "year": 1986,
+      "population": 790
+    },
+    {
+      "year": 1987,
+      "population": 980
+    },
+    {
+      "year": 1988,
+      "population": 1332
+    },
+    {
+      "year": 1989,
+      "population": 2397
+    },
+    {
+      "year": 1990,
+      "population": 2408
+    },
+    {
+      "year": 1991,
+      "population": 2407
+    },
+    {
+      "year": 1992,
+      "population": 2671
+    },
+    {
+      "year": 1993,
+      "population": 3212
+    },
+    {
+      "year": 1994,
+      "population": 3423
+    },
+    {
+      "year": 1995,
+      "population": 3346
+    },
+    {
+      "year": 1996,
+      "population": 3217
+    },
+    {
+      "year": 1997,
+      "population": 3334
+    },
+    {
+      "year": 1998,
+      "population": 3357
+    },
+    {
+      "year": 1999,
+      "population": 3462
+    },
+    {
+      "year": 2000,
+      "population": 3595
+    },
+    {
+      "year": 2001,
+      "population": 3882
+    },
+    {
+      "year": 2002,
+      "population": 4017
+    },
+    {
+      "year": 2003,
+      "population": 4254
+    },
+    {
+      "year": 2004,
+      "population": 4405
+    },
+    {
+      "year": 2005,
+      "population": 4192
+    },
+    {
+      "year": 2006,
+      "population": 4245
+    },
+    {
+      "year": 2007,
+      "population": 4315
+    },
+    {
+      "year": 2008,
+      "population": 4478
+    },
+    {
+      "year": 2009,
+      "population": 4745
+    },
+    {
+      "year": 2010,
+      "population": 5129
+    },
+    {
+      "year": 2011,
+      "population": 5304
+    },
+    {
+      "year": 2012,
+      "population": 5178
+    },
+    {
+      "year": 2013,
+      "population": 5144
+    },
+    {
+      "year": 2014,
+      "population": 5161
+    },
+    {
+      "year": 2015,
+      "population": 5580
+    },
+    {
+      "year": 2016,
+      "population": 6160
+    },
+    {
+      "year": 2017,
+      "population": 6564
+    },
+    {
+      "year": 2018,
+      "population": 7427
+    },
+    {
+      "year": 2019,
+      "population": 8177
+    },
+    {
+      "year": 2020,
+      "population": 9448
+    },
+    {
+      "year": 2021,
+      "population": 8822
+    },
+    {
+      "year": 2022,
+      "population": 7849
+    },
+    {
+      "year": 2023,
+      "population": 8594
+    },
+    {
+      "year": 2024,
+      "population": 9407
+    },
+    {
+      "year": 2025,
+      "population": 10386
+    }
+  ],
+  "大田区": [
+    {
+      "year": 1979,
+      "population": 718
+    },
+    {
+      "year": 1980,
+      "population": 739
+    },
+    {
+      "year": 1981,
+      "population": 820
+    },
+    {
+      "year": 1982,
+      "population": 834
+    },
+    {
+      "year": 1983,
+      "population": 809
+    },
+    {
+      "year": 1984,
+      "population": 871
+    },
+    {
+      "year": 1985,
+      "population": 914
+    },
+    {
+      "year": 1986,
+      "population": 986
+    },
+    {
+      "year": 1987,
+      "population": 1138
+    },
+    {
+      "year": 1988,
+      "population": 1311
+    },
+    {
+      "year": 1989,
+      "population": 1916
+    },
+    {
+      "year": 1990,
+      "population": 2091
+    },
+    {
+      "year": 1991,
+      "population": 2234
+    },
+    {
+      "year": 1992,
+      "population": 2615
+    },
+    {
+      "year": 1993,
+      "population": 2999
+    },
+    {
+      "year": 1994,
+      "population": 3112
+    },
+    {
+      "year": 1995,
+      "population": 3138
+    },
+    {
+      "year": 1996,
+      "population": 3269
+    },
+    {
+      "year": 1997,
+      "population": 3290
+    },
+    {
+      "year": 1998,
+      "population": 3499
+    },
+    {
+      "year": 1999,
+      "population": 3625
+    },
+    {
+      "year": 2000,
+      "population": 3911
+    },
+    {
+      "year": 2001,
+      "population": 4226
+    },
+    {
+      "year": 2002,
+      "population": 4684
+    },
+    {
+      "year": 2003,
+      "population": 5008
+    },
+    {
+      "year": 2004,
+      "population": 5313
+    },
+    {
+      "year": 2005,
+      "population": 5286
+    },
+    {
+      "year": 2006,
+      "population": 5467
+    },
+    {
+      "year": 2007,
+      "population": 5652
+    },
+    {
+      "year": 2008,
+      "population": 6164
+    },
+    {
+      "year": 2009,
+      "population": 6737
+    },
+    {
+      "year": 2010,
+      "population": 7274
+    },
+    {
+      "year": 2011,
+      "population": 7322
+    },
+    {
+      "year": 2012,
+      "population": 7338
+    },
+    {
+      "year": 2013,
+      "population": 7373
+    },
+    {
+      "year": 2014,
+      "population": 7513
+    },
+    {
+      "year": 2015,
+      "population": 7760
+    },
+    {
+      "year": 2016,
+      "population": 7965
+    },
+    {
+      "year": 2017,
+      "population": 7485
+    },
+    {
+      "year": 2018,
+      "population": 7896
+    },
+    {
+      "year": 2019,
+      "population": 8467
+    },
+    {
+      "year": 2020,
+      "population": 8895
+    },
+    {
+      "year": 2021,
+      "population": 8376
+    },
+    {
+      "year": 2022,
+      "population": 7889
+    },
+    {
+      "year": 2023,
+      "population": 8233
+    },
+    {
+      "year": 2024,
+      "population": 9122
+    },
+    {
+      "year": 2025,
+      "population": 9986
+    }
+  ],
+  "台東区": [
+    {
+      "year": 1979,
+      "population": 239
+    },
+    {
+      "year": 1980,
+      "population": 213
+    },
+    {
+      "year": 1981,
+      "population": 211
+    },
+    {
+      "year": 1982,
+      "population": 229
+    },
+    {
+      "year": 1983,
+      "population": 248
+    },
+    {
+      "year": 1984,
+      "population": 283
+    },
+    {
+      "year": 1985,
+      "population": 337
+    },
+    {
+      "year": 1986,
+      "population": 453
+    },
+    {
+      "year": 1987,
+      "population": 474
+    },
+    {
+      "year": 1988,
+      "population": 571
+    },
+    {
+      "year": 1989,
+      "population": 711
+    },
+    {
+      "year": 1990,
+      "population": 759
+    },
+    {
+      "year": 1991,
+      "population": 734
+    },
+    {
+      "year": 1992,
+      "population": 767
+    },
+    {
+      "year": 1993,
+      "population": 899
+    },
+    {
+      "year": 1994,
+      "population": 961
+    },
+    {
+      "year": 1995,
+      "population": 957
+    },
+    {
+      "year": 1996,
+      "population": 963
+    },
+    {
+      "year": 1997,
+      "population": 987
+    },
+    {
+      "year": 1998,
+      "population": 1078
+    },
+    {
+      "year": 1999,
+      "population": 1227
+    },
+    {
+      "year": 2000,
+      "population": 1462
+    },
+    {
+      "year": 2001,
+      "population": 1868
+    },
+    {
+      "year": 2002,
+      "population": 2299
+    },
+    {
+      "year": 2003,
+      "population": 2886
+    },
+    {
+      "year": 2004,
+      "population": 3357
+    },
+    {
+      "year": 2005,
+      "population": 3306
+    },
+    {
+      "year": 2006,
+      "population": 3462
+    },
+    {
+      "year": 2007,
+      "population": 3482
+    },
+    {
+      "year": 2008,
+      "population": 3708
+    },
+    {
+      "year": 2009,
+      "population": 4287
+    },
+    {
+      "year": 2010,
+      "population": 4947
+    },
+    {
+      "year": 2011,
+      "population": 5464
+    },
+    {
+      "year": 2012,
+      "population": 5768
+    },
+    {
+      "year": 2013,
+      "population": 5956
+    },
+    {
+      "year": 2014,
+      "population": 6083
+    },
+    {
+      "year": 2015,
+      "population": 6231
+    },
+    {
+      "year": 2016,
+      "population": 6442
+    },
+    {
+      "year": 2017,
+      "population": 6198
+    },
+    {
+      "year": 2018,
+      "population": 6174
+    },
+    {
+      "year": 2019,
+      "population": 6489
+    },
+    {
+      "year": 2020,
+      "population": 7029
+    },
+    {
+      "year": 2021,
+      "population": 6741
+    },
+    {
+      "year": 2022,
+      "population": 6128
+    },
+    {
+      "year": 2023,
+      "population": 7443
+    },
+    {
+      "year": 2024,
+      "population": 9031
+    },
+    {
+      "year": 2025,
+      "population": 9882
+    }
+  ],
+  "荒川区": [
+    {
+      "year": 1979,
+      "population": 118
+    },
+    {
+      "year": 1980,
+      "population": 127
+    },
+    {
+      "year": 1981,
+      "population": 115
+    },
+    {
+      "year": 1982,
+      "population": 133
+    },
+    {
+      "year": 1983,
+      "population": 132
+    },
+    {
+      "year": 1984,
+      "population": 176
+    },
+    {
+      "year": 1985,
+      "population": 211
+    },
+    {
+      "year": 1986,
+      "population": 294
+    },
+    {
+      "year": 1987,
+      "population": 380
+    },
+    {
+      "year": 1988,
+      "population": 460
+    },
+    {
+      "year": 1989,
+      "population": 888
+    },
+    {
+      "year": 1990,
+      "population": 1039
+    },
+    {
+      "year": 1991,
+      "population": 1154
+    },
+    {
+      "year": 1992,
+      "population": 1260
+    },
+    {
+      "year": 1993,
+      "population": 1409
+    },
+    {
+      "year": 1994,
+      "population": 1489
+    },
+    {
+      "year": 1995,
+      "population": 1431
+    },
+    {
+      "year": 1996,
+      "population": 1338
+    },
+    {
+      "year": 1997,
+      "population": 1328
+    },
+    {
+      "year": 1998,
+      "population": 1435
+    },
+    {
+      "year": 1999,
+      "population": 1629
+    },
+    {
+      "year": 2000,
+      "population": 1853
+    },
+    {
+      "year": 2001,
+      "population": 2417
+    },
+    {
+      "year": 2002,
+      "population": 2945
+    },
+    {
+      "year": 2003,
+      "population": 3585
+    },
+    {
+      "year": 2004,
+      "population": 4033
+    },
+    {
+      "year": 2005,
+      "population": 3944
+    },
+    {
+      "year": 2006,
+      "population": 4209
+    },
+    {
+      "year": 2007,
+      "population": 4319
+    },
+    {
+      "year": 2008,
+      "population": 4742
+    },
+    {
+      "year": 2009,
+      "population": 5561
+    },
+    {
+      "year": 2010,
+      "population": 6154
+    },
+    {
+      "year": 2011,
+      "population": 6601
+    },
+    {
+      "year": 2012,
+      "population": 6806
+    },
+    {
+      "year": 2013,
+      "population": 6854
+    },
+    {
+      "year": 2014,
+      "population": 6846
+    },
+    {
+      "year": 2015,
+      "population": 7120
+    },
+    {
+      "year": 2016,
+      "population": 7180
+    },
+    {
+      "year": 2017,
+      "population": 7147
+    },
+    {
+      "year": 2018,
+      "population": 7066
+    },
+    {
+      "year": 2019,
+      "population": 7284
+    },
+    {
+      "year": 2020,
+      "population": 7848
+    },
+    {
+      "year": 2021,
+      "population": 7466
+    },
+    {
+      "year": 2022,
+      "population": 7083
+    },
+    {
+      "year": 2023,
+      "population": 7866
+    },
+    {
+      "year": 2024,
+      "population": 8475
+    },
+    {
+      "year": 2025,
+      "population": 9064
+    }
+  ],
+  "中野区": [
+    {
+      "year": 1979,
+      "population": 567
+    },
+    {
+      "year": 1980,
+      "population": 591
+    },
+    {
+      "year": 1981,
+      "population": 603
+    },
+    {
+      "year": 1982,
+      "population": 683
+    },
+    {
+      "year": 1983,
+      "population": 809
+    },
+    {
+      "year": 1984,
+      "population": 984
+    },
+    {
+      "year": 1985,
+      "population": 1168
+    },
+    {
+      "year": 1986,
+      "population": 1315
+    },
+    {
+      "year": 1987,
+      "population": 1690
+    },
+    {
+      "year": 1988,
+      "population": 2367
+    },
+    {
+      "year": 1989,
+      "population": 4671
+    },
+    {
+      "year": 1990,
+      "population": 4598
+    },
+    {
+      "year": 1991,
+      "population": 4568
+    },
+    {
+      "year": 1992,
+      "population": 5057
+    },
+    {
+      "year": 1993,
+      "population": 5775
+    },
+    {
+      "year": 1994,
+      "population": 5906
+    },
+    {
+      "year": 1995,
+      "population": 5513
+    },
+    {
+      "year": 1996,
+      "population": 4958
+    },
+    {
+      "year": 1997,
+      "population": 4441
+    },
+    {
+      "year": 1998,
+      "population": 4227
+    },
+    {
+      "year": 1999,
+      "population": 4167
+    },
+    {
+      "year": 2000,
+      "population": 4360
+    },
+    {
+      "year": 2001,
+      "population": 4473
+    },
+    {
+      "year": 2002,
+      "population": 4557
+    },
+    {
+      "year": 2003,
+      "population": 4766
+    },
+    {
+      "year": 2004,
+      "population": 4854
+    },
+    {
+      "year": 2005,
+      "population": 4171
+    },
+    {
+      "year": 2006,
+      "population": 4048
+    },
+    {
+      "year": 2007,
+      "population": 3936
+    },
+    {
+      "year": 2008,
+      "population": 3862
+    },
+    {
+      "year": 2009,
+      "population": 4075
+    },
+    {
+      "year": 2010,
+      "population": 4325
+    },
+    {
+      "year": 2011,
+      "population": 4636
+    },
+    {
+      "year": 2012,
+      "population": 4559
+    },
+    {
+      "year": 2013,
+      "population": 4301
+    },
+    {
+      "year": 2014,
+      "population": 4342
+    },
+    {
+      "year": 2015,
+      "population": 4877
+    },
+    {
+      "year": 2016,
+      "population": 5553
+    },
+    {
+      "year": 2017,
+      "population": 5528
+    },
+    {
+      "year": 2018,
+      "population": 6308
+    },
+    {
+      "year": 2019,
+      "population": 6786
+    },
+    {
+      "year": 2020,
+      "population": 7445
+    },
+    {
+      "year": 2021,
+      "population": 6815
+    },
+    {
+      "year": 2022,
+      "population": 5539
+    },
+    {
+      "year": 2023,
+      "population": 6819
+    },
+    {
+      "year": 2024,
+      "population": 7927
+    },
+    {
+      "year": 2025,
+      "population": 8832
+    }
+  ],
+  "文京区": [
+    {
+      "year": 1979,
+      "population": 498
+    },
+    {
+      "year": 1980,
+      "population": 545
+    },
+    {
+      "year": 1981,
+      "population": 583
+    },
+    {
+      "year": 1982,
+      "population": 565
+    },
+    {
+      "year": 1983,
+      "population": 623
+    },
+    {
+      "year": 1984,
+      "population": 753
+    },
+    {
+      "year": 1985,
+      "population": 787
+    },
+    {
+      "year": 1986,
+      "population": 946
+    },
+    {
+      "year": 1987,
+      "population": 1021
+    },
+    {
+      "year": 1988,
+      "population": 1183
+    },
+    {
+      "year": 1989,
+      "population": 1656
+    },
+    {
+      "year": 1990,
+      "population": 1697
+    },
+    {
+      "year": 1991,
+      "population": 1616
+    },
+    {
+      "year": 1992,
+      "population": 1724
+    },
+    {
+      "year": 1993,
+      "population": 1830
+    },
+    {
+      "year": 1994,
+      "population": 1816
+    },
+    {
+      "year": 1995,
+      "population": 1800
+    },
+    {
+      "year": 1996,
+      "population": 1703
+    },
+    {
+      "year": 1997,
+      "population": 1704
+    },
+    {
+      "year": 1998,
+      "population": 1704
+    },
+    {
+      "year": 1999,
+      "population": 1703
+    },
+    {
+      "year": 2000,
+      "population": 1814
+    },
+    {
+      "year": 2001,
+      "population": 1966
+    },
+    {
+      "year": 2002,
+      "population": 2160
+    },
+    {
+      "year": 2003,
+      "population": 2247
+    },
+    {
+      "year": 2004,
+      "population": 2316
+    },
+    {
+      "year": 2005,
+      "population": 2289
+    },
+    {
+      "year": 2006,
+      "population": 2339
+    },
+    {
+      "year": 2007,
+      "population": 2308
+    },
+    {
+      "year": 2008,
+      "population": 2383
+    },
+    {
+      "year": 2009,
+      "population": 2535
+    },
+    {
+      "year": 2010,
+      "population": 2687
+    },
+    {
+      "year": 2011,
+      "population": 2911
+    },
+    {
+      "year": 2012,
+      "population": 2990
+    },
+    {
+      "year": 2013,
+      "population": 2823
+    },
+    {
+      "year": 2014,
+      "population": 2912
+    },
+    {
+      "year": 2015,
+      "population": 3243
+    },
+    {
+      "year": 2016,
+      "population": 3507
+    },
+    {
+      "year": 2017,
+      "population": 3645
+    },
+    {
+      "year": 2018,
+      "population": 4123
+    },
+    {
+      "year": 2019,
+      "population": 4646
+    },
+    {
+      "year": 2020,
+      "population": 5211
+    },
+    {
+      "year": 2021,
+      "population": 4851
+    },
+    {
+      "year": 2022,
+      "population": 4792
+    },
+    {
+      "year": 2023,
+      "population": 6498
+    },
+    {
+      "year": 2024,
+      "population": 7639
+    },
+    {
+      "year": 2025,
+      "population": 8666
+    }
+  ],
+  "墨田区": [
+    {
+      "year": 1979,
+      "population": 136
+    },
+    {
+      "year": 1980,
+      "population": 148
+    },
+    {
+      "year": 1981,
+      "population": 196
+    },
+    {
+      "year": 1982,
+      "population": 264
+    },
+    {
+      "year": 1983,
+      "population": 310
+    },
+    {
+      "year": 1984,
+      "population": 357
+    },
+    {
+      "year": 1985,
+      "population": 384
+    },
+    {
+      "year": 1986,
+      "population": 387
+    },
+    {
+      "year": 1987,
+      "population": 475
+    },
+    {
+      "year": 1988,
+      "population": 592
+    },
+    {
+      "year": 1989,
+      "population": 709
+    },
+    {
+      "year": 1990,
+      "population": 820
+    },
+    {
+      "year": 1991,
+      "population": 875
+    },
+    {
+      "year": 1992,
+      "population": 924
+    },
+    {
+      "year": 1993,
+      "population": 1133
+    },
+    {
+      "year": 1994,
+      "population": 1188
+    },
+    {
+      "year": 1995,
+      "population": 1249
+    },
+    {
+      "year": 1996,
+      "population": 1274
+    },
+    {
+      "year": 1997,
+      "population": 1361
+    },
+    {
+      "year": 1998,
+      "population": 1410
+    },
+    {
+      "year": 1999,
+      "population": 1551
+    },
+    {
+      "year": 2000,
+      "population": 1708
+    },
+    {
+      "year": 2001,
+      "population": 2020
+    },
+    {
+      "year": 2002,
+      "population": 2292
+    },
+    {
+      "year": 2003,
+      "population": 2647
+    },
+    {
+      "year": 2004,
+      "population": 2908
+    },
+    {
+      "year": 2005,
+      "population": 3000
+    },
+    {
+      "year": 2006,
+      "population": 3116
+    },
+    {
+      "year": 2007,
+      "population": 3383
+    },
+    {
+      "year": 2008,
+      "population": 3602
+    },
+    {
+      "year": 2009,
+      "population": 3859
+    },
+    {
+      "year": 2010,
+      "population": 4229
+    },
+    {
+      "year": 2011,
+      "population": 4511
+    },
+    {
+      "year": 2012,
+      "population": 4496
+    },
+    {
+      "year": 2013,
+      "population": 4425
+    },
+    {
+      "year": 2014,
+      "population": 4493
+    },
+    {
+      "year": 2015,
+      "population": 4809
+    },
+    {
+      "year": 2016,
+      "population": 5213
+    },
+    {
+      "year": 2017,
+      "population": 5271
+    },
+    {
+      "year": 2018,
+      "population": 5508
+    },
+    {
+      "year": 2019,
+      "population": 5874
+    },
+    {
+      "year": 2020,
+      "population": 6115
+    },
+    {
+      "year": 2021,
+      "population": 5901
+    },
+    {
+      "year": 2022,
+      "population": 5538
+    },
+    {
+      "year": 2023,
+      "population": 6699
+    },
+    {
+      "year": 2024,
+      "population": 7848
+    },
+    {
+      "year": 2025,
+      "population": 8543
+    }
+  ],
+  "世田谷区": [
+    {
+      "year": 1979,
+      "population": 963
+    },
+    {
+      "year": 1980,
+      "population": 968
+    },
+    {
+      "year": 1981,
+      "population": 935
+    },
+    {
+      "year": 1982,
+      "population": 962
+    },
+    {
+      "year": 1983,
+      "population": 976
+    },
+    {
+      "year": 1984,
+      "population": 1008
+    },
+    {
+      "year": 1985,
+      "population": 1100
+    },
+    {
+      "year": 1986,
+      "population": 1153
+    },
+    {
+      "year": 1987,
+      "population": 1287
+    },
+    {
+      "year": 1988,
+      "population": 1406
+    },
+    {
+      "year": 1989,
+      "population": 1730
+    },
+    {
+      "year": 1990,
+      "population": 1943
+    },
+    {
+      "year": 1991,
+      "population": 2115
+    },
+    {
+      "year": 1992,
+      "population": 2394
+    },
+    {
+      "year": 1993,
+      "population": 2760
+    },
+    {
+      "year": 1994,
+      "population": 2879
+    },
+    {
+      "year": 1995,
+      "population": 2882
+    },
+    {
+      "year": 1996,
+      "population": 2716
+    },
+    {
+      "year": 1997,
+      "population": 2566
+    },
+    {
+      "year": 1998,
+      "population": 2559
+    },
+    {
+      "year": 1999,
+      "population": 2557
+    },
+    {
+      "year": 2000,
+      "population": 2601
+    },
+    {
+      "year": 2001,
+      "population": 2759
+    },
+    {
+      "year": 2002,
+      "population": 2970
+    },
+    {
+      "year": 2003,
+      "population": 3101
+    },
+    {
+      "year": 2004,
+      "population": 3185
+    },
+    {
+      "year": 2005,
+      "population": 3161
+    },
+    {
+      "year": 2006,
+      "population": 3212
+    },
+    {
+      "year": 2007,
+      "population": 3277
+    },
+    {
+      "year": 2008,
+      "population": 3443
+    },
+    {
+      "year": 2009,
+      "population": 3660
+    },
+    {
+      "year": 2010,
+      "population": 3882
+    },
+    {
+      "year": 2011,
+      "population": 4049
+    },
+    {
+      "year": 2012,
+      "population": 3998
+    },
+    {
+      "year": 2013,
+      "population": 3936
+    },
+    {
+      "year": 2014,
+      "population": 4007
+    },
+    {
+      "year": 2015,
+      "population": 4304
+    },
+    {
+      "year": 2016,
+      "population": 4858
+    },
+    {
+      "year": 2017,
+      "population": 4691
+    },
+    {
+      "year": 2018,
+      "population": 5352
+    },
+    {
+      "year": 2019,
+      "population": 5835
+    },
+    {
+      "year": 2020,
+      "population": 6562
+    },
+    {
+      "year": 2021,
+      "population": 6334
+    },
+    {
+      "year": 2022,
+      "population": 5793
+    },
+    {
+      "year": 2023,
+      "population": 6482
+    },
+    {
+      "year": 2024,
+      "population": 7460
+    },
+    {
+      "year": 2025,
+      "population": 8380
+    }
+  ],
+  "杉並区": [
+    {
+      "year": 1979,
+      "population": 971
+    },
+    {
+      "year": 1980,
+      "population": 996
+    },
+    {
+      "year": 1981,
+      "population": 964
+    },
+    {
+      "year": 1982,
+      "population": 952
+    },
+    {
+      "year": 1983,
+      "population": 998
+    },
+    {
+      "year": 1984,
+      "population": 1099
+    },
+    {
+      "year": 1985,
+      "population": 1195
+    },
+    {
+      "year": 1986,
+      "population": 1422
+    },
+    {
+      "year": 1987,
+      "population": 1602
+    },
+    {
+      "year": 1988,
+      "population": 1964
+    },
+    {
+      "year": 1989,
+      "population": 3976
+    },
+    {
+      "year": 1990,
+      "population": 3997
+    },
+    {
+      "year": 1991,
+      "population": 3943
+    },
+    {
+      "year": 1992,
+      "population": 4339
+    },
+    {
+      "year": 1993,
+      "population": 4914
+    },
+    {
+      "year": 1994,
+      "population": 4966
+    },
+    {
+      "year": 1995,
+      "population": 4638
+    },
+    {
+      "year": 1996,
+      "population": 4240
+    },
+    {
+      "year": 1997,
+      "population": 3879
+    },
+    {
+      "year": 1998,
+      "population": 3665
+    },
+    {
+      "year": 1999,
+      "population": 3765
+    },
+    {
+      "year": 2000,
+      "population": 3810
+    },
+    {
+      "year": 2001,
+      "population": 3809
+    },
+    {
+      "year": 2002,
+      "population": 3910
+    },
+    {
+      "year": 2003,
+      "population": 4178
+    },
+    {
+      "year": 2004,
+      "population": 4304
+    },
+    {
+      "year": 2005,
+      "population": 3973
+    },
+    {
+      "year": 2006,
+      "population": 3761
+    },
+    {
+      "year": 2007,
+      "population": 3618
+    },
+    {
+      "year": 2008,
+      "population": 3635
+    },
+    {
+      "year": 2009,
+      "population": 3686
+    },
+    {
+      "year": 2010,
+      "population": 3766
+    },
+    {
+      "year": 2011,
+      "population": 3781
+    },
+    {
+      "year": 2012,
+      "population": 3755
+    },
+    {
+      "year": 2013,
+      "population": 3801
+    },
+    {
+      "year": 2014,
+      "population": 3822
+    },
+    {
+      "year": 2015,
+      "population": 4212
+    },
+    {
+      "year": 2016,
+      "population": 4872
+    },
+    {
+      "year": 2017,
+      "population": 4716
+    },
+    {
+      "year": 2018,
+      "population": 5409
+    },
+    {
+      "year": 2019,
+      "population": 5837
+    },
+    {
+      "year": 2020,
+      "population": 6356
+    },
+    {
+      "year": 2021,
+      "population": 5682
+    },
+    {
+      "year": 2022,
+      "population": 4964
+    },
+    {
+      "year": 2023,
+      "population": 5675
+    },
+    {
+      "year": 2024,
+      "population": 6414
+    },
+    {
+      "year": 2025,
+      "population": 7223
+    }
+  ],
+  "港区": [
+    {
+      "year": 1979,
+      "population": 1089
+    },
+    {
+      "year": 1980,
+      "population": 1033
+    },
+    {
+      "year": 1981,
+      "population": 1109
+    },
+    {
+      "year": 1982,
+      "population": 1127
+    },
+    {
+      "year": 1983,
+      "population": 1160
+    },
+    {
+      "year": 1984,
+      "population": 1212
+    },
+    {
+      "year": 1985,
+      "population": 1315
+    },
+    {
+      "year": 1986,
+      "population": 1346
+    },
+    {
+      "year": 1987,
+      "population": 1340
+    },
+    {
+      "year": 1988,
+      "population": 1301
+    },
+    {
+      "year": 1989,
+      "population": 1274
+    },
+    {
+      "year": 1990,
+      "population": 1258
+    },
+    {
+      "year": 1991,
+      "population": 1170
+    },
+    {
+      "year": 1992,
+      "population": 1247
+    },
+    {
+      "year": 1993,
+      "population": 1313
+    },
+    {
+      "year": 1994,
+      "population": 1320
+    },
+    {
+      "year": 1995,
+      "population": 1313
+    },
+    {
+      "year": 1996,
+      "population": 1306
+    },
+    {
+      "year": 1997,
+      "population": 1410
+    },
+    {
+      "year": 1998,
+      "population": 1474
+    },
+    {
+      "year": 1999,
+      "population": 1540
+    },
+    {
+      "year": 2000,
+      "population": 1634
+    },
+    {
+      "year": 2001,
+      "population": 1771
+    },
+    {
+      "year": 2002,
+      "population": 1899
+    },
+    {
+      "year": 2003,
+      "population": 1944
+    },
+    {
+      "year": 2004,
+      "population": 2090
+    },
+    {
+      "year": 2005,
+      "population": 2122
+    },
+    {
+      "year": 2006,
+      "population": 2397
+    },
+    {
+      "year": 2007,
+      "population": 2499
+    },
+    {
+      "year": 2008,
+      "population": 2782
+    },
+    {
+      "year": 2009,
+      "population": 2951
+    },
+    {
+      "year": 2010,
+      "population": 3171
+    },
+    {
+      "year": 2011,
+      "population": 3231
+    },
+    {
+      "year": 2012,
+      "population": 3393
+    },
+    {
+      "year": 2013,
+      "population": 3403
+    },
+    {
+      "year": 2014,
+      "population": 3492
+    },
+    {
+      "year": 2015,
+      "population": 3717
+    },
+    {
+      "year": 2016,
+      "population": 3920
+    },
+    {
+      "year": 2017,
+      "population": 3525
+    },
+    {
+      "year": 2018,
+      "population": 3746
+    },
+    {
+      "year": 2019,
+      "population": 3962
+    },
+    {
+      "year": 2020,
+      "population": 4232
+    },
+    {
+      "year": 2021,
+      "population": 4079
+    },
+    {
+      "year": 2022,
+      "population": 3871
+    },
+    {
+      "year": 2023,
+      "population": 4794
+    },
+    {
+      "year": 2024,
+      "population": 6214
+    },
+    {
+      "year": 2025,
+      "population": 7132
+    }
+  ],
+  "中央区": [
+    {
+      "year": 1979,
+      "population": 180
+    },
+    {
+      "year": 1980,
+      "population": 186
+    },
+    {
+      "year": 1981,
+      "population": 177
+    },
+    {
+      "year": 1982,
+      "population": 212
+    },
+    {
+      "year": 1983,
+      "population": 251
+    },
+    {
+      "year": 1984,
+      "population": 265
+    },
+    {
+      "year": 1985,
+      "population": 280
+    },
+    {
+      "year": 1986,
+      "population": 296
+    },
+    {
+      "year": 1987,
+      "population": 285
+    },
+    {
+      "year": 1988,
+      "population": 265
+    },
+    {
+      "year": 1989,
+      "population": 288
+    },
+    {
+      "year": 1990,
+      "population": 275
+    },
+    {
+      "year": 1991,
+      "population": 273
+    },
+    {
+      "year": 1992,
+      "population": 321
+    },
+    {
+      "year": 1993,
+      "population": 343
+    },
+    {
+      "year": 1994,
+      "population": 337
+    },
+    {
+      "year": 1995,
+      "population": 320
+    },
+    {
+      "year": 1996,
+      "population": 377
+    },
+    {
+      "year": 1997,
+      "population": 387
+    },
+    {
+      "year": 1998,
+      "population": 413
+    },
+    {
+      "year": 1999,
+      "population": 456
+    },
+    {
+      "year": 2000,
+      "population": 536
+    },
+    {
+      "year": 2001,
+      "population": 584
+    },
+    {
+      "year": 2002,
+      "population": 701
+    },
+    {
+      "year": 2003,
+      "population": 838
+    },
+    {
+      "year": 2004,
+      "population": 1029
+    },
+    {
+      "year": 2005,
+      "population": 1110
+    },
+    {
+      "year": 2006,
+      "population": 1276
+    },
+    {
+      "year": 2007,
+      "population": 1418
+    },
+    {
+      "year": 2008,
+      "population": 1437
+    },
+    {
+      "year": 2009,
+      "population": 1705
+    },
+    {
+      "year": 2010,
+      "population": 1887
+    },
+    {
+      "year": 2011,
+      "population": 2010
+    },
+    {
+      "year": 2012,
+      "population": 2079
+    },
+    {
+      "year": 2013,
+      "population": 2101
+    },
+    {
+      "year": 2014,
+      "population": 2136
+    },
+    {
+      "year": 2015,
+      "population": 2200
+    },
+    {
+      "year": 2016,
+      "population": 2411
+    },
+    {
+      "year": 2017,
+      "population": 2483
+    },
+    {
+      "year": 2018,
+      "population": 2927
+    },
+    {
+      "year": 2019,
+      "population": 3266
+    },
+    {
+      "year": 2020,
+      "population": 3708
+    },
+    {
+      "year": 2021,
+      "population": 3705
+    },
+    {
+      "year": 2022,
+      "population": 3682
+    },
+    {
+      "year": 2023,
+      "population": 4432
+    },
+    {
+      "year": 2024,
+      "population": 5094
+    },
+    {
+      "year": 2025,
+      "population": 6647
+    }
+  ],
+  "品川区": [
+    {
+      "year": 1979,
+      "population": 601
+    },
+    {
+      "year": 1980,
+      "population": 637
+    },
+    {
+      "year": 1981,
+      "population": 658
+    },
+    {
+      "year": 1982,
+      "population": 698
+    },
+    {
+      "year": 1983,
+      "population": 725
+    },
+    {
+      "year": 1984,
+      "population": 755
+    },
+    {
+      "year": 1985,
+      "population": 1002
+    },
+    {
+      "year": 1986,
+      "population": 1153
+    },
+    {
+      "year": 1987,
+      "population": 1206
+    },
+    {
+      "year": 1988,
+      "population": 1356
+    },
+    {
+      "year": 1989,
+      "population": 2056
+    },
+    {
+      "year": 1990,
+      "population": 2146
+    },
+    {
+      "year": 1991,
+      "population": 2144
+    },
+    {
+      "year": 1992,
+      "population": 2416
+    },
+    {
+      "year": 1993,
+      "population": 2602
+    },
+    {
+      "year": 1994,
+      "population": 2656
+    },
+    {
+      "year": 1995,
+      "population": 2543
+    },
+    {
+      "year": 1996,
+      "population": 2421
+    },
+    {
+      "year": 1997,
+      "population": 2373
+    },
+    {
+      "year": 1998,
+      "population": 2489
+    },
+    {
+      "year": 1999,
+      "population": 2501
+    },
+    {
+      "year": 2000,
+      "population": 2539
+    },
+    {
+      "year": 2001,
+      "population": 2729
+    },
+    {
+      "year": 2002,
+      "population": 3014
+    },
+    {
+      "year": 2003,
+      "population": 3096
+    },
+    {
+      "year": 2004,
+      "population": 3231
+    },
+    {
+      "year": 2005,
+      "population": 3286
+    },
+    {
+      "year": 2006,
+      "population": 3409
+    },
+    {
+      "year": 2007,
+      "population": 3430
+    },
+    {
+      "year": 2008,
+      "population": 3641
+    },
+    {
+      "year": 2009,
+      "population": 3811
+    },
+    {
+      "year": 2010,
+      "population": 3941
+    },
+    {
+      "year": 2011,
+      "population": 4074
+    },
+    {
+      "year": 2012,
+      "population": 4111
+    },
+    {
+      "year": 2013,
+      "population": 3780
+    },
+    {
+      "year": 2014,
+      "population": 3844
+    },
+    {
+      "year": 2015,
+      "population": 4004
+    },
+    {
+      "year": 2016,
+      "population": 4132
+    },
+    {
+      "year": 2017,
+      "population": 3860
+    },
+    {
+      "year": 2018,
+      "population": 3984
+    },
+    {
+      "year": 2019,
+      "population": 4317
+    },
+    {
+      "year": 2020,
+      "population": 4751
+    },
+    {
+      "year": 2021,
+      "population": 4644
+    },
+    {
+      "year": 2022,
+      "population": 4389
+    },
+    {
+      "year": 2023,
+      "population": 4816
+    },
+    {
+      "year": 2024,
+      "population": 5506
+    },
+    {
+      "year": 2025,
+      "population": 6033
+    }
+  ],
+  "八王子市": [
+    {
+      "year": 1979,
+      "population": 51
+    },
+    {
+      "year": 1980,
+      "population": 86
+    },
+    {
+      "year": 1981,
+      "population": 99
+    },
+    {
+      "year": 1982,
+      "population": 106
+    },
+    {
+      "year": 1983,
+      "population": 135
+    },
+    {
+      "year": 1984,
+      "population": 137
+    },
+    {
+      "year": 1985,
+      "population": 119
+    },
+    {
+      "year": 1986,
+      "population": 164
+    },
+    {
+      "year": 1987,
+      "population": 190
+    },
+    {
+      "year": 1988,
+      "population": 251
+    },
+    {
+      "year": 1989,
+      "population": 309
+    },
+    {
+      "year": 1990,
+      "population": 420
+    },
+    {
+      "year": 1991,
+      "population": 519
+    },
+    {
+      "year": 1992,
+      "population": 659
+    },
+    {
+      "year": 1993,
+      "population": 778
+    },
+    {
+      "year": 1994,
+      "population": 875
+    },
+    {
+      "year": 1995,
+      "population": 925
+    },
+    {
+      "year": 1996,
+      "population": 999
+    },
+    {
+      "year": 1997,
+      "population": 1023
+    },
+    {
+      "year": 1998,
+      "population": 1080
+    },
+    {
+      "year": 1999,
+      "population": 1178
+    },
+    {
+      "year": 2000,
+      "population": 1428
+    },
+    {
+      "year": 2001,
+      "population": 1607
+    },
+    {
+      "year": 2002,
+      "population": 1996
+    },
+    {
+      "year": 2003,
+      "population": 2404
+    },
+    {
+      "year": 2004,
+      "population": 2666
+    },
+    {
+      "year": 2005,
+      "population": 2799
+    },
+    {
+      "year": 2006,
+      "population": 2931
+    },
+    {
+      "year": 2007,
+      "population": 3032
+    },
+    {
+      "year": 2008,
+      "population": 3152
+    },
+    {
+      "year": 2009,
+      "population": 3395
+    },
+    {
+      "year": 2010,
+      "population": 3610
+    },
+    {
+      "year": 2011,
+      "population": 3659
+    },
+    {
+      "year": 2012,
+      "population": 3739
+    },
+    {
+      "year": 2013,
+      "population": 3768
+    },
+    {
+      "year": 2014,
+      "population": 3731
+    },
+    {
+      "year": 2015,
+      "population": 3954
+    },
+    {
+      "year": 2016,
+      "population": 4141
+    },
+    {
+      "year": 2017,
+      "population": 4174
+    },
+    {
+      "year": 2018,
+      "population": 4562
+    },
+    {
+      "year": 2019,
+      "population": 4838
+    },
+    {
+      "year": 2020,
+      "population": 5157
+    },
+    {
+      "year": 2021,
+      "population": 5213
+    },
+    {
+      "year": 2022,
+      "population": 5016
+    },
+    {
+      "year": 2023,
+      "population": 5332
+    },
+    {
+      "year": 2024,
+      "population": 5631
+    },
+    {
+      "year": 2025,
+      "population": 5788
+    }
+  ],
+  "渋谷区": [
+    {
+      "year": 1979,
+      "population": 1110
+    },
+    {
+      "year": 1980,
+      "population": 1072
+    },
+    {
+      "year": 1981,
+      "population": 1074
+    },
+    {
+      "year": 1982,
+      "population": 1036
+    },
+    {
+      "year": 1983,
+      "population": 1016
+    },
+    {
+      "year": 1984,
+      "population": 1069
+    },
+    {
+      "year": 1985,
+      "population": 1144
+    },
+    {
+      "year": 1986,
+      "population": 1262
+    },
+    {
+      "year": 1987,
+      "population": 1357
+    },
+    {
+      "year": 1988,
+      "population": 1377
+    },
+    {
+      "year": 1989,
+      "population": 1751
+    },
+    {
+      "year": 1990,
+      "population": 1672
+    },
+    {
+      "year": 1991,
+      "population": 1668
+    },
+    {
+      "year": 1992,
+      "population": 1772
+    },
+    {
+      "year": 1993,
+      "population": 1878
+    },
+    {
+      "year": 1994,
+      "population": 1808
+    },
+    {
+      "year": 1995,
+      "population": 1725
+    },
+    {
+      "year": 1996,
+      "population": 1658
+    },
+    {
+      "year": 1997,
+      "population": 1569
+    },
+    {
+      "year": 1998,
+      "population": 1551
+    },
+    {
+      "year": 1999,
+      "population": 1505
+    },
+    {
+      "year": 2000,
+      "population": 1529
+    },
+    {
+      "year": 2001,
+      "population": 1535
+    },
+    {
+      "year": 2002,
+      "population": 1621
+    },
+    {
+      "year": 2003,
+      "population": 1637
+    },
+    {
+      "year": 2004,
+      "population": 1670
+    },
+    {
+      "year": 2005,
+      "population": 1587
+    },
+    {
+      "year": 2006,
+      "population": 1625
+    },
+    {
+      "year": 2007,
+      "population": 1689
+    },
+    {
+      "year": 2008,
+      "population": 1846
+    },
+    {
+      "year": 2009,
+      "population": 1862
+    },
+    {
+      "year": 2010,
+      "population": 1986
+    },
+    {
+      "year": 2011,
+      "population": 2075
+    },
+    {
+      "year": 2012,
+      "population": 2019
+    },
+    {
+      "year": 2013,
+      "population": 1987
+    },
+    {
+      "year": 2014,
+      "population": 1855
+    },
+    {
+      "year": 2015,
+      "population": 1969
+    },
+    {
+      "year": 2016,
+      "population": 2169
+    },
+    {
+      "year": 2017,
+      "population": 1665
+    },
+    {
+      "year": 2018,
+      "population": 1824
+    },
+    {
+      "year": 2019,
+      "population": 2013
+    },
+    {
+      "year": 2020,
+      "population": 2348
+    },
+    {
+      "year": 2021,
+      "population": 2189
+    },
+    {
+      "year": 2022,
+      "population": 1934
+    },
+    {
+      "year": 2023,
+      "population": 2460
+    },
+    {
+      "year": 2024,
+      "population": 3090
+    },
+    {
+      "year": 2025,
+      "population": 3561
+    }
+  ],
+  "町田市": [
+    {
+      "year": 1979,
+      "population": 78
+    },
+    {
+      "year": 1980,
+      "population": 93
+    },
+    {
+      "year": 1981,
+      "population": 116
+    },
+    {
+      "year": 1982,
+      "population": 111
+    },
+    {
+      "year": 1983,
+      "population": 108
+    },
+    {
+      "year": 1984,
+      "population": 120
+    },
+    {
+      "year": 1985,
+      "population": 125
+    },
+    {
+      "year": 1986,
+      "population": 143
+    },
+    {
+      "year": 1987,
+      "population": 154
+    },
+    {
+      "year": 1988,
+      "population": 175
+    },
+    {
+      "year": 1989,
+      "population": 227
+    },
+    {
+      "year": 1990,
+      "population": 254
+    },
+    {
+      "year": 1991,
+      "population": 275
+    },
+    {
+      "year": 1992,
+      "population": 312
+    },
+    {
+      "year": 1993,
+      "population": 383
+    },
+    {
+      "year": 1994,
+      "population": 432
+    },
+    {
+      "year": 1995,
+      "population": 502
+    },
+    {
+      "year": 1996,
+      "population": 483
+    },
+    {
+      "year": 1997,
+      "population": 627
+    },
+    {
+      "year": 1998,
+      "population": 682
+    },
+    {
+      "year": 1999,
+      "population": 778
+    },
+    {
+      "year": 2000,
+      "population": 853
+    },
+    {
+      "year": 2001,
+      "population": 967
+    },
+    {
+      "year": 2002,
+      "population": 1066
+    },
+    {
+      "year": 2003,
+      "population": 1197
+    },
+    {
+      "year": 2004,
+      "population": 1351
+    },
+    {
+      "year": 2005,
+      "population": 1481
+    },
+    {
+      "year": 2006,
+      "population": 1641
+    },
+    {
+      "year": 2007,
+      "population": 1865
+    },
+    {
+      "year": 2008,
+      "population": 1923
+    },
+    {
+      "year": 2009,
+      "population": 2168
+    },
+    {
+      "year": 2010,
+      "population": 2154
+    },
+    {
+      "year": 2011,
+      "population": 2214
+    },
+    {
+      "year": 2012,
+      "population": 2121
+    },
+    {
+      "year": 2013,
+      "population": 1950
+    },
+    {
+      "year": 2014,
+      "population": 1932
+    },
+    {
+      "year": 2015,
+      "population": 1970
+    },
+    {
+      "year": 2016,
+      "population": 2040
+    },
+    {
+      "year": 2017,
+      "population": 2044
+    },
+    {
+      "year": 2018,
+      "population": 2245
+    },
+    {
+      "year": 2019,
+      "population": 2421
+    },
+    {
+      "year": 2020,
+      "population": 2692
+    },
+    {
+      "year": 2021,
+      "population": 2725
+    },
+    {
+      "year": 2022,
+      "population": 2700
+    },
+    {
+      "year": 2023,
+      "population": 2895
+    },
+    {
+      "year": 2024,
+      "population": 3138
+    },
+    {
+      "year": 2025,
+      "population": 3427
+    }
+  ],
+  "目黒区": [
+    {
+      "year": 1979,
+      "population": 521
+    },
+    {
+      "year": 1980,
+      "population": 498
+    },
+    {
+      "year": 1981,
+      "population": 586
+    },
+    {
+      "year": 1982,
+      "population": 547
+    },
+    {
+      "year": 1983,
+      "population": 623
+    },
+    {
+      "year": 1984,
+      "population": 659
+    },
+    {
+      "year": 1985,
+      "population": 770
+    },
+    {
+      "year": 1986,
+      "population": 731
+    },
+    {
+      "year": 1987,
+      "population": 791
+    },
+    {
+      "year": 1988,
+      "population": 947
+    },
+    {
+      "year": 1989,
+      "population": 1419
+    },
+    {
+      "year": 1990,
+      "population": 1388
+    },
+    {
+      "year": 1991,
+      "population": 1353
+    },
+    {
+      "year": 1992,
+      "population": 1434
+    },
+    {
+      "year": 1993,
+      "population": 1640
+    },
+    {
+      "year": 1994,
+      "population": 1719
+    },
+    {
+      "year": 1995,
+      "population": 1616
+    },
+    {
+      "year": 1996,
+      "population": 1580
+    },
+    {
+      "year": 1997,
+      "population": 1539
+    },
+    {
+      "year": 1998,
+      "population": 1459
+    },
+    {
+      "year": 1999,
+      "population": 1453
+    },
+    {
+      "year": 2000,
+      "population": 1512
+    },
+    {
+      "year": 2001,
+      "population": 1571
+    },
+    {
+      "year": 2002,
+      "population": 1668
+    },
+    {
+      "year": 2003,
+      "population": 1665
+    },
+    {
+      "year": 2004,
+      "population": 1638
+    },
+    {
+      "year": 2005,
+      "population": 1541
+    },
+    {
+      "year": 2006,
+      "population": 1571
+    },
+    {
+      "year": 2007,
+      "population": 1562
+    },
+    {
+      "year": 2008,
+      "population": 1492
+    },
+    {
+      "year": 2009,
+      "population": 1493
+    },
+    {
+      "year": 2010,
+      "population": 1435
+    },
+    {
+      "year": 2011,
+      "population": 1489
+    },
+    {
+      "year": 2012,
+      "population": 1602
+    },
+    {
+      "year": 2013,
+      "population": 1617
+    },
+    {
+      "year": 2014,
+      "population": 1613
+    },
+    {
+      "year": 2015,
+      "population": 1703
+    },
+    {
+      "year": 2016,
+      "population": 1812
+    },
+    {
+      "year": 2017,
+      "population": 1525
+    },
+    {
+      "year": 2018,
+      "population": 1664
+    },
+    {
+      "year": 2019,
+      "population": 1836
+    },
+    {
+      "year": 2020,
+      "population": 1969
+    },
+    {
+      "year": 2021,
+      "population": 1896
+    },
+    {
+      "year": 2022,
+      "population": 1849
+    },
+    {
+      "year": 2023,
+      "population": 2160
+    },
+    {
+      "year": 2024,
+      "population": 2543
+    },
+    {
+      "year": 2025,
+      "population": 2926
+    }
+  ],
+  "西東京市": [
+    {
+      "year": 1979,
+      "population": 68
+    },
+    {
+      "year": 1980,
+      "population": 79
+    },
+    {
+      "year": 1981,
+      "population": 78
+    },
+    {
+      "year": 1982,
+      "population": 80
+    },
+    {
+      "year": 1983,
+      "population": 107
+    },
+    {
+      "year": 1984,
+      "population": 112
+    },
+    {
+      "year": 1985,
+      "population": 104
+    },
+    {
+      "year": 1986,
+      "population": 111
+    },
+    {
+      "year": 1987,
+      "population": 144
+    },
+    {
+      "year": 1988,
+      "population": 165
+    },
+    {
+      "year": 1989,
+      "population": 269
+    },
+    {
+      "year": 1990,
+      "population": 275
+    },
+    {
+      "year": 1991,
+      "population": 296
+    },
+    {
+      "year": 1992,
+      "population": 346
+    },
+    {
+      "year": 1993,
+      "population": 408
+    },
+    {
+      "year": 1994,
+      "population": 441
+    },
+    {
+      "year": 1995,
+      "population": 430
+    },
+    {
+      "year": 1996,
+      "population": 418
+    },
+    {
+      "year": 1997,
+      "population": 460
+    },
+    {
+      "year": 1998,
+      "population": 502
+    },
+    {
+      "year": 1999,
+      "population": 546
+    },
+    {
+      "year": 2000,
+      "population": 599
+    },
+    {
+      "year": 2001,
+      "population": 644
+    },
+    {
+      "year": 2002,
+      "population": 760
+    },
+    {
+      "year": 2003,
+      "population": 796
+    },
+    {
+      "year": 2004,
+      "population": 841
+    },
+    {
+      "year": 2005,
+      "population": 871
+    },
+    {
+      "year": 2006,
+      "population": 924
+    },
+    {
+      "year": 2007,
+      "population": 1008
+    },
+    {
+      "year": 2008,
+      "population": 1114
+    },
+    {
+      "year": 2009,
+      "population": 1198
+    },
+    {
+      "year": 2010,
+      "population": 1244
+    },
+    {
+      "year": 2011,
+      "population": 1343
+    },
+    {
+      "year": 2012,
+      "population": 1361
+    },
+    {
+      "year": 2013,
+      "population": 1337
+    },
+    {
+      "year": 2014,
+      "population": 1379
+    },
+    {
+      "year": 2015,
+      "population": 1454
+    },
+    {
+      "year": 2016,
+      "population": 1509
+    },
+    {
+      "year": 2017,
+      "population": 1550
+    },
+    {
+      "year": 2018,
+      "population": 1824
+    },
+    {
+      "year": 2019,
+      "population": 1961
+    },
+    {
+      "year": 2020,
+      "population": 2438
+    },
+    {
+      "year": 2021,
+      "population": 2243
+    },
+    {
+      "year": 2022,
+      "population": 1999
+    },
+    {
+      "year": 2023,
+      "population": 2004
+    },
+    {
+      "year": 2024,
+      "population": 2192
+    },
+    {
+      "year": 2025,
+      "population": 2358
+    }
+  ],
+  "立川市": [
+    {
+      "year": 1979,
+      "population": 125
+    },
+    {
+      "year": 1980,
+      "population": 117
+    },
+    {
+      "year": 1981,
+      "population": 107
+    },
+    {
+      "year": 1982,
+      "population": 120
+    },
+    {
+      "year": 1983,
+      "population": 117
+    },
+    {
+      "year": 1984,
+      "population": 127
+    },
+    {
+      "year": 1985,
+      "population": 131
+    },
+    {
+      "year": 1986,
+      "population": 136
+    },
+    {
+      "year": 1987,
+      "population": 149
+    },
+    {
+      "year": 1988,
+      "population": 185
+    },
+    {
+      "year": 1989,
+      "population": 248
+    },
+    {
+      "year": 1990,
+      "population": 290
+    },
+    {
+      "year": 1991,
+      "population": 315
+    },
+    {
+      "year": 1992,
+      "population": 356
+    },
+    {
+      "year": 1993,
+      "population": 463
+    },
+    {
+      "year": 1994,
+      "population": 518
+    },
+    {
+      "year": 1995,
+      "population": 554
+    },
+    {
+      "year": 1996,
+      "population": 568
+    },
+    {
+      "year": 1997,
+      "population": 590
+    },
+    {
+      "year": 1998,
+      "population": 636
+    },
+    {
+      "year": 1999,
+      "population": 709
+    },
+    {
+      "year": 2000,
+      "population": 783
+    },
+    {
+      "year": 2001,
+      "population": 889
+    },
+    {
+      "year": 2002,
+      "population": 1023
+    },
+    {
+      "year": 2003,
+      "population": 1101
+    },
+    {
+      "year": 2004,
+      "population": 1267
+    },
+    {
+      "year": 2005,
+      "population": 1313
+    },
+    {
+      "year": 2006,
+      "population": 1356
+    },
+    {
+      "year": 2007,
+      "population": 1427
+    },
+    {
+      "year": 2008,
+      "population": 1494
+    },
+    {
+      "year": 2009,
+      "population": 1564
+    },
+    {
+      "year": 2010,
+      "population": 1666
+    },
+    {
+      "year": 2011,
+      "population": 1668
+    },
+    {
+      "year": 2012,
+      "population": 1619
+    },
+    {
+      "year": 2013,
+      "population": 1487
+    },
+    {
+      "year": 2014,
+      "population": 1497
+    },
+    {
+      "year": 2015,
+      "population": 1556
+    },
+    {
+      "year": 2016,
+      "population": 1658
+    },
+    {
+      "year": 2017,
+      "population": 1678
+    },
+    {
+      "year": 2018,
+      "population": 1775
+    },
+    {
+      "year": 2019,
+      "population": 1928
+    },
+    {
+      "year": 2020,
+      "population": 2016
+    },
+    {
+      "year": 2021,
+      "population": 1959
+    },
+    {
+      "year": 2022,
+      "population": 1964
+    },
+    {
+      "year": 2023,
+      "population": 2100
+    },
+    {
+      "year": 2024,
+      "population": 2204
+    },
+    {
+      "year": 2025,
+      "population": 2353
+    }
+  ],
+  "千代田区": [
+    {
+      "year": 1979,
+      "population": 329
+    },
+    {
+      "year": 1980,
+      "population": 349
+    },
+    {
+      "year": 1981,
+      "population": 432
+    },
+    {
+      "year": 1982,
+      "population": 399
+    },
+    {
+      "year": 1983,
+      "population": 392
+    },
+    {
+      "year": 1984,
+      "population": 389
+    },
+    {
+      "year": 1985,
+      "population": 392
+    },
+    {
+      "year": 1986,
+      "population": 396
+    },
+    {
+      "year": 1987,
+      "population": 381
+    },
+    {
+      "year": 1988,
+      "population": 363
+    },
+    {
+      "year": 1989,
+      "population": 365
+    },
+    {
+      "year": 1990,
+      "population": 297
+    },
+    {
+      "year": 1991,
+      "population": 251
+    },
+    {
+      "year": 1992,
+      "population": 269
+    },
+    {
+      "year": 1993,
+      "population": 264
+    },
+    {
+      "year": 1994,
+      "population": 253
+    },
+    {
+      "year": 1995,
+      "population": 257
+    },
+    {
+      "year": 1996,
+      "population": 269
+    },
+    {
+      "year": 1997,
+      "population": 267
+    },
+    {
+      "year": 1998,
+      "population": 296
+    },
+    {
+      "year": 1999,
+      "population": 315
+    },
+    {
+      "year": 2000,
+      "population": 307
+    },
+    {
+      "year": 2001,
+      "population": 367
+    },
+    {
+      "year": 2002,
+      "population": 392
+    },
+    {
+      "year": 2003,
+      "population": 425
+    },
+    {
+      "year": 2004,
+      "population": 474
+    },
+    {
+      "year": 2005,
+      "population": 576
+    },
+    {
+      "year": 2006,
+      "population": 706
+    },
+    {
+      "year": 2007,
+      "population": 689
+    },
+    {
+      "year": 2008,
+      "population": 796
+    },
+    {
+      "year": 2009,
+      "population": 840
+    },
+    {
+      "year": 2010,
+      "population": 922
+    },
+    {
+      "year": 2011,
+      "population": 1002
+    },
+    {
+      "year": 2012,
+      "population": 982
+    },
+    {
+      "year": 2013,
+      "population": 1085
+    },
+    {
+      "year": 2014,
+      "population": 1084
+    },
+    {
+      "year": 2015,
+      "population": 1132
+    },
+    {
+      "year": 2016,
+      "population": 1156
+    },
+    {
+      "year": 2017,
+      "population": 1098
+    },
+    {
+      "year": 2018,
+      "population": 1136
+    },
+    {
+      "year": 2019,
+      "population": 1250
+    },
+    {
+      "year": 2020,
+      "population": 1386
+    },
+    {
+      "year": 2021,
+      "population": 1367
+    },
+    {
+      "year": 2022,
+      "population": 1309
+    },
+    {
+      "year": 2023,
+      "population": 1724
+    },
+    {
+      "year": 2024,
+      "population": 2101
+    },
+    {
+      "year": 2025,
+      "population": 2247
+    }
+  ],
+  "小平市": [
+    {
+      "year": 1979,
+      "population": 49
+    },
+    {
+      "year": 1980,
+      "population": 52
+    },
+    {
+      "year": 1981,
+      "population": 56
+    },
+    {
+      "year": 1982,
+      "population": 52
+    },
+    {
+      "year": 1983,
+      "population": 55
+    },
+    {
+      "year": 1984,
+      "population": 57
+    },
+    {
+      "year": 1985,
+      "population": 53
+    },
+    {
+      "year": 1986,
+      "population": 59
+    },
+    {
+      "year": 1987,
+      "population": 83
+    },
+    {
+      "year": 1988,
+      "population": 107
+    },
+    {
+      "year": 1989,
+      "population": 178
+    },
+    {
+      "year": 1990,
+      "population": 175
+    },
+    {
+      "year": 1991,
+      "population": 209
+    },
+    {
+      "year": 1992,
+      "population": 264
+    },
+    {
+      "year": 1993,
+      "population": 322
+    },
+    {
+      "year": 1994,
+      "population": 332
+    },
+    {
+      "year": 1995,
+      "population": 324
+    },
+    {
+      "year": 1996,
+      "population": 352
+    },
+    {
+      "year": 1997,
+      "population": 379
+    },
+    {
+      "year": 1998,
+      "population": 397
+    },
+    {
+      "year": 1999,
+      "population": 442
+    },
+    {
+      "year": 2000,
+      "population": 563
+    },
+    {
+      "year": 2001,
+      "population": 618
+    },
+    {
+      "year": 2002,
+      "population": 716
+    },
+    {
+      "year": 2003,
+      "population": 787
+    },
+    {
+      "year": 2004,
+      "population": 1011
+    },
+    {
+      "year": 2005,
+      "population": 963
+    },
+    {
+      "year": 2006,
+      "population": 1014
+    },
+    {
+      "year": 2007,
+      "population": 1045
+    },
+    {
+      "year": 2008,
+      "population": 1111
+    },
+    {
+      "year": 2009,
+      "population": 1153
+    },
+    {
+      "year": 2010,
+      "population": 1225
+    },
+    {
+      "year": 2011,
+      "population": 1230
+    },
+    {
+      "year": 2012,
+      "population": 1183
+    },
+    {
+      "year": 2013,
+      "population": 1168
+    },
+    {
+      "year": 2014,
+      "population": 1292
+    },
+    {
+      "year": 2015,
+      "population": 1397
+    },
+    {
+      "year": 2016,
+      "population": 1512
+    },
+    {
+      "year": 2017,
+      "population": 1474
+    },
+    {
+      "year": 2018,
+      "population": 1632
+    },
+    {
+      "year": 2019,
+      "population": 1758
+    },
+    {
+      "year": 2020,
+      "population": 1994
+    },
+    {
+      "year": 2021,
+      "population": 1832
+    },
+    {
+      "year": 2022,
+      "population": 1635
+    },
+    {
+      "year": 2023,
+      "population": 1734
+    },
+    {
+      "year": 2024,
+      "population": 1789
+    },
+    {
+      "year": 2025,
+      "population": 1931
+    }
+  ],
+  "府中市": [
+    {
+      "year": 1979,
+      "population": 95
+    },
+    {
+      "year": 1980,
+      "population": 82
+    },
+    {
+      "year": 1981,
+      "population": 81
+    },
+    {
+      "year": 1982,
+      "population": 87
+    },
+    {
+      "year": 1983,
+      "population": 111
+    },
+    {
+      "year": 1984,
+      "population": 111
+    },
+    {
+      "year": 1985,
+      "population": 130
+    },
+    {
+      "year": 1986,
+      "population": 131
+    },
+    {
+      "year": 1987,
+      "population": 173
+    },
+    {
+      "year": 1988,
+      "population": 206
+    },
+    {
+      "year": 1989,
+      "population": 331
+    },
+    {
+      "year": 1990,
+      "population": 335
+    },
+    {
+      "year": 1991,
+      "population": 417
+    },
+    {
+      "year": 1992,
+      "population": 486
+    },
+    {
+      "year": 1993,
+      "population": 559
+    },
+    {
+      "year": 1994,
+      "population": 658
+    },
+    {
+      "year": 1995,
+      "population": 639
+    },
+    {
+      "year": 1996,
+      "population": 668
+    },
+    {
+      "year": 1997,
+      "population": 743
+    },
+    {
+      "year": 1998,
+      "population": 788
+    },
+    {
+      "year": 1999,
+      "population": 853
+    },
+    {
+      "year": 2000,
+      "population": 935
+    },
+    {
+      "year": 2001,
+      "population": 960
+    },
+    {
+      "year": 2002,
+      "population": 1077
+    },
+    {
+      "year": 2003,
+      "population": 1150
+    },
+    {
+      "year": 2004,
+      "population": 1196
+    },
+    {
+      "year": 2005,
+      "population": 1239
+    },
+    {
+      "year": 2006,
+      "population": 1300
+    },
+    {
+      "year": 2007,
+      "population": 1280
+    },
+    {
+      "year": 2008,
+      "population": 1384
+    },
+    {
+      "year": 2009,
+      "population": 1489
+    },
+    {
+      "year": 2010,
+      "population": 1598
+    },
+    {
+      "year": 2011,
+      "population": 1658
+    },
+    {
+      "year": 2012,
+      "population": 1585
+    },
+    {
+      "year": 2013,
+      "population": 1520
+    },
+    {
+      "year": 2014,
+      "population": 1580
+    },
+    {
+      "year": 2015,
+      "population": 1635
+    },
+    {
+      "year": 2016,
+      "population": 1695
+    },
+    {
+      "year": 2017,
+      "population": 1623
+    },
+    {
+      "year": 2018,
+      "population": 1668
+    },
+    {
+      "year": 2019,
+      "population": 1809
+    },
+    {
+      "year": 2020,
+      "population": 1858
+    },
+    {
+      "year": 2021,
+      "population": 1793
+    },
+    {
+      "year": 2022,
+      "population": 1670
+    },
+    {
+      "year": 2023,
+      "population": 1688
+    },
+    {
+      "year": 2024,
+      "population": 1741
+    },
+    {
+      "year": 2025,
+      "population": 1840
+    }
+  ],
+  "調布市": [
+    {
+      "year": 1979,
+      "population": 107
+    },
+    {
+      "year": 1980,
+      "population": 118
+    },
+    {
+      "year": 1981,
+      "population": 111
+    },
+    {
+      "year": 1982,
+      "population": 122
+    },
+    {
+      "year": 1983,
+      "population": 158
+    },
+    {
+      "year": 1984,
+      "population": 169
+    },
+    {
+      "year": 1985,
+      "population": 175
+    },
+    {
+      "year": 1986,
+      "population": 202
+    },
+    {
+      "year": 1987,
+      "population": 232
+    },
+    {
+      "year": 1988,
+      "population": 308
+    },
+    {
+      "year": 1989,
+      "population": 438
+    },
+    {
+      "year": 1990,
+      "population": 416
+    },
+    {
+      "year": 1991,
+      "population": 446
+    },
+    {
+      "year": 1992,
+      "population": 557
+    },
+    {
+      "year": 1993,
+      "population": 680
+    },
+    {
+      "year": 1994,
+      "population": 765
+    },
+    {
+      "year": 1995,
+      "population": 783
+    },
+    {
+      "year": 1996,
+      "population": 796
+    },
+    {
+      "year": 1997,
+      "population": 795
+    },
+    {
+      "year": 1998,
+      "population": 819
+    },
+    {
+      "year": 1999,
+      "population": 878
+    },
+    {
+      "year": 2000,
+      "population": 908
+    },
+    {
+      "year": 2001,
+      "population": 967
+    },
+    {
+      "year": 2002,
+      "population": 1081
+    },
+    {
+      "year": 2003,
+      "population": 1114
+    },
+    {
+      "year": 2004,
+      "population": 1156
+    },
+    {
+      "year": 2005,
+      "population": 1167
+    },
+    {
+      "year": 2006,
+      "population": 1187
+    },
+    {
+      "year": 2007,
+      "population": 1186
+    },
+    {
+      "year": 2008,
+      "population": 1259
+    },
+    {
+      "year": 2009,
+      "population": 1333
+    },
+    {
+      "year": 2010,
+      "population": 1380
+    },
+    {
+      "year": 2011,
+      "population": 1464
+    },
+    {
+      "year": 2012,
+      "population": 1371
+    },
+    {
+      "year": 2013,
+      "population": 1276
+    },
+    {
+      "year": 2014,
+      "population": 1267
+    },
+    {
+      "year": 2015,
+      "population": 1405
+    },
+    {
+      "year": 2016,
+      "population": 1462
+    },
+    {
+      "year": 2017,
+      "population": 1443
+    },
+    {
+      "year": 2018,
+      "population": 1513
+    },
+    {
+      "year": 2019,
+      "population": 1662
+    },
+    {
+      "year": 2020,
+      "population": 1702
+    },
+    {
+      "year": 2021,
+      "population": 1594
+    },
+    {
+      "year": 2022,
+      "population": 1505
+    },
+    {
+      "year": 2023,
+      "population": 1615
+    },
+    {
+      "year": 2024,
+      "population": 1679
+    },
+    {
+      "year": 2025,
+      "population": 1759
+    }
+  ],
+  "武蔵野市": [
+    {
+      "year": 1979,
+      "population": 223
+    },
+    {
+      "year": 1980,
+      "population": 242
+    },
+    {
+      "year": 1981,
+      "population": 228
+    },
+    {
+      "year": 1982,
+      "population": 224
+    },
+    {
+      "year": 1983,
+      "population": 230
+    },
+    {
+      "year": 1984,
+      "population": 242
+    },
+    {
+      "year": 1985,
+      "population": 255
+    },
+    {
+      "year": 1986,
+      "population": 248
+    },
+    {
+      "year": 1987,
+      "population": 250
+    },
+    {
+      "year": 1988,
+      "population": 294
+    },
+    {
+      "year": 1989,
+      "population": 447
+    },
+    {
+      "year": 1990,
+      "population": 528
+    },
+    {
+      "year": 1991,
+      "population": 639
+    },
+    {
+      "year": 1992,
+      "population": 723
+    },
+    {
+      "year": 1993,
+      "population": 823
+    },
+    {
+      "year": 1994,
+      "population": 848
+    },
+    {
+      "year": 1995,
+      "population": 868
+    },
+    {
+      "year": 1996,
+      "population": 854
+    },
+    {
+      "year": 1997,
+      "population": 801
+    },
+    {
+      "year": 1998,
+      "population": 785
+    },
+    {
+      "year": 1999,
+      "population": 756
+    },
+    {
+      "year": 2000,
+      "population": 774
+    },
+    {
+      "year": 2001,
+      "population": 841
+    },
+    {
+      "year": 2002,
+      "population": 951
+    },
+    {
+      "year": 2003,
+      "population": 1057
+    },
+    {
+      "year": 2004,
+      "population": 1022
+    },
+    {
+      "year": 2005,
+      "population": 946
+    },
+    {
+      "year": 2006,
+      "population": 899
+    },
+    {
+      "year": 2007,
+      "population": 851
+    },
+    {
+      "year": 2008,
+      "population": 830
+    },
+    {
+      "year": 2009,
+      "population": 834
+    },
+    {
+      "year": 2010,
+      "population": 844
+    },
+    {
+      "year": 2011,
+      "population": 845
+    },
+    {
+      "year": 2012,
+      "population": 817
+    },
+    {
+      "year": 2013,
+      "population": 799
+    },
+    {
+      "year": 2014,
+      "population": 843
+    },
+    {
+      "year": 2015,
+      "population": 870
+    },
+    {
+      "year": 2016,
+      "population": 941
+    },
+    {
+      "year": 2017,
+      "population": 902
+    },
+    {
+      "year": 2018,
+      "population": 985
+    },
+    {
+      "year": 2019,
+      "population": 1083
+    },
+    {
+      "year": 2020,
+      "population": 1188
+    },
+    {
+      "year": 2021,
+      "population": 1132
+    },
+    {
+      "year": 2022,
+      "population": 1078
+    },
+    {
+      "year": 2023,
+      "population": 1168
+    },
+    {
+      "year": 2024,
+      "population": 1333
+    },
+    {
+      "year": 2025,
+      "population": 1487
+    }
+  ],
+  "日野市": [
+    {
+      "year": 1979,
+      "population": 70
+    },
+    {
+      "year": 1980,
+      "population": 65
+    },
+    {
+      "year": 1981,
+      "population": 58
+    },
+    {
+      "year": 1982,
+      "population": 97
+    },
+    {
+      "year": 1983,
+      "population": 63
+    },
+    {
+      "year": 1984,
+      "population": 66
+    },
+    {
+      "year": 1985,
+      "population": 73
+    },
+    {
+      "year": 1986,
+      "population": 96
+    },
+    {
+      "year": 1987,
+      "population": 103
+    },
+    {
+      "year": 1988,
+      "population": 106
+    },
+    {
+      "year": 1989,
+      "population": 127
+    },
+    {
+      "year": 1990,
+      "population": 158
+    },
+    {
+      "year": 1991,
+      "population": 166
+    },
+    {
+      "year": 1992,
+      "population": 211
+    },
+    {
+      "year": 1993,
+      "population": 262
+    },
+    {
+      "year": 1994,
+      "population": 286
+    },
+    {
+      "year": 1995,
+      "population": 286
+    },
+    {
+      "year": 1996,
+      "population": 339
+    },
+    {
+      "year": 1997,
+      "population": 391
+    },
+    {
+      "year": 1998,
+      "population": 428
+    },
+    {
+      "year": 1999,
+      "population": 431
+    },
+    {
+      "year": 2000,
+      "population": 482
+    },
+    {
+      "year": 2001,
+      "population": 504
+    },
+    {
+      "year": 2002,
+      "population": 702
+    },
+    {
+      "year": 2003,
+      "population": 782
+    },
+    {
+      "year": 2004,
+      "population": 913
+    },
+    {
+      "year": 2005,
+      "population": 987
+    },
+    {
+      "year": 2006,
+      "population": 943
+    },
+    {
+      "year": 2007,
+      "population": 1036
+    },
+    {
+      "year": 2008,
+      "population": 1068
+    },
+    {
+      "year": 2009,
+      "population": 1107
+    },
+    {
+      "year": 2010,
+      "population": 1148
+    },
+    {
+      "year": 2011,
+      "population": 1179
+    },
+    {
+      "year": 2012,
+      "population": 1156
+    },
+    {
+      "year": 2013,
+      "population": 1138
+    },
+    {
+      "year": 2014,
+      "population": 1102
+    },
+    {
+      "year": 2015,
+      "population": 1105
+    },
+    {
+      "year": 2016,
+      "population": 1122
+    },
+    {
+      "year": 2017,
+      "population": 1097
+    },
+    {
+      "year": 2018,
+      "population": 1144
+    },
+    {
+      "year": 2019,
+      "population": 1202
+    },
+    {
+      "year": 2020,
+      "population": 1292
+    },
+    {
+      "year": 2021,
+      "population": 1298
+    },
+    {
+      "year": 2022,
+      "population": 1236
+    },
+    {
+      "year": 2023,
+      "population": 1286
+    },
+    {
+      "year": 2024,
+      "population": 1297
+    },
+    {
+      "year": 2025,
+      "population": 1393
+    }
+  ],
+  "東村山市": [
+    {
+      "year": 1979,
+      "population": 34
+    },
+    {
+      "year": 1980,
+      "population": 39
+    },
+    {
+      "year": 1981,
+      "population": 50
+    },
+    {
+      "year": 1982,
+      "population": 41
+    },
+    {
+      "year": 1983,
+      "population": 39
+    },
+    {
+      "year": 1984,
+      "population": 50
+    },
+    {
+      "year": 1985,
+      "population": 58
+    },
+    {
+      "year": 1986,
+      "population": 83
+    },
+    {
+      "year": 1987,
+      "population": 74
+    },
+    {
+      "year": 1988,
+      "population": 86
+    },
+    {
+      "year": 1989,
+      "population": 109
+    },
+    {
+      "year": 1990,
+      "population": 109
+    },
+    {
+      "year": 1991,
+      "population": 148
+    },
+    {
+      "year": 1992,
+      "population": 196
+    },
+    {
+      "year": 1993,
+      "population": 222
+    },
+    {
+      "year": 1994,
+      "population": 245
+    },
+    {
+      "year": 1995,
+      "population": 254
+    },
+    {
+      "year": 1996,
+      "population": 245
+    },
+    {
+      "year": 1997,
+      "population": 249
+    },
+    {
+      "year": 1998,
+      "population": 242
+    },
+    {
+      "year": 1999,
+      "population": 255
+    },
+    {
+      "year": 2000,
+      "population": 309
+    },
+    {
+      "year": 2001,
+      "population": 327
+    },
+    {
+      "year": 2002,
+      "population": 379
+    },
+    {
+      "year": 2003,
+      "population": 445
+    },
+    {
+      "year": 2004,
+      "population": 464
+    },
+    {
+      "year": 2005,
+      "population": 496
+    },
+    {
+      "year": 2006,
+      "population": 482
+    },
+    {
+      "year": 2007,
+      "population": 506
+    },
+    {
+      "year": 2008,
+      "population": 626
+    },
+    {
+      "year": 2009,
+      "population": 729
+    },
+    {
+      "year": 2010,
+      "population": 809
+    },
+    {
+      "year": 2011,
+      "population": 870
+    },
+    {
+      "year": 2012,
+      "population": 883
+    },
+    {
+      "year": 2013,
+      "population": 774
+    },
+    {
+      "year": 2014,
+      "population": 786
+    },
+    {
+      "year": 2015,
+      "population": 892
+    },
+    {
+      "year": 2016,
+      "population": 907
+    },
+    {
+      "year": 2017,
+      "population": 894
+    },
+    {
+      "year": 2018,
+      "population": 1024
+    },
+    {
+      "year": 2019,
+      "population": 1103
+    },
+    {
+      "year": 2020,
+      "population": 1227
+    },
+    {
+      "year": 2021,
+      "population": 1224
+    },
+    {
+      "year": 2022,
+      "population": 1177
+    },
+    {
+      "year": 2023,
+      "population": 1198
+    },
+    {
+      "year": 2024,
+      "population": 1295
+    },
+    {
+      "year": 2025,
+      "population": 1375
+    }
+  ],
+  "三鷹市": [
+    {
+      "year": 1979,
+      "population": 143
+    },
+    {
+      "year": 1980,
+      "population": 123
+    },
+    {
+      "year": 1981,
+      "population": 126
+    },
+    {
+      "year": 1982,
+      "population": 149
+    },
+    {
+      "year": 1983,
+      "population": 160
+    },
+    {
+      "year": 1984,
+      "population": 147
+    },
+    {
+      "year": 1985,
+      "population": 193
+    },
+    {
+      "year": 1986,
+      "population": 209
+    },
+    {
+      "year": 1987,
+      "population": 282
+    },
+    {
+      "year": 1988,
+      "population": 326
+    },
+    {
+      "year": 1989,
+      "population": 533
+    },
+    {
+      "year": 1990,
+      "population": 540
+    },
+    {
+      "year": 1991,
+      "population": 498
+    },
+    {
+      "year": 1992,
+      "population": 591
+    },
+    {
+      "year": 1993,
+      "population": 685
+    },
+    {
+      "year": 1994,
+      "population": 713
+    },
+    {
+      "year": 1995,
+      "population": 781
+    },
+    {
+      "year": 1996,
+      "population": 769
+    },
+    {
+      "year": 1997,
+      "population": 770
+    },
+    {
+      "year": 1998,
+      "population": 812
+    },
+    {
+      "year": 1999,
+      "population": 782
+    },
+    {
+      "year": 2000,
+      "population": 765
+    },
+    {
+      "year": 2001,
+      "population": 896
+    },
+    {
+      "year": 2002,
+      "population": 1035
+    },
+    {
+      "year": 2003,
+      "population": 955
+    },
+    {
+      "year": 2004,
+      "population": 934
+    },
+    {
+      "year": 2005,
+      "population": 926
+    },
+    {
+      "year": 2006,
+      "population": 911
+    },
+    {
+      "year": 2007,
+      "population": 937
+    },
+    {
+      "year": 2008,
+      "population": 970
+    },
+    {
+      "year": 2009,
+      "population": 947
+    },
+    {
+      "year": 2010,
+      "population": 941
+    },
+    {
+      "year": 2011,
+      "population": 938
+    },
+    {
+      "year": 2012,
+      "population": 942
+    },
+    {
+      "year": 2013,
+      "population": 915
+    },
+    {
+      "year": 2014,
+      "population": 921
+    },
+    {
+      "year": 2015,
+      "population": 1005
+    },
+    {
+      "year": 2016,
+      "population": 1018
+    },
+    {
+      "year": 2017,
+      "population": 1030
+    },
+    {
+      "year": 2018,
+      "population": 1186
+    },
+    {
+      "year": 2019,
+      "population": 1178
+    },
+    {
+      "year": 2020,
+      "population": 1227
+    },
+    {
+      "year": 2021,
+      "population": 1155
+    },
+    {
+      "year": 2022,
+      "population": 1069
+    },
+    {
+      "year": 2023,
+      "population": 1145
+    },
+    {
+      "year": 2024,
+      "population": 1254
+    },
+    {
+      "year": 2025,
+      "population": 1374
+    }
+  ],
+  "国分寺市": [
+    {
+      "year": 1979,
+      "population": 39
+    },
+    {
+      "year": 1980,
+      "population": 50
+    },
+    {
+      "year": 1981,
+      "population": 52
+    },
+    {
+      "year": 1982,
+      "population": 49
+    },
+    {
+      "year": 1983,
+      "population": 53
+    },
+    {
+      "year": 1984,
+      "population": 60
+    },
+    {
+      "year": 1985,
+      "population": 67
+    },
+    {
+      "year": 1986,
+      "population": 66
+    },
+    {
+      "year": 1987,
+      "population": 67
+    },
+    {
+      "year": 1988,
+      "population": 100
+    },
+    {
+      "year": 1989,
+      "population": 132
+    },
+    {
+      "year": 1990,
+      "population": 150
+    },
+    {
+      "year": 1991,
+      "population": 150
+    },
+    {
+      "year": 1992,
+      "population": 187
+    },
+    {
+      "year": 1993,
+      "population": 211
+    },
+    {
+      "year": 1994,
+      "population": 274
+    },
+    {
+      "year": 1995,
+      "population": 261
+    },
+    {
+      "year": 1996,
+      "population": 260
+    },
+    {
+      "year": 1997,
+      "population": 303
+    },
+    {
+      "year": 1998,
+      "population": 328
+    },
+    {
+      "year": 1999,
+      "population": 336
+    },
+    {
+      "year": 2000,
+      "population": 353
+    },
+    {
+      "year": 2001,
+      "population": 392
+    },
+    {
+      "year": 2002,
+      "population": 519
+    },
+    {
+      "year": 2003,
+      "population": 584
+    },
+    {
+      "year": 2004,
+      "population": 576
+    },
+    {
+      "year": 2005,
+      "population": 582
+    },
+    {
+      "year": 2006,
+      "population": 644
+    },
+    {
+      "year": 2007,
+      "population": 654
+    },
+    {
+      "year": 2008,
+      "population": 677
+    },
+    {
+      "year": 2009,
+      "population": 707
+    },
+    {
+      "year": 2010,
+      "population": 717
+    },
+    {
+      "year": 2011,
+      "population": 738
+    },
+    {
+      "year": 2012,
+      "population": 726
+    },
+    {
+      "year": 2013,
+      "population": 749
+    },
+    {
+      "year": 2014,
+      "population": 745
+    },
+    {
+      "year": 2015,
+      "population": 782
+    },
+    {
+      "year": 2016,
+      "population": 829
+    },
+    {
+      "year": 2017,
+      "population": 805
+    },
+    {
+      "year": 2018,
+      "population": 895
+    },
+    {
+      "year": 2019,
+      "population": 1030
+    },
+    {
+      "year": 2020,
+      "population": 1173
+    },
+    {
+      "year": 2021,
+      "population": 1198
+    },
+    {
+      "year": 2022,
+      "population": 1174
+    },
+    {
+      "year": 2023,
+      "population": 1163
+    },
+    {
+      "year": 2024,
+      "population": 1208
+    },
+    {
+      "year": 2025,
+      "population": 1348
+    }
+  ],
+  "多摩市": [
+    {
+      "year": 1979,
+      "population": 14
+    },
+    {
+      "year": 1980,
+      "population": 15
+    },
+    {
+      "year": 1981,
+      "population": 13
+    },
+    {
+      "year": 1982,
+      "population": 13
+    },
+    {
+      "year": 1983,
+      "population": 11
+    },
+    {
+      "year": 1984,
+      "population": 17
+    },
+    {
+      "year": 1985,
+      "population": 22
+    },
+    {
+      "year": 1986,
+      "population": 37
+    },
+    {
+      "year": 1987,
+      "population": 48
+    },
+    {
+      "year": 1988,
+      "population": 66
+    },
+    {
+      "year": 1989,
+      "population": 85
+    },
+    {
+      "year": 1990,
+      "population": 105
+    },
+    {
+      "year": 1991,
+      "population": 130
+    },
+    {
+      "year": 1992,
+      "population": 155
+    },
+    {
+      "year": 1993,
+      "population": 228
+    },
+    {
+      "year": 1994,
+      "population": 250
+    },
+    {
+      "year": 1995,
+      "population": 250
+    },
+    {
+      "year": 1996,
+      "population": 286
+    },
+    {
+      "year": 1997,
+      "population": 314
+    },
+    {
+      "year": 1998,
+      "population": 353
+    },
+    {
+      "year": 1999,
+      "population": 376
+    },
+    {
+      "year": 2000,
+      "population": 425
+    },
+    {
+      "year": 2001,
+      "population": 520
+    },
+    {
+      "year": 2002,
+      "population": 613
+    },
+    {
+      "year": 2003,
+      "population": 668
+    },
+    {
+      "year": 2004,
+      "population": 742
+    },
+    {
+      "year": 2005,
+      "population": 753
+    },
+    {
+      "year": 2006,
+      "population": 799
+    },
+    {
+      "year": 2007,
+      "population": 857
+    },
+    {
+      "year": 2008,
+      "population": 1013
+    },
+    {
+      "year": 2009,
+      "population": 1041
+    },
+    {
+      "year": 2010,
+      "population": 1079
+    },
+    {
+      "year": 2011,
+      "population": 1058
+    },
+    {
+      "year": 2012,
+      "population": 983
+    },
+    {
+      "year": 2013,
+      "population": 862
+    },
+    {
+      "year": 2014,
+      "population": 852
+    },
+    {
+      "year": 2015,
+      "population": 856
+    },
+    {
+      "year": 2016,
+      "population": 898
+    },
+    {
+      "year": 2017,
+      "population": 963
+    },
+    {
+      "year": 2018,
+      "population": 1060
+    },
+    {
+      "year": 2019,
+      "population": 1133
+    },
+    {
+      "year": 2020,
+      "population": 1211
+    },
+    {
+      "year": 2021,
+      "population": 1169
+    },
+    {
+      "year": 2022,
+      "population": 1106
+    },
+    {
+      "year": 2023,
+      "population": 1162
+    },
+    {
+      "year": 2024,
+      "population": 1228
+    },
+    {
+      "year": 2025,
+      "population": 1308
+    }
+  ],
+  "小金井市": [
+    {
+      "year": 1979,
+      "population": 75
+    },
+    {
+      "year": 1980,
+      "population": 81
+    },
+    {
+      "year": 1981,
+      "population": 71
+    },
+    {
+      "year": 1982,
+      "population": 69
+    },
+    {
+      "year": 1983,
+      "population": 67
+    },
+    {
+      "year": 1984,
+      "population": 70
+    },
+    {
+      "year": 1985,
+      "population": 111
+    },
+    {
+      "year": 1986,
+      "population": 99
+    },
+    {
+      "year": 1987,
+      "population": 142
+    },
+    {
+      "year": 1988,
+      "population": 175
+    },
+    {
+      "year": 1989,
+      "population": 327
+    },
+    {
+      "year": 1990,
+      "population": 381
+    },
+    {
+      "year": 1991,
+      "population": 423
+    },
+    {
+      "year": 1992,
+      "population": 497
+    },
+    {
+      "year": 1993,
+      "population": 504
+    },
+    {
+      "year": 1994,
+      "population": 528
+    },
+    {
+      "year": 1995,
+      "population": 545
+    },
+    {
+      "year": 1996,
+      "population": 555
+    },
+    {
+      "year": 1997,
+      "population": 538
+    },
+    {
+      "year": 1998,
+      "population": 578
+    },
+    {
+      "year": 1999,
+      "population": 539
+    },
+    {
+      "year": 2000,
+      "population": 567
+    },
+    {
+      "year": 2001,
+      "population": 609
+    },
+    {
+      "year": 2002,
+      "population": 691
+    },
+    {
+      "year": 2003,
+      "population": 780
+    },
+    {
+      "year": 2004,
+      "population": 833
+    },
+    {
+      "year": 2005,
+      "population": 912
+    },
+    {
+      "year": 2006,
+      "population": 995
+    },
+    {
+      "year": 2007,
+      "population": 965
+    },
+    {
+      "year": 2008,
+      "population": 1037
+    },
+    {
+      "year": 2009,
+      "population": 1027
+    },
+    {
+      "year": 2010,
+      "population": 1012
+    },
+    {
+      "year": 2011,
+      "population": 1034
+    },
+    {
+      "year": 2012,
+      "population": 1013
+    },
+    {
+      "year": 2013,
+      "population": 935
+    },
+    {
+      "year": 2014,
+      "population": 918
+    },
+    {
+      "year": 2015,
+      "population": 906
+    },
+    {
+      "year": 2016,
+      "population": 954
+    },
+    {
+      "year": 2017,
+      "population": 970
+    },
+    {
+      "year": 2018,
+      "population": 1022
+    },
+    {
+      "year": 2019,
+      "population": 1160
+    },
+    {
+      "year": 2020,
+      "population": 1262
+    },
+    {
+      "year": 2021,
+      "population": 1169
+    },
+    {
+      "year": 2022,
+      "population": 1073
+    },
+    {
+      "year": 2023,
+      "population": 1143
+    },
+    {
+      "year": 2024,
+      "population": 1207
+    },
+    {
+      "year": 2025,
+      "population": 1283
+    }
+  ],
+  "東久留米市": [
+    {
+      "year": 1979,
+      "population": 14
+    },
+    {
+      "year": 1980,
+      "population": 16
+    },
+    {
+      "year": 1981,
+      "population": 23
+    },
+    {
+      "year": 1982,
+      "population": 28
+    },
+    {
+      "year": 1983,
+      "population": 33
+    },
+    {
+      "year": 1984,
+      "population": 34
+    },
+    {
+      "year": 1985,
+      "population": 42
+    },
+    {
+      "year": 1986,
+      "population": 40
+    },
+    {
+      "year": 1987,
+      "population": 46
+    },
+    {
+      "year": 1988,
+      "population": 58
+    },
+    {
+      "year": 1989,
+      "population": 90
+    },
+    {
+      "year": 1990,
+      "population": 105
+    },
+    {
+      "year": 1991,
+      "population": 91
+    },
+    {
+      "year": 1992,
+      "population": 114
+    },
+    {
+      "year": 1993,
+      "population": 141
+    },
+    {
+      "year": 1994,
+      "population": 160
+    },
+    {
+      "year": 1995,
+      "population": 167
+    },
+    {
+      "year": 1996,
+      "population": 167
+    },
+    {
+      "year": 1997,
+      "population": 157
+    },
+    {
+      "year": 1998,
+      "population": 182
+    },
+    {
+      "year": 1999,
+      "population": 214
+    },
+    {
+      "year": 2000,
+      "population": 212
+    },
+    {
+      "year": 2001,
+      "population": 223
+    },
+    {
+      "year": 2002,
+      "population": 252
+    },
+    {
+      "year": 2003,
+      "population": 266
+    },
+    {
+      "year": 2004,
+      "population": 322
+    },
+    {
+      "year": 2005,
+      "population": 341
+    },
+    {
+      "year": 2006,
+      "population": 358
+    },
+    {
+      "year": 2007,
+      "population": 380
+    },
+    {
+      "year": 2008,
+      "population": 429
+    },
+    {
+      "year": 2009,
+      "population": 459
+    },
+    {
+      "year": 2010,
+      "population": 518
+    },
+    {
+      "year": 2011,
+      "population": 538
+    },
+    {
+      "year": 2012,
+      "population": 520
+    },
+    {
+      "year": 2013,
+      "population": 515
+    },
+    {
+      "year": 2014,
+      "population": 532
+    },
+    {
+      "year": 2015,
+      "population": 546
+    },
+    {
+      "year": 2016,
+      "population": 617
+    },
+    {
+      "year": 2017,
+      "population": 566
+    },
+    {
+      "year": 2018,
+      "population": 610
+    },
+    {
+      "year": 2019,
+      "population": 677
+    },
+    {
+      "year": 2020,
+      "population": 733
+    },
+    {
+      "year": 2021,
+      "population": 742
+    },
+    {
+      "year": 2022,
+      "population": 710
+    },
+    {
+      "year": 2023,
+      "population": 735
+    },
+    {
+      "year": 2024,
+      "population": 830
+    },
+    {
+      "year": 2025,
+      "population": 853
+    }
+  ],
+  "昭島市": [
+    {
+      "year": 1979,
+      "population": 85
+    },
+    {
+      "year": 1980,
+      "population": 85
+    },
+    {
+      "year": 1981,
+      "population": 75
+    },
+    {
+      "year": 1982,
+      "population": 83
+    },
+    {
+      "year": 1983,
+      "population": 78
+    },
+    {
+      "year": 1984,
+      "population": 86
+    },
+    {
+      "year": 1985,
+      "population": 83
+    },
+    {
+      "year": 1986,
+      "population": 96
+    },
+    {
+      "year": 1987,
+      "population": 86
+    },
+    {
+      "year": 1988,
+      "population": 122
+    },
+    {
+      "year": 1989,
+      "population": 131
+    },
+    {
+      "year": 1990,
+      "population": 153
+    },
+    {
+      "year": 1991,
+      "population": 162
+    },
+    {
+      "year": 1992,
+      "population": 186
+    },
+    {
+      "year": 1993,
+      "population": 247
+    },
+    {
+      "year": 1994,
+      "population": 260
+    },
+    {
+      "year": 1995,
+      "population": 278
+    },
+    {
+      "year": 1996,
+      "population": 299
+    },
+    {
+      "year": 1997,
+      "population": 300
+    },
+    {
+      "year": 1998,
+      "population": 334
+    },
+    {
+      "year": 1999,
+      "population": 389
+    },
+    {
+      "year": 2000,
+      "population": 423
+    },
+    {
+      "year": 2001,
+      "population": 467
+    },
+    {
+      "year": 2002,
+      "population": 530
+    },
+    {
+      "year": 2003,
+      "population": 569
+    },
+    {
+      "year": 2004,
+      "population": 663
+    },
+    {
+      "year": 2005,
+      "population": 691
+    },
+    {
+      "year": 2006,
+      "population": 707
+    },
+    {
+      "year": 2007,
+      "population": 781
+    },
+    {
+      "year": 2008,
+      "population": 804
+    },
+    {
+      "year": 2009,
+      "population": 802
+    },
+    {
+      "year": 2010,
+      "population": 864
+    },
+    {
+      "year": 2011,
+      "population": 863
+    },
+    {
+      "year": 2012,
+      "population": 854
+    },
+    {
+      "year": 2013,
+      "population": 786
+    },
+    {
+      "year": 2014,
+      "population": 790
+    },
+    {
+      "year": 2015,
+      "population": 780
+    },
+    {
+      "year": 2016,
+      "population": 755
+    },
+    {
+      "year": 2017,
+      "population": 723
+    },
+    {
+      "year": 2018,
+      "population": 743
+    },
+    {
+      "year": 2019,
+      "population": 697
+    },
+    {
+      "year": 2020,
+      "population": 744
+    },
+    {
+      "year": 2021,
+      "population": 695
+    },
+    {
+      "year": 2022,
+      "population": 710
+    },
+    {
+      "year": 2023,
+      "population": 760
+    },
+    {
+      "year": 2024,
+      "population": 797
+    },
+    {
+      "year": 2025,
+      "population": 852
+    }
+  ],
+  "国立市": [
+    {
+      "year": 1979,
+      "population": 50
+    },
+    {
+      "year": 1980,
+      "population": 53
+    },
+    {
+      "year": 1981,
+      "population": 50
+    },
+    {
+      "year": 1982,
+      "population": 54
+    },
+    {
+      "year": 1983,
+      "population": 60
+    },
+    {
+      "year": 1984,
+      "population": 64
+    },
+    {
+      "year": 1985,
+      "population": 67
+    },
+    {
+      "year": 1986,
+      "population": 78
+    },
+    {
+      "year": 1987,
+      "population": 92
+    },
+    {
+      "year": 1988,
+      "population": 113
+    },
+    {
+      "year": 1989,
+      "population": 166
+    },
+    {
+      "year": 1990,
+      "population": 156
+    },
+    {
+      "year": 1991,
+      "population": 183
+    },
+    {
+      "year": 1992,
+      "population": 210
+    },
+    {
+      "year": 1993,
+      "population": 297
+    },
+    {
+      "year": 1994,
+      "population": 348
+    },
+    {
+      "year": 1995,
+      "population": 368
+    },
+    {
+      "year": 1996,
+      "population": 364
+    },
+    {
+      "year": 1997,
+      "population": 387
+    },
+    {
+      "year": 1998,
+      "population": 399
+    },
+    {
+      "year": 1999,
+      "population": 412
+    },
+    {
+      "year": 2000,
+      "population": 463
+    },
+    {
+      "year": 2001,
+      "population": 486
+    },
+    {
+      "year": 2002,
+      "population": 535
+    },
+    {
+      "year": 2003,
+      "population": 542
+    },
+    {
+      "year": 2004,
+      "population": 554
+    },
+    {
+      "year": 2005,
+      "population": 521
+    },
+    {
+      "year": 2006,
+      "population": 509
+    },
+    {
+      "year": 2007,
+      "population": 491
+    },
+    {
+      "year": 2008,
+      "population": 518
+    },
+    {
+      "year": 2009,
+      "population": 567
+    },
+    {
+      "year": 2010,
+      "population": 526
+    },
+    {
+      "year": 2011,
+      "population": 544
+    },
+    {
+      "year": 2012,
+      "population": 504
+    },
+    {
+      "year": 2013,
+      "population": 460
+    },
+    {
+      "year": 2014,
+      "population": 494
+    },
+    {
+      "year": 2015,
+      "population": 537
+    },
+    {
+      "year": 2016,
+      "population": 560
+    },
+    {
+      "year": 2017,
+      "population": 544
+    },
+    {
+      "year": 2018,
+      "population": 565
+    },
+    {
+      "year": 2019,
+      "population": 634
+    },
+    {
+      "year": 2020,
+      "population": 730
+    },
+    {
+      "year": 2021,
+      "population": 686
+    },
+    {
+      "year": 2022,
+      "population": 630
+    },
+    {
+      "year": 2023,
+      "population": 666
+    },
+    {
+      "year": 2024,
+      "population": 707
+    },
+    {
+      "year": 2025,
+      "population": 738
+    }
+  ],
+  "武蔵村山市": [
+    {
+      "year": 1979,
+      "population": 17
+    },
+    {
+      "year": 1980,
+      "population": 10
+    },
+    {
+      "year": 1981,
+      "population": 9
+    },
+    {
+      "year": 1982,
+      "population": 10
+    },
+    {
+      "year": 1983,
+      "population": 19
+    },
+    {
+      "year": 1984,
+      "population": 21
+    },
+    {
+      "year": 1985,
+      "population": 21
+    },
+    {
+      "year": 1986,
+      "population": 22
+    },
+    {
+      "year": 1987,
+      "population": 21
+    },
+    {
+      "year": 1988,
+      "population": 22
+    },
+    {
+      "year": 1989,
+      "population": 52
+    },
+    {
+      "year": 1990,
+      "population": 69
+    },
+    {
+      "year": 1991,
+      "population": 94
+    },
+    {
+      "year": 1992,
+      "population": 115
+    },
+    {
+      "year": 1993,
+      "population": 130
+    },
+    {
+      "year": 1994,
+      "population": 142
+    },
+    {
+      "year": 1995,
+      "population": 147
+    },
+    {
+      "year": 1996,
+      "population": 138
+    },
+    {
+      "year": 1997,
+      "population": 152
+    },
+    {
+      "year": 1998,
+      "population": 132
+    },
+    {
+      "year": 1999,
+      "population": 145
+    },
+    {
+      "year": 2000,
+      "population": 149
+    },
+    {
+      "year": 2001,
+      "population": 176
+    },
+    {
+      "year": 2002,
+      "population": 174
+    },
+    {
+      "year": 2003,
+      "population": 193
+    },
+    {
+      "year": 2004,
+      "population": 221
+    },
+    {
+      "year": 2005,
+      "population": 222
+    },
+    {
+      "year": 2006,
+      "population": 252
+    },
+    {
+      "year": 2007,
+      "population": 252
+    },
+    {
+      "year": 2008,
+      "population": 315
+    },
+    {
+      "year": 2009,
+      "population": 352
+    },
+    {
+      "year": 2010,
+      "population": 381
+    },
+    {
+      "year": 2011,
+      "population": 401
+    },
+    {
+      "year": 2012,
+      "population": 403
+    },
+    {
+      "year": 2013,
+      "population": 388
+    },
+    {
+      "year": 2014,
+      "population": 416
+    },
+    {
+      "year": 2015,
+      "population": 424
+    },
+    {
+      "year": 2016,
+      "population": 482
+    },
+    {
+      "year": 2017,
+      "population": 528
+    },
+    {
+      "year": 2018,
+      "population": 581
+    },
+    {
+      "year": 2019,
+      "population": 591
+    },
+    {
+      "year": 2020,
+      "population": 599
+    },
+    {
+      "year": 2021,
+      "population": 593
+    },
+    {
+      "year": 2022,
+      "population": 623
+    },
+    {
+      "year": 2023,
+      "population": 635
+    },
+    {
+      "year": 2024,
+      "population": 667
+    },
+    {
+      "year": 2025,
+      "population": 694
+    }
+  ],
+  "稲城市": [
+    {
+      "year": 1979,
+      "population": 1
+    },
+    {
+      "year": 1980,
+      "population": 4
+    },
+    {
+      "year": 1981,
+      "population": 7
+    },
+    {
+      "year": 1982,
+      "population": 6
+    },
+    {
+      "year": 1983,
+      "population": 7
+    },
+    {
+      "year": 1984,
+      "population": 12
+    },
+    {
+      "year": 1985,
+      "population": 14
+    },
+    {
+      "year": 1986,
+      "population": 14
+    },
+    {
+      "year": 1987,
+      "population": 18
+    },
+    {
+      "year": 1988,
+      "population": 40
+    },
+    {
+      "year": 1989,
+      "population": 47
+    },
+    {
+      "year": 1990,
+      "population": 59
+    },
+    {
+      "year": 1991,
+      "population": 76
+    },
+    {
+      "year": 1992,
+      "population": 91
+    },
+    {
+      "year": 1993,
+      "population": 102
+    },
+    {
+      "year": 1994,
+      "population": 105
+    },
+    {
+      "year": 1995,
+      "population": 144
+    },
+    {
+      "year": 1996,
+      "population": 154
+    },
+    {
+      "year": 1997,
+      "population": 172
+    },
+    {
+      "year": 1998,
+      "population": 204
+    },
+    {
+      "year": 1999,
+      "population": 222
+    },
+    {
+      "year": 2000,
+      "population": 239
+    },
+    {
+      "year": 2001,
+      "population": 241
+    },
+    {
+      "year": 2002,
+      "population": 259
+    },
+    {
+      "year": 2003,
+      "population": 280
+    },
+    {
+      "year": 2004,
+      "population": 301
+    },
+    {
+      "year": 2005,
+      "population": 352
+    },
+    {
+      "year": 2006,
+      "population": 363
+    },
+    {
+      "year": 2007,
+      "population": 380
+    },
+    {
+      "year": 2008,
+      "population": 414
+    },
+    {
+      "year": 2009,
+      "population": 444
+    },
+    {
+      "year": 2010,
+      "population": 410
+    },
+    {
+      "year": 2011,
+      "population": 412
+    },
+    {
+      "year": 2012,
+      "population": 391
+    },
+    {
+      "year": 2013,
+      "population": 372
+    },
+    {
+      "year": 2014,
+      "population": 391
+    },
+    {
+      "year": 2015,
+      "population": 408
+    },
+    {
+      "year": 2016,
+      "population": 413
+    },
+    {
+      "year": 2017,
+      "population": 405
+    },
+    {
+      "year": 2018,
+      "population": 384
+    },
+    {
+      "year": 2019,
+      "population": 383
+    },
+    {
+      "year": 2020,
+      "population": 440
+    },
+    {
+      "year": 2021,
+      "population": 451
+    },
+    {
+      "year": 2022,
+      "population": 491
+    },
+    {
+      "year": 2023,
+      "population": 511
+    },
+    {
+      "year": 2024,
+      "population": 567
+    },
+    {
+      "year": 2025,
+      "population": 627
+    }
+  ],
+  "清瀬市": [
+    {
+      "year": 1979,
+      "population": 32
+    },
+    {
+      "year": 1980,
+      "population": 34
+    },
+    {
+      "year": 1981,
+      "population": 30
+    },
+    {
+      "year": 1982,
+      "population": 42
+    },
+    {
+      "year": 1983,
+      "population": 37
+    },
+    {
+      "year": 1984,
+      "population": 45
+    },
+    {
+      "year": 1985,
+      "population": 45
+    },
+    {
+      "year": 1986,
+      "population": 46
+    },
+    {
+      "year": 1987,
+      "population": 48
+    },
+    {
+      "year": 1988,
+      "population": 52
+    },
+    {
+      "year": 1989,
+      "population": 59
+    },
+    {
+      "year": 1990,
+      "population": 88
+    },
+    {
+      "year": 1991,
+      "population": 81
+    },
+    {
+      "year": 1992,
+      "population": 86
+    },
+    {
+      "year": 1993,
+      "population": 107
+    },
+    {
+      "year": 1994,
+      "population": 124
+    },
+    {
+      "year": 1995,
+      "population": 148
+    },
+    {
+      "year": 1996,
+      "population": 152
+    },
+    {
+      "year": 1997,
+      "population": 164
+    },
+    {
+      "year": 1998,
+      "population": 185
+    },
+    {
+      "year": 1999,
+      "population": 187
+    },
+    {
+      "year": 2000,
+      "population": 223
+    },
+    {
+      "year": 2001,
+      "population": 232
+    },
+    {
+      "year": 2002,
+      "population": 252
+    },
+    {
+      "year": 2003,
+      "population": 264
+    },
+    {
+      "year": 2004,
+      "population": 278
+    },
+    {
+      "year": 2005,
+      "population": 300
+    },
+    {
+      "year": 2006,
+      "population": 312
+    },
+    {
+      "year": 2007,
+      "population": 349
+    },
+    {
+      "year": 2008,
+      "population": 377
+    },
+    {
+      "year": 2009,
+      "population": 391
+    },
+    {
+      "year": 2010,
+      "population": 408
+    },
+    {
+      "year": 2011,
+      "population": 415
+    },
+    {
+      "year": 2012,
+      "population": 435
+    },
+    {
+      "year": 2013,
+      "population": 402
+    },
+    {
+      "year": 2014,
+      "population": 386
+    },
+    {
+      "year": 2015,
+      "population": 414
+    },
+    {
+      "year": 2016,
+      "population": 432
+    },
+    {
+      "year": 2017,
+      "population": 405
+    },
+    {
+      "year": 2018,
+      "population": 440
+    },
+    {
+      "year": 2019,
+      "population": 435
+    },
+    {
+      "year": 2020,
+      "population": 470
+    },
+    {
+      "year": 2021,
+      "population": 507
+    },
+    {
+      "year": 2022,
+      "population": 482
+    },
+    {
+      "year": 2023,
+      "population": 491
+    },
+    {
+      "year": 2024,
+      "population": 499
+    },
+    {
+      "year": 2025,
+      "population": 541
+    }
+  ],
+  "福生市": [
+    {
+      "year": 1979,
+      "population": 56
+    },
+    {
+      "year": 1980,
+      "population": 60
+    },
+    {
+      "year": 1981,
+      "population": 65
+    },
+    {
+      "year": 1982,
+      "population": 57
+    },
+    {
+      "year": 1983,
+      "population": 54
+    },
+    {
+      "year": 1984,
+      "population": 52
+    },
+    {
+      "year": 1985,
+      "population": 81
+    },
+    {
+      "year": 1986,
+      "population": 77
+    },
+    {
+      "year": 1987,
+      "population": 109
+    },
+    {
+      "year": 1988,
+      "population": 95
+    },
+    {
+      "year": 1989,
+      "population": 87
+    },
+    {
+      "year": 1990,
+      "population": 91
+    },
+    {
+      "year": 1991,
+      "population": 109
+    },
+    {
+      "year": 1992,
+      "population": 133
+    },
+    {
+      "year": 1993,
+      "population": 150
+    },
+    {
+      "year": 1994,
+      "population": 151
+    },
+    {
+      "year": 1995,
+      "population": 172
+    },
+    {
+      "year": 1996,
+      "population": 208
+    },
+    {
+      "year": 1997,
+      "population": 221
+    },
+    {
+      "year": 1998,
+      "population": 241
+    },
+    {
+      "year": 1999,
+      "population": 211
+    },
+    {
+      "year": 2000,
+      "population": 263
+    },
+    {
+      "year": 2001,
+      "population": 292
+    },
+    {
+      "year": 2002,
+      "population": 347
+    },
+    {
+      "year": 2003,
+      "population": 401
+    },
+    {
+      "year": 2004,
+      "population": 386
+    },
+    {
+      "year": 2005,
+      "population": 395
+    },
+    {
+      "year": 2006,
+      "population": 406
+    },
+    {
+      "year": 2007,
+      "population": 448
+    },
+    {
+      "year": 2008,
+      "population": 504
+    },
+    {
+      "year": 2009,
+      "population": 569
+    },
+    {
+      "year": 2010,
+      "population": 635
+    },
+    {
+      "year": 2011,
+      "population": 673
+    },
+    {
+      "year": 2012,
+      "population": 713
+    },
+    {
+      "year": 2013,
+      "population": 699
+    },
+    {
+      "year": 2014,
+      "population": 686
+    },
+    {
+      "year": 2015,
+      "population": 666
+    },
+    {
+      "year": 2016,
+      "population": 728
+    },
+    {
+      "year": 2017,
+      "population": 691
+    },
+    {
+      "year": 2018,
+      "population": 708
+    },
+    {
+      "year": 2019,
+      "population": 740
+    },
+    {
+      "year": 2020,
+      "population": 700
+    },
+    {
+      "year": 2021,
+      "population": 596
+    },
+    {
+      "year": 2022,
+      "population": 505
+    },
+    {
+      "year": 2023,
+      "population": 537
+    },
+    {
+      "year": 2024,
+      "population": 517
+    },
+    {
+      "year": 2025,
+      "population": 475
+    }
+  ],
+  "狛江市": [
+    {
+      "year": 1979,
+      "population": 38
+    },
+    {
+      "year": 1980,
+      "population": 30
+    },
+    {
+      "year": 1981,
+      "population": 23
+    },
+    {
+      "year": 1982,
+      "population": 35
+    },
+    {
+      "year": 1983,
+      "population": 38
+    },
+    {
+      "year": 1984,
+      "population": 40
+    },
+    {
+      "year": 1985,
+      "population": 40
+    },
+    {
+      "year": 1986,
+      "population": 45
+    },
+    {
+      "year": 1987,
+      "population": 46
+    },
+    {
+      "year": 1988,
+      "population": 70
+    },
+    {
+      "year": 1989,
+      "population": 96
+    },
+    {
+      "year": 1990,
+      "population": 84
+    },
+    {
+      "year": 1991,
+      "population": 116
+    },
+    {
+      "year": 1992,
+      "population": 138
+    },
+    {
+      "year": 1993,
+      "population": 138
+    },
+    {
+      "year": 1994,
+      "population": 143
+    },
+    {
+      "year": 1995,
+      "population": 130
+    },
+    {
+      "year": 1996,
+      "population": 125
+    },
+    {
+      "year": 1997,
+      "population": 130
+    },
+    {
+      "year": 1998,
+      "population": 142
+    },
+    {
+      "year": 1999,
+      "population": 171
+    },
+    {
+      "year": 2000,
+      "population": 184
+    },
+    {
+      "year": 2001,
+      "population": 194
+    },
+    {
+      "year": 2002,
+      "population": 226
+    },
+    {
+      "year": 2003,
+      "population": 253
+    },
+    {
+      "year": 2004,
+      "population": 254
+    },
+    {
+      "year": 2005,
+      "population": 259
+    },
+    {
+      "year": 2006,
+      "population": 260
+    },
+    {
+      "year": 2007,
+      "population": 273
+    },
+    {
+      "year": 2008,
+      "population": 268
+    },
+    {
+      "year": 2009,
+      "population": 288
+    },
+    {
+      "year": 2010,
+      "population": 330
+    },
+    {
+      "year": 2011,
+      "population": 330
+    },
+    {
+      "year": 2012,
+      "population": 323
+    },
+    {
+      "year": 2013,
+      "population": 323
+    },
+    {
+      "year": 2014,
+      "population": 373
+    },
+    {
+      "year": 2015,
+      "population": 376
+    },
+    {
+      "year": 2016,
+      "population": 431
+    },
+    {
+      "year": 2017,
+      "population": 420
+    },
+    {
+      "year": 2018,
+      "population": 482
+    },
+    {
+      "year": 2019,
+      "population": 483
+    },
+    {
+      "year": 2020,
+      "population": 502
+    },
+    {
+      "year": 2021,
+      "population": 450
+    },
+    {
+      "year": 2022,
+      "population": 402
+    },
+    {
+      "year": 2023,
+      "population": 394
+    },
+    {
+      "year": 2024,
+      "population": 422
+    },
+    {
+      "year": 2025,
+      "population": 439
+    }
+  ],
+  "東大和市": [
+    {
+      "year": 1979,
+      "population": 7
+    },
+    {
+      "year": 1980,
+      "population": 9
+    },
+    {
+      "year": 1981,
+      "population": 7
+    },
+    {
+      "year": 1982,
+      "population": 2
+    },
+    {
+      "year": 1983,
+      "population": 7
+    },
+    {
+      "year": 1984,
+      "population": 7
+    },
+    {
+      "year": 1985,
+      "population": 10
+    },
+    {
+      "year": 1986,
+      "population": 15
+    },
+    {
+      "year": 1987,
+      "population": 18
+    },
+    {
+      "year": 1988,
+      "population": 21
+    },
+    {
+      "year": 1989,
+      "population": 27
+    },
+    {
+      "year": 1990,
+      "population": 29
+    },
+    {
+      "year": 1991,
+      "population": 29
+    },
+    {
+      "year": 1992,
+      "population": 39
+    },
+    {
+      "year": 1993,
+      "population": 51
+    },
+    {
+      "year": 1994,
+      "population": 54
+    },
+    {
+      "year": 1995,
+      "population": 78
+    },
+    {
+      "year": 1996,
+      "population": 81
+    },
+    {
+      "year": 1997,
+      "population": 104
+    },
+    {
+      "year": 1998,
+      "population": 87
+    },
+    {
+      "year": 1999,
+      "population": 95
+    },
+    {
+      "year": 2000,
+      "population": 97
+    },
+    {
+      "year": 2001,
+      "population": 104
+    },
+    {
+      "year": 2002,
+      "population": 117
+    },
+    {
+      "year": 2003,
+      "population": 123
+    },
+    {
+      "year": 2004,
+      "population": 149
+    },
+    {
+      "year": 2005,
+      "population": 165
+    },
+    {
+      "year": 2006,
+      "population": 182
+    },
+    {
+      "year": 2007,
+      "population": 180
+    },
+    {
+      "year": 2008,
+      "population": 208
+    },
+    {
+      "year": 2009,
+      "population": 258
+    },
+    {
+      "year": 2010,
+      "population": 276
+    },
+    {
+      "year": 2011,
+      "population": 285
+    },
+    {
+      "year": 2012,
+      "population": 325
+    },
+    {
+      "year": 2013,
+      "population": 348
+    },
+    {
+      "year": 2014,
+      "population": 376
+    },
+    {
+      "year": 2015,
+      "population": 413
+    },
+    {
+      "year": 2016,
+      "population": 407
+    },
+    {
+      "year": 2017,
+      "population": 361
+    },
+    {
+      "year": 2018,
+      "population": 375
+    },
+    {
+      "year": 2019,
+      "population": 404
+    },
+    {
+      "year": 2020,
+      "population": 404
+    },
+    {
+      "year": 2021,
+      "population": 358
+    },
+    {
+      "year": 2022,
+      "population": 365
+    },
+    {
+      "year": 2023,
+      "population": 384
+    },
+    {
+      "year": 2024,
+      "population": 415
+    },
+    {
+      "year": 2025,
+      "population": 422
+    }
+  ],
+  "青梅市": [
+    {
+      "year": 1979,
+      "population": 13
+    },
+    {
+      "year": 1980,
+      "population": 13
+    },
+    {
+      "year": 1981,
+      "population": 9
+    },
+    {
+      "year": 1982,
+      "population": 9
+    },
+    {
+      "year": 1983,
+      "population": 13
+    },
+    {
+      "year": 1984,
+      "population": 15
+    },
+    {
+      "year": 1985,
+      "population": 23
+    },
+    {
+      "year": 1986,
+      "population": 36
+    },
+    {
+      "year": 1987,
+      "population": 25
+    },
+    {
+      "year": 1988,
+      "population": 37
+    },
+    {
+      "year": 1989,
+      "population": 73
+    },
+    {
+      "year": 1990,
+      "population": 82
+    },
+    {
+      "year": 1991,
+      "population": 88
+    },
+    {
+      "year": 1992,
+      "population": 123
+    },
+    {
+      "year": 1993,
+      "population": 146
+    },
+    {
+      "year": 1994,
+      "population": 163
+    },
+    {
+      "year": 1995,
+      "population": 139
+    },
+    {
+      "year": 1996,
+      "population": 163
+    },
+    {
+      "year": 1997,
+      "population": 166
+    },
+    {
+      "year": 1998,
+      "population": 171
+    },
+    {
+      "year": 1999,
+      "population": 161
+    },
+    {
+      "year": 2000,
+      "population": 159
+    },
+    {
+      "year": 2001,
+      "population": 178
+    },
+    {
+      "year": 2002,
+      "population": 190
+    },
+    {
+      "year": 2003,
+      "population": 218
+    },
+    {
+      "year": 2004,
+      "population": 229
+    },
+    {
+      "year": 2005,
+      "population": 246
+    },
+    {
+      "year": 2006,
+      "population": 305
+    },
+    {
+      "year": 2007,
+      "population": 311
+    },
+    {
+      "year": 2008,
+      "population": 344
+    },
+    {
+      "year": 2009,
+      "population": 367
+    },
+    {
+      "year": 2010,
+      "population": 380
+    },
+    {
+      "year": 2011,
+      "population": 446
+    },
+    {
+      "year": 2012,
+      "population": 435
+    },
+    {
+      "year": 2013,
+      "population": 405
+    },
+    {
+      "year": 2014,
+      "population": 398
+    },
+    {
+      "year": 2015,
+      "population": 387
+    },
+    {
+      "year": 2016,
+      "population": 418
+    },
+    {
+      "year": 2017,
+      "population": 333
+    },
+    {
+      "year": 2018,
+      "population": 343
+    },
+    {
+      "year": 2019,
+      "population": 363
+    },
+    {
+      "year": 2020,
+      "population": 355
+    },
+    {
+      "year": 2021,
+      "population": 346
+    },
+    {
+      "year": 2022,
+      "population": 318
+    },
+    {
+      "year": 2023,
+      "population": 329
+    },
+    {
+      "year": 2024,
+      "population": 352
+    },
+    {
+      "year": 2025,
+      "population": 357
+    }
+  ],
+  "羽村市": [
+    {
+      "year": 1979,
+      "population": 5
+    },
+    {
+      "year": 1980,
+      "population": 4
+    },
+    {
+      "year": 1981,
+      "population": 13
+    },
+    {
+      "year": 1982,
+      "population": 8
+    },
+    {
+      "year": 1983,
+      "population": 12
+    },
+    {
+      "year": 1984,
+      "population": 13
+    },
+    {
+      "year": 1985,
+      "population": 19
+    },
+    {
+      "year": 1986,
+      "population": 31
+    },
+    {
+      "year": 1987,
+      "population": 45
+    },
+    {
+      "year": 1988,
+      "population": 40
+    },
+    {
+      "year": 1989,
+      "population": 47
+    },
+    {
+      "year": 1990,
+      "population": 88
+    },
+    {
+      "year": 1991,
+      "population": 69
+    },
+    {
+      "year": 1992,
+      "population": 79
+    },
+    {
+      "year": 1993,
+      "population": 84
+    },
+    {
+      "year": 1994,
+      "population": 87
+    },
+    {
+      "year": 1995,
+      "population": 86
+    },
+    {
+      "year": 1996,
+      "population": 80
+    },
+    {
+      "year": 1997,
+      "population": 85
+    },
+    {
+      "year": 1998,
+      "population": 90
+    },
+    {
+      "year": 1999,
+      "population": 127
+    },
+    {
+      "year": 2000,
+      "population": 130
+    },
+    {
+      "year": 2001,
+      "population": 157
+    },
+    {
+      "year": 2002,
+      "population": 157
+    },
+    {
+      "year": 2003,
+      "population": 169
+    },
+    {
+      "year": 2004,
+      "population": 205
+    },
+    {
+      "year": 2005,
+      "population": 238
+    },
+    {
+      "year": 2006,
+      "population": 256
+    },
+    {
+      "year": 2007,
+      "population": 266
+    },
+    {
+      "year": 2008,
+      "population": 311
+    },
+    {
+      "year": 2009,
+      "population": 319
+    },
+    {
+      "year": 2010,
+      "population": 263
+    },
+    {
+      "year": 2011,
+      "population": 232
+    },
+    {
+      "year": 2012,
+      "population": 185
+    },
+    {
+      "year": 2013,
+      "population": 199
+    },
+    {
+      "year": 2014,
+      "population": 192
+    },
+    {
+      "year": 2015,
+      "population": 195
+    },
+    {
+      "year": 2016,
+      "population": 193
+    },
+    {
+      "year": 2017,
+      "population": 184
+    },
+    {
+      "year": 2018,
+      "population": 191
+    },
+    {
+      "year": 2019,
+      "population": 209
+    },
+    {
+      "year": 2020,
+      "population": 211
+    },
+    {
+      "year": 2021,
+      "population": 204
+    },
+    {
+      "year": 2022,
+      "population": 228
+    },
+    {
+      "year": 2023,
+      "population": 232
+    },
+    {
+      "year": 2024,
+      "population": 228
+    },
+    {
+      "year": 2025,
+      "population": 220
+    }
+  ],
+  "あきる野市": [
+    {
+      "year": 1979,
+      "population": 3
+    },
+    {
+      "year": 1980,
+      "population": 2
+    },
+    {
+      "year": 1981,
+      "population": 3
+    },
+    {
+      "year": 1982,
+      "population": 3
+    },
+    {
+      "year": 1983,
+      "population": 2
+    },
+    {
+      "year": 1984,
+      "population": 5
+    },
+    {
+      "year": 1985,
+      "population": 6
+    },
+    {
+      "year": 1986,
+      "population": 5
+    },
+    {
+      "year": 1987,
+      "population": 8
+    },
+    {
+      "year": 1988,
+      "population": 9
+    },
+    {
+      "year": 1989,
+      "population": 12
+    },
+    {
+      "year": 1990,
+      "population": 16
+    },
+    {
+      "year": 1991,
+      "population": 19
+    },
+    {
+      "year": 1992,
+      "population": 27
+    },
+    {
+      "year": 1993,
+      "population": 24
+    },
+    {
+      "year": 1994,
+      "population": 24
+    },
+    {
+      "year": 1995,
+      "population": 34
+    },
+    {
+      "year": 1996,
+      "population": 29
+    },
+    {
+      "year": 1997,
+      "population": 31
+    },
+    {
+      "year": 1998,
+      "population": 30
+    },
+    {
+      "year": 1999,
+      "population": 37
+    },
+    {
+      "year": 2000,
+      "population": 57
+    },
+    {
+      "year": 2001,
+      "population": 85
+    },
+    {
+      "year": 2002,
+      "population": 111
+    },
+    {
+      "year": 2003,
+      "population": 113
+    },
+    {
+      "year": 2004,
+      "population": 110
+    },
+    {
+      "year": 2005,
+      "population": 111
+    },
+    {
+      "year": 2006,
+      "population": 110
+    },
+    {
+      "year": 2007,
+      "population": 101
+    },
+    {
+      "year": 2008,
+      "population": 122
+    },
+    {
+      "year": 2009,
+      "population": 154
+    },
+    {
+      "year": 2010,
+      "population": 159
+    },
+    {
+      "year": 2011,
+      "population": 163
+    },
+    {
+      "year": 2012,
+      "population": 153
+    },
+    {
+      "year": 2013,
+      "population": 176
+    },
+    {
+      "year": 2014,
+      "population": 166
+    },
+    {
+      "year": 2015,
+      "population": 175
+    },
+    {
+      "year": 2016,
+      "population": 158
+    },
+    {
+      "year": 2017,
+      "population": 129
+    },
+    {
+      "year": 2018,
+      "population": 128
+    },
+    {
+      "year": 2019,
+      "population": 130
+    },
+    {
+      "year": 2020,
+      "population": 146
+    },
+    {
+      "year": 2021,
+      "population": 153
+    },
+    {
+      "year": 2022,
+      "population": 156
+    },
+    {
+      "year": 2023,
+      "population": 170
+    },
+    {
+      "year": 2024,
+      "population": 192
+    },
+    {
+      "year": 2025,
+      "population": 209
+    }
+  ],
+  "町村部": [
+    {
+      "year": 1979,
+      "population": 15
+    },
+    {
+      "year": 1980,
+      "population": 17
+    },
+    {
+      "year": 1981,
+      "population": 15
+    },
+    {
+      "year": 1982,
+      "population": 16
+    },
+    {
+      "year": 1983,
+      "population": 17
+    },
+    {
+      "year": 1984,
+      "population": 18
+    },
+    {
+      "year": 1985,
+      "population": 30
+    },
+    {
+      "year": 1986,
+      "population": 26
+    },
+    {
+      "year": 1987,
+      "population": 36
+    },
+    {
+      "year": 1988,
+      "population": 37
+    },
+    {
+      "year": 1989,
+      "population": 56
+    },
+    {
+      "year": 1990,
+      "population": 67
+    },
+    {
+      "year": 1991,
+      "population": 73
+    },
+    {
+      "year": 1992,
+      "population": 83
+    },
+    {
+      "year": 1993,
+      "population": 51
+    },
+    {
+      "year": 1994,
+      "population": 47
+    },
+    {
+      "year": 1995,
+      "population": 52
+    },
+    {
+      "year": 1996,
+      "population": 58
+    },
+    {
+      "year": 1997,
+      "population": 59
+    },
+    {
+      "year": 1998,
+      "population": 52
+    },
+    {
+      "year": 1999,
+      "population": 63
+    },
+    {
+      "year": 2000,
+      "population": 61
+    },
+    {
+      "year": 2001,
+      "population": 75
+    },
+    {
+      "year": 2002,
+      "population": 72
+    },
+    {
+      "year": 2003,
+      "population": 83
+    },
+    {
+      "year": 2004,
+      "population": 86
+    },
+    {
+      "year": 2005,
+      "population": 95
+    },
+    {
+      "year": 2006,
+      "population": 110
+    },
+    {
+      "year": 2007,
+      "population": 131
+    },
+    {
+      "year": 2008,
+      "population": 134
+    },
+    {
+      "year": 2009,
+      "population": 142
+    },
+    {
+      "year": 2010,
+      "population": 140
+    },
+    {
+      "year": 2011,
+      "population": 140
+    },
+    {
+      "year": 2012,
+      "population": 131
+    },
+    {
+      "year": 2013,
+      "population": 121
+    },
+    {
+      "year": 2014,
+      "population": 122
+    },
+    {
+      "year": 2015,
+      "population": 143
+    },
+    {
+      "year": 2016,
+      "population": 141
+    },
+    {
+      "year": 2017,
+      "population": 141
+    },
+    {
+      "year": 2018,
+      "population": 166
+    },
+    {
+      "year": 2019,
+      "population": 142
+    },
+    {
+      "year": 2020,
+      "population": 146
+    },
+    {
+      "year": 2021,
+      "population": 146
+    },
+    {
+      "year": 2022,
+      "population": 139
+    },
+    {
+      "year": 2023,
+      "population": 128
+    },
+    {
+      "year": 2024,
+      "population": 134
+    },
+    {
+      "year": 2025,
+      "population": 153
+    }
+  ],
+  "郡部": [
+    {
+      "year": 1979,
+      "population": 14
+    },
+    {
+      "year": 1980,
+      "population": 16
+    },
+    {
+      "year": 1981,
+      "population": 12
+    },
+    {
+      "year": 1982,
+      "population": 13
+    },
+    {
+      "year": 1983,
+      "population": 16
+    },
+    {
+      "year": 1984,
+      "population": 14
+    },
+    {
+      "year": 1985,
+      "population": 24
+    },
+    {
+      "year": 1986,
+      "population": 22
+    },
+    {
+      "year": 1987,
+      "population": 28
+    },
+    {
+      "year": 1988,
+      "population": 32
+    },
+    {
+      "year": 1989,
+      "population": 43
+    },
+    {
+      "year": 1990,
+      "population": 54
+    },
+    {
+      "year": 1991,
+      "population": 54
+    },
+    {
+      "year": 1992,
+      "population": 63
+    },
+    {
+      "year": 1993,
+      "population": 37
+    },
+    {
+      "year": 1994,
+      "population": 37
+    },
+    {
+      "year": 1995,
+      "population": 45
+    },
+    {
+      "year": 1996,
+      "population": 44
+    },
+    {
+      "year": 1997,
+      "population": 44
+    },
+    {
+      "year": 1998,
+      "population": 47
+    },
+    {
+      "year": 1999,
+      "population": 57
+    },
+    {
+      "year": 2000,
+      "population": 52
+    },
+    {
+      "year": 2001,
+      "population": 60
+    },
+    {
+      "year": 2002,
+      "population": 59
+    },
+    {
+      "year": 2003,
+      "population": 69
+    },
+    {
+      "year": 2004,
+      "population": 70
+    },
+    {
+      "year": 2005,
+      "population": 79
+    },
+    {
+      "year": 2006,
+      "population": 94
+    },
+    {
+      "year": 2007,
+      "population": 117
+    },
+    {
+      "year": 2008,
+      "population": 118
+    },
+    {
+      "year": 2009,
+      "population": 129
+    },
+    {
+      "year": 2010,
+      "population": 123
+    },
+    {
+      "year": 2011,
+      "population": 119
+    },
+    {
+      "year": 2012,
+      "population": 113
+    },
+    {
+      "year": 2013,
+      "population": 105
+    },
+    {
+      "year": 2014,
+      "population": 108
+    },
+    {
+      "year": 2015,
+      "population": 129
+    },
+    {
+      "year": 2016,
+      "population": 127
+    },
+    {
+      "year": 2017,
+      "population": 126
+    },
+    {
+      "year": 2018,
+      "population": 154
+    },
+    {
+      "year": 2019,
+      "population": 129
+    },
+    {
+      "year": 2020,
+      "population": 134
+    },
+    {
+      "year": 2021,
+      "population": 135
+    },
+    {
+      "year": 2022,
+      "population": 125
+    },
+    {
+      "year": 2023,
+      "population": 115
+    },
+    {
+      "year": 2024,
+      "population": 120
+    },
+    {
+      "year": 2025,
+      "population": 137
+    }
+  ],
+  "瑞穂町": [
+    {
+      "year": 1979,
+      "population": 4
+    },
+    {
+      "year": 1980,
+      "population": 5
+    },
+    {
+      "year": 1981,
+      "population": 5
+    },
+    {
+      "year": 1982,
+      "population": 1
+    },
+    {
+      "year": 1983,
+      "population": 1
+    },
+    {
+      "year": 1984,
+      "population": 4
+    },
+    {
+      "year": 1985,
+      "population": 10
+    },
+    {
+      "year": 1986,
+      "population": 11
+    },
+    {
+      "year": 1987,
+      "population": 15
+    },
+    {
+      "year": 1988,
+      "population": 19
+    },
+    {
+      "year": 1989,
+      "population": 26
+    },
+    {
+      "year": 1990,
+      "population": 33
+    },
+    {
+      "year": 1991,
+      "population": 34
+    },
+    {
+      "year": 1992,
+      "population": 48
+    },
+    {
+      "year": 1993,
+      "population": 26
+    },
+    {
+      "year": 1994,
+      "population": 28
+    },
+    {
+      "year": 1995,
+      "population": 28
+    },
+    {
+      "year": 1996,
+      "population": 23
+    },
+    {
+      "year": 1997,
+      "population": 25
+    },
+    {
+      "year": 1998,
+      "population": 29
+    },
+    {
+      "year": 1999,
+      "population": 39
+    },
+    {
+      "year": 2000,
+      "population": 33
+    },
+    {
+      "year": 2001,
+      "population": 33
+    },
+    {
+      "year": 2002,
+      "population": 38
+    },
+    {
+      "year": 2003,
+      "population": 48
+    },
+    {
+      "year": 2004,
+      "population": 54
+    },
+    {
+      "year": 2005,
+      "population": 60
+    },
+    {
+      "year": 2006,
+      "population": 81
+    },
+    {
+      "year": 2007,
+      "population": 103
+    },
+    {
+      "year": 2008,
+      "population": 103
+    },
+    {
+      "year": 2009,
+      "population": 113
+    },
+    {
+      "year": 2010,
+      "population": 97
+    },
+    {
+      "year": 2011,
+      "population": 92
+    },
+    {
+      "year": 2012,
+      "population": 88
+    },
+    {
+      "year": 2013,
+      "population": 82
+    },
+    {
+      "year": 2014,
+      "population": 84
+    },
+    {
+      "year": 2015,
+      "population": 101
+    },
+    {
+      "year": 2016,
+      "population": 105
+    },
+    {
+      "year": 2017,
+      "population": 106
+    },
+    {
+      "year": 2018,
+      "population": 112
+    },
+    {
+      "year": 2019,
+      "population": 113
+    },
+    {
+      "year": 2020,
+      "population": 114
+    },
+    {
+      "year": 2021,
+      "population": 114
+    },
+    {
+      "year": 2022,
+      "population": 102
+    },
+    {
+      "year": 2023,
+      "population": 95
+    },
+    {
+      "year": 2024,
+      "population": 97
+    },
+    {
+      "year": 2025,
+      "population": 110
+    }
+  ],
+  "日の出町": [
+    {
+      "year": 1979,
+      "population": 3
+    },
+    {
+      "year": 1980,
+      "population": 2
+    },
+    {
+      "year": 1981,
+      "population": 2
+    },
+    {
+      "year": 1982,
+      "population": 3
+    },
+    {
+      "year": 1983,
+      "population": 1
+    },
+    {
+      "year": 1984,
+      "population": 2
+    },
+    {
+      "year": 1985,
+      "population": 2
+    },
+    {
+      "year": 1986,
+      "population": 1
+    },
+    {
+      "year": 1987,
+      "population": 1
+    },
+    {
+      "year": 1988,
+      "population": 0
+    },
+    {
+      "year": 1989,
+      "population": 0
+    },
+    {
+      "year": 1990,
+      "population": 1
+    },
+    {
+      "year": 1991,
+      "population": 0
+    },
+    {
+      "year": 1992,
+      "population": 0
+    },
+    {
+      "year": 1993,
+      "population": 0
+    },
+    {
+      "year": 1994,
+      "population": 0
+    },
+    {
+      "year": 1995,
+      "population": 5
+    },
+    {
+      "year": 1996,
+      "population": 8
+    },
+    {
+      "year": 1997,
+      "population": 11
+    },
+    {
+      "year": 1998,
+      "population": 11
+    },
+    {
+      "year": 1999,
+      "population": 11
+    },
+    {
+      "year": 2000,
+      "population": 11
+    },
+    {
+      "year": 2001,
+      "population": 24
+    },
+    {
+      "year": 2002,
+      "population": 19
+    },
+    {
+      "year": 2003,
+      "population": 18
+    },
+    {
+      "year": 2004,
+      "population": 11
+    },
+    {
+      "year": 2005,
+      "population": 14
+    },
+    {
+      "year": 2006,
+      "population": 10
+    },
+    {
+      "year": 2007,
+      "population": 11
+    },
+    {
+      "year": 2008,
+      "population": 12
+    },
+    {
+      "year": 2009,
+      "population": 11
+    },
+    {
+      "year": 2010,
+      "population": 21
+    },
+    {
+      "year": 2011,
+      "population": 21
+    },
+    {
+      "year": 2012,
+      "population": 19
+    },
+    {
+      "year": 2013,
+      "population": 18
+    },
+    {
+      "year": 2014,
+      "population": 19
+    },
+    {
+      "year": 2015,
+      "population": 22
+    },
+    {
+      "year": 2016,
+      "population": 16
+    },
+    {
+      "year": 2017,
+      "population": 15
+    },
+    {
+      "year": 2018,
+      "population": 39
+    },
+    {
+      "year": 2019,
+      "population": 13
+    },
+    {
+      "year": 2020,
+      "population": 17
+    },
+    {
+      "year": 2021,
+      "population": 15
+    },
+    {
+      "year": 2022,
+      "population": 17
+    },
+    {
+      "year": 2023,
+      "population": 15
+    },
+    {
+      "year": 2024,
+      "population": 18
+    },
+    {
+      "year": 2025,
+      "population": 20
+    }
+  ],
+  "島部": [
+    {
+      "year": 1979,
+      "population": 1
+    },
+    {
+      "year": 1980,
+      "population": 1
+    },
+    {
+      "year": 1981,
+      "population": 3
+    },
+    {
+      "year": 1982,
+      "population": 3
+    },
+    {
+      "year": 1983,
+      "population": 1
+    },
+    {
+      "year": 1984,
+      "population": 4
+    },
+    {
+      "year": 1985,
+      "population": 6
+    },
+    {
+      "year": 1986,
+      "population": 4
+    },
+    {
+      "year": 1987,
+      "population": 8
+    },
+    {
+      "year": 1988,
+      "population": 5
+    },
+    {
+      "year": 1989,
+      "population": 13
+    },
+    {
+      "year": 1990,
+      "population": 13
+    },
+    {
+      "year": 1991,
+      "population": 19
+    },
+    {
+      "year": 1992,
+      "population": 20
+    },
+    {
+      "year": 1993,
+      "population": 14
+    },
+    {
+      "year": 1994,
+      "population": 10
+    },
+    {
+      "year": 1995,
+      "population": 7
+    },
+    {
+      "year": 1996,
+      "population": 14
+    },
+    {
+      "year": 1997,
+      "population": 15
+    },
+    {
+      "year": 1998,
+      "population": 5
+    },
+    {
+      "year": 1999,
+      "population": 6
+    },
+    {
+      "year": 2000,
+      "population": 9
+    },
+    {
+      "year": 2001,
+      "population": 15
+    },
+    {
+      "year": 2002,
+      "population": 13
+    },
+    {
+      "year": 2003,
+      "population": 14
+    },
+    {
+      "year": 2004,
+      "population": 16
+    },
+    {
+      "year": 2005,
+      "population": 16
+    },
+    {
+      "year": 2006,
+      "population": 16
+    },
+    {
+      "year": 2007,
+      "population": 14
+    },
+    {
+      "year": 2008,
+      "population": 16
+    },
+    {
+      "year": 2009,
+      "population": 13
+    },
+    {
+      "year": 2010,
+      "population": 17
+    },
+    {
+      "year": 2011,
+      "population": 21
+    },
+    {
+      "year": 2012,
+      "population": 18
+    },
+    {
+      "year": 2013,
+      "population": 16
+    },
+    {
+      "year": 2014,
+      "population": 14
+    },
+    {
+      "year": 2015,
+      "population": 14
+    },
+    {
+      "year": 2016,
+      "population": 14
+    },
+    {
+      "year": 2017,
+      "population": 15
+    },
+    {
+      "year": 2018,
+      "population": 12
+    },
+    {
+      "year": 2019,
+      "population": 13
+    },
+    {
+      "year": 2020,
+      "population": 12
+    },
+    {
+      "year": 2021,
+      "population": 11
+    },
+    {
+      "year": 2022,
+      "population": 14
+    },
+    {
+      "year": 2023,
+      "population": 13
+    },
+    {
+      "year": 2024,
+      "population": 14
+    },
+    {
+      "year": 2025,
+      "population": 16
+    }
+  ],
+  "奥多摩町": [
+    {
+      "year": 1979,
+      "population": 7
+    },
+    {
+      "year": 1980,
+      "population": 9
+    },
+    {
+      "year": 1981,
+      "population": 5
+    },
+    {
+      "year": 1982,
+      "population": 9
+    },
+    {
+      "year": 1983,
+      "population": 14
+    },
+    {
+      "year": 1984,
+      "population": 8
+    },
+    {
+      "year": 1985,
+      "population": 12
+    },
+    {
+      "year": 1986,
+      "population": 10
+    },
+    {
+      "year": 1987,
+      "population": 12
+    },
+    {
+      "year": 1988,
+      "population": 13
+    },
+    {
+      "year": 1989,
+      "population": 17
+    },
+    {
+      "year": 1990,
+      "population": 20
+    },
+    {
+      "year": 1991,
+      "population": 20
+    },
+    {
+      "year": 1992,
+      "population": 15
+    },
+    {
+      "year": 1993,
+      "population": 11
+    },
+    {
+      "year": 1994,
+      "population": 9
+    },
+    {
+      "year": 1995,
+      "population": 12
+    },
+    {
+      "year": 1996,
+      "population": 13
+    },
+    {
+      "year": 1997,
+      "population": 8
+    },
+    {
+      "year": 1998,
+      "population": 7
+    },
+    {
+      "year": 1999,
+      "population": 7
+    },
+    {
+      "year": 2000,
+      "population": 7
+    },
+    {
+      "year": 2001,
+      "population": 2
+    },
+    {
+      "year": 2002,
+      "population": 2
+    },
+    {
+      "year": 2003,
+      "population": 1
+    },
+    {
+      "year": 2004,
+      "population": 2
+    },
+    {
+      "year": 2005,
+      "population": 2
+    },
+    {
+      "year": 2006,
+      "population": 3
+    },
+    {
+      "year": 2007,
+      "population": 3
+    },
+    {
+      "year": 2008,
+      "population": 3
+    },
+    {
+      "year": 2009,
+      "population": 5
+    },
+    {
+      "year": 2010,
+      "population": 5
+    },
+    {
+      "year": 2011,
+      "population": 6
+    },
+    {
+      "year": 2012,
+      "population": 6
+    },
+    {
+      "year": 2013,
+      "population": 5
+    },
+    {
+      "year": 2014,
+      "population": 5
+    },
+    {
+      "year": 2015,
+      "population": 6
+    },
+    {
+      "year": 2016,
+      "population": 6
+    },
+    {
+      "year": 2017,
+      "population": 5
+    },
+    {
+      "year": 2018,
+      "population": 3
+    },
+    {
+      "year": 2019,
+      "population": 3
+    },
+    {
+      "year": 2020,
+      "population": 3
+    },
+    {
+      "year": 2021,
+      "population": 6
+    },
+    {
+      "year": 2022,
+      "population": 6
+    },
+    {
+      "year": 2023,
+      "population": 5
+    },
+    {
+      "year": 2024,
+      "population": 5
+    },
+    {
+      "year": 2025,
+      "population": 7
+    }
+  ],
+  "大島支庁": [
+    {
+      "year": 1979,
+      "population": 1
+    },
+    {
+      "year": 1980,
+      "population": 1
+    },
+    {
+      "year": 1981,
+      "population": 2
+    },
+    {
+      "year": 1982,
+      "population": 2
+    },
+    {
+      "year": 1983,
+      "population": 0
+    },
+    {
+      "year": 1984,
+      "population": 3
+    },
+    {
+      "year": 1985,
+      "population": 4
+    },
+    {
+      "year": 1986,
+      "population": 4
+    },
+    {
+      "year": 1987,
+      "population": 4
+    },
+    {
+      "year": 1988,
+      "population": 4
+    },
+    {
+      "year": 1989,
+      "population": 12
+    },
+    {
+      "year": 1990,
+      "population": 12
+    },
+    {
+      "year": 1991,
+      "population": 18
+    },
+    {
+      "year": 1992,
+      "population": 18
+    },
+    {
+      "year": 1993,
+      "population": 11
+    },
+    {
+      "year": 1994,
+      "population": 7
+    },
+    {
+      "year": 1995,
+      "population": 3
+    },
+    {
+      "year": 1996,
+      "population": 3
+    },
+    {
+      "year": 1997,
+      "population": 2
+    },
+    {
+      "year": 1998,
+      "population": 3
+    },
+    {
+      "year": 1999,
+      "population": 3
+    },
+    {
+      "year": 2000,
+      "population": 3
+    },
+    {
+      "year": 2001,
+      "population": 6
+    },
+    {
+      "year": 2002,
+      "population": 5
+    },
+    {
+      "year": 2003,
+      "population": 4
+    },
+    {
+      "year": 2004,
+      "population": 6
+    },
+    {
+      "year": 2005,
+      "population": 10
+    },
+    {
+      "year": 2006,
+      "population": 10
+    },
+    {
+      "year": 2007,
+      "population": 8
+    },
+    {
+      "year": 2008,
+      "population": 9
+    },
+    {
+      "year": 2009,
+      "population": 8
+    },
+    {
+      "year": 2010,
+      "population": 9
+    },
+    {
+      "year": 2011,
+      "population": 12
+    },
+    {
+      "year": 2012,
+      "population": 9
+    },
+    {
+      "year": 2013,
+      "population": 7
+    },
+    {
+      "year": 2014,
+      "population": 7
+    },
+    {
+      "year": 2015,
+      "population": 7
+    },
+    {
+      "year": 2016,
+      "population": 8
+    },
+    {
+      "year": 2017,
+      "population": 9
+    },
+    {
+      "year": 2018,
+      "population": 8
+    },
+    {
+      "year": 2019,
+      "population": 8
+    },
+    {
+      "year": 2020,
+      "population": 7
+    },
+    {
+      "year": 2021,
+      "population": 6
+    },
+    {
+      "year": 2022,
+      "population": 8
+    },
+    {
+      "year": 2023,
+      "population": 6
+    },
+    {
+      "year": 2024,
+      "population": 5
+    },
+    {
+      "year": 2025,
+      "population": 7
+    }
+  ],
+  "八丈支庁": [
+    {
+      "year": 1979,
+      "population": 0
+    },
+    {
+      "year": 1980,
+      "population": 0
+    },
+    {
+      "year": 1981,
+      "population": 1
+    },
+    {
+      "year": 1982,
+      "population": 1
+    },
+    {
+      "year": 1983,
+      "population": 1
+    },
+    {
+      "year": 1984,
+      "population": 1
+    },
+    {
+      "year": 1985,
+      "population": 2
+    },
+    {
+      "year": 1986,
+      "population": 0
+    },
+    {
+      "year": 1987,
+      "population": 4
+    },
+    {
+      "year": 1988,
+      "population": 1
+    },
+    {
+      "year": 1989,
+      "population": 1
+    },
+    {
+      "year": 1990,
+      "population": 1
+    },
+    {
+      "year": 1991,
+      "population": 1
+    },
+    {
+      "year": 1992,
+      "population": 2
+    },
+    {
+      "year": 1993,
+      "population": 3
+    },
+    {
+      "year": 1994,
+      "population": 3
+    },
+    {
+      "year": 1995,
+      "population": 3
+    },
+    {
+      "year": 1996,
+      "population": 10
+    },
+    {
+      "year": 1997,
+      "population": 12
+    },
+    {
+      "year": 1998,
+      "population": 1
+    },
+    {
+      "year": 1999,
+      "population": 1
+    },
+    {
+      "year": 2000,
+      "population": 3
+    },
+    {
+      "year": 2001,
+      "population": 5
+    },
+    {
+      "year": 2002,
+      "population": 4
+    },
+    {
+      "year": 2003,
+      "population": 6
+    },
+    {
+      "year": 2004,
+      "population": 6
+    },
+    {
+      "year": 2005,
+      "population": 2
+    },
+    {
+      "year": 2006,
+      "population": 5
+    },
+    {
+      "year": 2007,
+      "population": 5
+    },
+    {
+      "year": 2008,
+      "population": 6
+    },
+    {
+      "year": 2009,
+      "population": 4
+    },
+    {
+      "year": 2010,
+      "population": 6
+    },
+    {
+      "year": 2011,
+      "population": 5
+    },
+    {
+      "year": 2012,
+      "population": 5
+    },
+    {
+      "year": 2013,
+      "population": 5
+    },
+    {
+      "year": 2014,
+      "population": 4
+    },
+    {
+      "year": 2015,
+      "population": 4
+    },
+    {
+      "year": 2016,
+      "population": 4
+    },
+    {
+      "year": 2017,
+      "population": 3
+    },
+    {
+      "year": 2018,
+      "population": 3
+    },
+    {
+      "year": 2019,
+      "population": 4
+    },
+    {
+      "year": 2020,
+      "population": 4
+    },
+    {
+      "year": 2021,
+      "population": 4
+    },
+    {
+      "year": 2022,
+      "population": 5
+    },
+    {
+      "year": 2023,
+      "population": 5
+    },
+    {
+      "year": 2024,
+      "population": 8
+    },
+    {
+      "year": 2025,
+      "population": 6
+    }
+  ],
+  "三宅支庁": [
+    {
+      "year": 1979,
+      "population": 0
+    },
+    {
+      "year": 1980,
+      "population": 0
+    },
+    {
+      "year": 1981,
+      "population": 0
+    },
+    {
+      "year": 1982,
+      "population": 0
+    },
+    {
+      "year": 1983,
+      "population": 0
+    },
+    {
+      "year": 1984,
+      "population": 0
+    },
+    {
+      "year": 1985,
+      "population": 0
+    },
+    {
+      "year": 1986,
+      "population": 0
+    },
+    {
+      "year": 1987,
+      "population": 0
+    },
+    {
+      "year": 1988,
+      "population": 0
+    },
+    {
+      "year": 1989,
+      "population": 0
+    },
+    {
+      "year": 1990,
+      "population": 0
+    },
+    {
+      "year": 1991,
+      "population": 0
+    },
+    {
+      "year": 1992,
+      "population": 0
+    },
+    {
+      "year": 1993,
+      "population": 0
+    },
+    {
+      "year": 1994,
+      "population": 0
+    },
+    {
+      "year": 1995,
+      "population": 0
+    },
+    {
+      "year": 1996,
+      "population": 0
+    },
+    {
+      "year": 1997,
+      "population": 0
+    },
+    {
+      "year": 1998,
+      "population": 0
+    },
+    {
+      "year": 1999,
+      "population": 0
+    },
+    {
+      "year": 2000,
+      "population": 2
+    },
+    {
+      "year": 2001,
+      "population": 3
+    },
+    {
+      "year": 2002,
+      "population": 4
+    },
+    {
+      "year": 2003,
+      "population": 4
+    },
+    {
+      "year": 2004,
+      "population": 4
+    },
+    {
+      "year": 2005,
+      "population": 4
+    },
+    {
+      "year": 2006,
+      "population": 0
+    },
+    {
+      "year": 2007,
+      "population": 0
+    },
+    {
+      "year": 2008,
+      "population": 1
+    },
+    {
+      "year": 2009,
+      "population": 1
+    },
+    {
+      "year": 2010,
+      "population": 2
+    },
+    {
+      "year": 2011,
+      "population": 2
+    },
+    {
+      "year": 2012,
+      "population": 2
+    },
+    {
+      "year": 2013,
+      "population": 2
+    },
+    {
+      "year": 2014,
+      "population": 1
+    },
+    {
+      "year": 2015,
+      "population": 1
+    },
+    {
+      "year": 2016,
+      "population": 0
+    },
+    {
+      "year": 2017,
+      "population": 1
+    },
+    {
+      "year": 2018,
+      "population": 0
+    },
+    {
+      "year": 2019,
+      "population": 0
+    },
+    {
+      "year": 2020,
+      "population": 0
+    },
+    {
+      "year": 2021,
+      "population": 0
+    },
+    {
+      "year": 2022,
+      "population": 0
+    },
+    {
+      "year": 2023,
+      "population": 0
+    },
+    {
+      "year": 2024,
+      "population": 0
+    },
+    {
+      "year": 2025,
+      "population": 2
+    }
+  ],
+  "小笠原支庁": [
+    {
+      "year": 1979,
+      "population": 0
+    },
+    {
+      "year": 1980,
+      "population": 0
+    },
+    {
+      "year": 1981,
+      "population": 0
+    },
+    {
+      "year": 1982,
+      "population": 0
+    },
+    {
+      "year": 1983,
+      "population": 0
+    },
+    {
+      "year": 1984,
+      "population": 0
+    },
+    {
+      "year": 1985,
+      "population": 0
+    },
+    {
+      "year": 1986,
+      "population": 0
+    },
+    {
+      "year": 1987,
+      "population": 0
+    },
+    {
+      "year": 1988,
+      "population": 0
+    },
+    {
+      "year": 1989,
+      "population": 0
+    },
+    {
+      "year": 1990,
+      "population": 0
+    },
+    {
+      "year": 1991,
+      "population": 0
+    },
+    {
+      "year": 1992,
+      "population": 0
+    },
+    {
+      "year": 1993,
+      "population": 0
+    },
+    {
+      "year": 1994,
+      "population": 0
+    },
+    {
+      "year": 1995,
+      "population": 1
+    },
+    {
+      "year": 1996,
+      "population": 1
+    },
+    {
+      "year": 1997,
+      "population": 1
+    },
+    {
+      "year": 1998,
+      "population": 1
+    },
+    {
+      "year": 1999,
+      "population": 2
+    },
+    {
+      "year": 2000,
+      "population": 1
+    },
+    {
+      "year": 2001,
+      "population": 1
+    },
+    {
+      "year": 2002,
+      "population": 0
+    },
+    {
+      "year": 2003,
+      "population": 0
+    },
+    {
+      "year": 2004,
+      "population": 0
+    },
+    {
+      "year": 2005,
+      "population": 0
+    },
+    {
+      "year": 2006,
+      "population": 1
+    },
+    {
+      "year": 2007,
+      "population": 1
+    },
+    {
+      "year": 2008,
+      "population": 0
+    },
+    {
+      "year": 2009,
+      "population": 0
+    },
+    {
+      "year": 2010,
+      "population": 0
+    },
+    {
+      "year": 2011,
+      "population": 2
+    },
+    {
+      "year": 2012,
+      "population": 2
+    },
+    {
+      "year": 2013,
+      "population": 2
+    },
+    {
+      "year": 2014,
+      "population": 2
+    },
+    {
+      "year": 2015,
+      "population": 2
+    },
+    {
+      "year": 2016,
+      "population": 2
+    },
+    {
+      "year": 2017,
+      "population": 2
+    },
+    {
+      "year": 2018,
+      "population": 1
+    },
+    {
+      "year": 2019,
+      "population": 1
+    },
+    {
+      "year": 2020,
+      "population": 1
+    },
+    {
+      "year": 2021,
+      "population": 1
+    },
+    {
+      "year": 2022,
+      "population": 1
+    },
+    {
+      "year": 2023,
+      "population": 2
+    },
+    {
+      "year": 2024,
+      "population": 1
+    },
+    {
+      "year": 2025,
+      "population": 1
+    }
+  ]
+}
