@@ -365,7 +365,13 @@ function initSlider() {
             max: yearExtent.max
         },
         format,
-        tooltips: [format, format]
+        tooltips: [format, format],
+        pips: {
+            mode: 'count',
+            values: 6,
+            density: 4,
+            format
+        }
     });
 
     updateYearRangeLabel(selectedYearRange);
