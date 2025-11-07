@@ -14,10 +14,6 @@
         <p class="subtitle">自治体別折れ線グラフ (1979-2025年)</p>
 
         <div class="controls">
-            <div class="control-group">
-                <button id="downloadSVG">SVGダウンロード</button>
-                <button id="downloadPNG">PNGダウンロード</button>
-            </div>
             <div class="control-group range-control">
                 <div class="range-label">
                     表示年範囲: <span id="yearRangeLabel">-</span>
@@ -36,12 +32,19 @@
                     <div class="legend-container">
                         <div class="legend" id="legend"></div>
                     </div>
-                    <div class="buttons-container">
-                        <button id="selectAll">すべて表示</button>
-                        <button id="clearAll">すべて非表示</button>
-                        <button id="select23">23区</button>
-                        <button id="selectTama">多摩地域</button>
-                        <button id="selectIslands">島嶼部</button>
+                    <div class="actions-column">
+                        <div class="buttons-container">
+                            <button id="selectAll">すべて表示</button>
+                            <button id="clearAll">すべて非表示</button>
+                            <button id="select23">23区</button>
+                            <button id="selectTama">多摩地域</button>
+                            <button id="selectIslands">島嶼部</button>
+                        </div>
+                        <div class="download-container">
+                            <div class="download-label">エクスポート</div>
+                            <button id="downloadPNG">PNGダウンロード</button>
+                            <button id="downloadSVG">SVGダウンロード</button>
+                        </div>
                     </div>
                 </div>
             </div>

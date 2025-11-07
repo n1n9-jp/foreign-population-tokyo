@@ -165,6 +165,13 @@ button.active {
     align-items: flex-start;
 }
 
+.actions-column {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-width: 160px;
+}
+
 .legend-note {
     font-size: 12px;
     color: #666;
@@ -351,7 +358,8 @@ svg {
     min-width: 120px;
 }
 
-.buttons-container button {
+.buttons-container button,
+.download-container button {
     padding: 8px 12px;
     background: #667eea;
     color: white;
@@ -365,8 +373,28 @@ svg {
     white-space: nowrap;
 }
 
-.buttons-container button:hover {
+.buttons-container button:hover,
+.download-container button:hover {
     background: #764ba2;
+}
+
+.download-container {
+    background: #fff;
+    border-radius: 10px;
+    border: 1px solid #e0e0e0;
+    padding: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.download-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #555;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 
 @media (max-width: 1200px) {
@@ -382,12 +410,17 @@ svg {
         flex-direction: column;
     }
 
+    .actions-column {
+        width: 100%;
+    }
+
     .legend-container {
         width: 100%;
         max-height: 150px;
     }
 
-    .buttons-container {
+    .buttons-container,
+    .download-container {
         width: 100%;
     }
 
