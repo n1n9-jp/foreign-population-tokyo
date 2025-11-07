@@ -3,6 +3,7 @@ let data = {};
 let visibleWards = new Set();
 let yearExtent = { min: Infinity, max: -Infinity };
 let selectedYearRange = null;
+let suppressSliderChange = false;
 
 // 自治体のカテゴリー分類
 const wards23 = ['千代田区', '中央区', '港区', '新宿区', '渋谷区', '目黒区', '大田区', '品川区', '世田谷区', '中野区', '杉並区', '豊島区', '北区', '荒川区', '台東区', '墨田区', '江東区', '江戸川区', '葛飾区', '板橋区', '練馬区', '足立区', '文京区'];
@@ -139,6 +140,9 @@ function initChart() {
 
     d3.select('#downloadSVG').on('click', downloadSVG);
     d3.select('#downloadPNG').on('click', downloadPNG);
+    d3.select('#rangeAllYears').on('click', () => setYearRange(yearExtent.min, yearExtent.max));
+    d3.select('#rangeEarlyYears').on('click', () => setYearRange(Math.max(yearExtent.min, 1979), Math.min(yearExtent.max, 1999)));
+    d3.select('#rangeRecentYears').on('click', () => setYearRange(Math.max(yearExtent.min, 2000), Math.min(yearExtent.max, 2025)));
 
     updateChart();
 }
@@ -383,11 +387,36 @@ function initSlider() {
     });
 
     sliderElement.noUiSlider.on('change', (values) => {
+        if (suppressSliderChange) {
+            return;
+        }
         const start = Math.round(Number(values[0]));
         const end = Math.round(Number(values[1]));
         selectedYearRange = [start, end];
         updateChart();
     });
+}
+
+function setYearRange(start, end) {
+    if (!selectedYearRange) {
+        return;
+    }
+
+    const clampedStart = Math.max(yearExtent.min, Math.min(yearExtent.max, start));
+    const clampedEnd = Math.max(clampedStart, Math.min(yearExtent.max, end));
+    selectedYearRange = [clampedStart, clampedEnd];
+    updateYearRangeLabel(selectedYearRange);
+
+    const sliderElement = document.getElementById('yearSlider');
+    const slider = sliderElement ? sliderElement.noUiSlider : null;
+
+    if (slider) {
+        suppressSliderChange = true;
+        slider.set(selectedYearRange);
+        suppressSliderChange = false;
+    }
+
+    updateChart();
 }
 
 function collectCssText() {
